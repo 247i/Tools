@@ -1,0 +1,1546 @@
+﻿[000088F4] 2026-09-11 12:49:13 --> wmain
+[000088F4] 2026-09-11 12:49:13     _tmain: executing, argv[1] = -n.
+[000088F4] 2026-09-11 12:49:13     _tmain: executing, argv[2] = -check_dll.
+[000088F4] 2026-09-11 12:49:13 --> getInUseProcesses
+[000088F4] 2026-09-11 12:49:13 --> enumProcesses
+[000088F4] 2026-09-11 12:49:13 --> getNpcapPIDs
+[000088F4] 2026-09-11 12:49:13 <-- getNpcapPIDs
+[000088F4] 2026-09-11 12:49:13     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = System, dwProcessID = 4.
+[000088F4] 2026-09-11 12:49:13     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = Registry, dwProcessID = 320.
+[000088F4] 2026-09-11 12:49:13     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = smss.exe, dwProcessID = 960.
+[000088F4] 2026-09-11 12:49:13     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = csrss.exe, dwProcessID = 1252.
+[000088F4] 2026-09-11 12:49:13     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = wininit.exe, dwProcessID = 1344.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = csrss.exe, dwProcessID = 1364.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = services.exe, dwProcessID = 1468.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = lsass.exe, dwProcessID = 1512.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = Memory Compression, dwProcessID = 3208.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = MpDefenderCoreService.exe, dwProcessID = 4200.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = MsMpEng.exe, dwProcessID = 4644.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = NisSrv.exe, dwProcessID = 12920.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = SecurityHealthService.exe, dwProcessID = 18740.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = svchost.exe, dwProcessID = 25072.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = sppsvc.exe, dwProcessID = 22036.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = svchost.exe, dwProcessID = 28908.
+[000088F4] 2026-09-11 12:49:14     enumDLLs::OpenProcess: error, errCode = 0x00000005, strProcessName = svchost.exe, dwProcessID = 32476.
+[000088F4] 2026-09-11 12:49:14 <-- enumProcesses
+[000088F4] 2026-09-11 12:49:14 <-- getInUseProcesses
+[000088F4] 2026-09-11 12:49:14     <-- _tmain: succeed, nStatus = 0.
+[00009190] 2026-09-11 12:49:18 --> wmain
+[00009190] 2026-09-11 12:49:18     _tmain: executing, argv[1] = -n.
+[00009190] 2026-09-11 12:49:18     _tmain: executing, argv[2] = -c.
+[00009190] 2026-09-11 12:49:18 --> ClearDriverStore
+[00009190] 2026-09-11 12:49:18 --> executeCommand
+[00009190] 2026-09-11 12:49:18     executeCommand: executing, strCmd = pnputil.exe -e.
+[00009190] 2026-09-11 12:49:18     executeCommand: result = Microsoft PnP Utility
+
+Published name :            oem25.inf
+Driver package provider :   INTEL
+Class :                     System devices
+Driver date and version :   07/18/1968 10.1.37.7
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem117.inf
+Driver package provider :   Copper Mountain Technologies, http://www.coppermountaintech.com
+Class :                     Universal Serial Bus controllers
+Driver date and version :   01/14/2020 3.4.1.41
+Signer name :               Copper Mountain Technologies, LLC
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem77.inf
+Driver package provider :   Dell
+Class :                     Extensions
+Driver date and version :   02/06/2024 1.13.2.96
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem9.inf
+Driver package provider :   Dell, Inc.
+Class :                     Firmware
+Driver date and version :   05/22/2026 0.1.26.1
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem88.inf
+Driver package provider :   Dell, Inc.
+Class :                     Firmware
+Driver date and version :   05/31/2026 0.1.27.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem33.inf
+Driver package provider :   Dell, Inc.
+Class :                     Firmware
+Driver date and version :   08/30/2024 11.60.1.4
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem156.inf
+Driver package provider :   Dell, Inc.
+Class :                     Firmware
+Driver date and version :   05/12/2026 11.60.1.6
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem30.inf
+Driver package provider :   Intel Corporation
+Class :                     System devices
+Driver date and version :   11/26/2021 3.0.0.1457
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem161.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem137.inf
+Driver package provider :   Realtek Semiconductor Corp.
+Class :                     Extensions
+Driver date and version :   05/13/2025 6.0.9835.1
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem84.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   08/15/2024 2433.6.3.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem7.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   01/13/2026 2603.9.4.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem142.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   09/28/2025 2540.8.7.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem0.inf
+Driver package provider :   Intel(R) Corporation
+Class :                     Human Interface Devices
+Driver date and version :   04/19/2023 2.2.2.5
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem62.inf
+Driver package provider :   Intel Corporation
+Class :                     System devices
+Driver date and version :   07/13/2023 30.100.2328.32
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem155.inf
+Driver package provider :   Intel Corporation
+Class :                     System devices
+Driver date and version :   07/30/2025 30.100.2531.31
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem147.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   08/05/2025 16.1.0.257
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem91.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   01/23/2025 32.0.101.6556
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem61.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   08/19/2025 32.0.101.7026
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem49.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   06/17/2026 32.0.101.7088
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem136.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   06/04/2025 32.0.101.6881
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem141.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   01/15/2026 32.0.101.7084
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem75.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   07/11/2023 31.0.101.4575
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem86.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   09/13/2024 32.0.101.6078
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem18.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   09/13/2024 32.0.101.6078
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem56.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   09/16/2025 32.0.101.7077
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem21.inf
+Driver package provider :   Intel Corporation
+Class :                     Extensions
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem169.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   05/01/2026 2.3.20304.7
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem151.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   01/14/2026 2.3.20303.5058
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem85.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   01/14/2026 2.3.20303.5058
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem170.inf
+Driver package provider :   Intel
+Class :                     System devices
+Driver date and version :   05/01/2026 2.3.20304.7
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem162.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem108.inf
+Driver package provider :   National Instruments
+Class :                     Ports (COM & LPT)
+Driver date and version :   07/21/2020 20.0.0.49152
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem52.inf
+Driver package provider :   National Instruments
+Class :                     System devices
+Driver date and version :   03/27/2025 25.3.0.49362
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem6.inf
+Driver package provider :   National Instruments
+Class :                     System devices
+Driver date and version :   03/27/2025 25.3.0.49293
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem50.inf
+Driver package provider :   National Instruments
+Class :                     System devices
+Driver date and version :   04/27/2016 1.0.0.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem13.inf
+Driver package provider :   National Instruments
+Class :                     Ports (COM & LPT)
+Driver date and version :   01/08/2025 25.0.0.49247
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem57.inf
+Driver package provider :   National Instruments
+Class :                     Ports (COM & LPT)
+Driver date and version :   01/08/2025 25.0.0.49247
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem45.inf
+Driver package provider :   National Instruments
+Class :                     System devices
+Driver date and version :   01/09/2025 25.0.0.49286
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem139.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem72.inf
+Driver package provider :   RICOH
+Class :                     Extensions
+Driver date and version :   06/22/2026 1.2.1.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem38.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem154.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem168.inf
+Driver package provider :   Intel
+Class :                     Extensions
+Driver date and version :   02/11/2026 267.102.85.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem74.inf
+Driver package provider :   IVI Foundation, Inc
+Class :                     USB Test and Measurement Devices
+Driver date and version :   08/14/2013 16.3.17614.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem143.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   08/19/2025 32.0.101.7026
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem138.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   06/04/2025 32.0.101.6881
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem42.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   01/15/2026 32.0.101.7084
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem10.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   09/13/2024 32.0.101.6078
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem140.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   09/16/2025 32.0.101.7077
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem158.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem69.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   03/31/2024 1.46.2024.221
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem44.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   07/11/2023 1.44.2023.710
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem29.inf
+Driver package provider :   Intel
+Class :                     Network adapters
+Driver date and version :   02/19/2025 12.19.2.64
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem48.inf
+Driver package provider :   Intel
+Class :                     Network adapters
+Driver date and version :   11/16/2025 12.19.2.66
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem63.inf
+Driver package provider :   National Instruments
+Class :                     NI GPIB Interfaces
+Driver date and version :   01/09/2025 25.0.0.49243
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem1.inf
+Driver package provider :   Realtek Semiconductor Corp.
+Class :                     Sound, video and game controllers
+Driver date and version :   02/27/2024 6.0.9649.1
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem149.inf
+Driver package provider :   hp
+Class :                     Printers
+Driver date and version :   11/21/2018 8.0.1329.5901
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem87.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   08/01/2024 1.74.210.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem76.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   07/11/2023 31.0.101.4575
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem8.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   09/13/2024 32.0.101.6078
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem163.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   08/05/2025 16.1.0.257
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem160.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem153.inf
+Driver package provider :   Intel Corporation
+Class :                     Software components
+Driver date and version :   01/15/2026 32.0.101.7084
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem157.inf
+Driver package provider :   Intel Corporation
+Class :                     Display adapters
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem19.inf
+Driver package provider :   Intel(R) Corporation
+Class :                     Sound, video and game controllers
+Driver date and version :   05/18/2023 11.2.0.12
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem148.inf
+Driver package provider :   Intel(R) Corporation
+Class :                     Sound, video and game controllers
+Driver date and version :   06/16/2025 11.2.0.15
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem146.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   11/13/2025 2546.9.2.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem152.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   05/27/2025 2522.8.2.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem166.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem159.inf
+Driver package provider :   Intel Corporation
+Class :                     Sound, video and game controllers
+Driver date and version :   03/03/2026 32.0.101.7085
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem144.inf
+Driver package provider :   Intel Corporation
+Class :                     Sound, video and game controllers
+Driver date and version :   08/19/2025 32.0.101.7026
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem37.inf
+Driver package provider :   NationalInstruments
+Class :                     Network adapters
+Driver date and version :   09/18/2018 2.4.12.1
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem54.inf
+Driver package provider :   National Instruments
+Class :                     NI PXI Chassis Trigger Routers
+Driver date and version :   03/28/2025 25.3.0.49363
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem128.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/04/2021 21.0.0.49540
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem94.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49288
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem105.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49427
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem104.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49427
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem106.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49427
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem17.inf
+Driver package provider :   National Instruments
+Class :                     NI GPIB Interfaces
+Driver date and version :   01/10/2025 25.0.0.49244
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem101.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   04/01/2025 25.3.0.49310
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem100.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   03/31/2025 25.3.0.49292
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem99.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   03/31/2025 25.3.0.49292
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem97.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49309
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem118.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem131.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/04/2021 21.0.0.49540
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem132.inf
+Driver package provider :   National Instruments
+Class :                     Other devices
+Driver date and version :   11/30/2009 0.0.0.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem109.inf
+Driver package provider :   National Instruments
+Class :                     NI USB Sensors
+Driver date and version :   07/07/2014 0.0.1.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem110.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   07/16/2020 20.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem119.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem133.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem130.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49540
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem129.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49540
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem14.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/01/2014 0.0.0.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem93.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49235
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem122.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   06/06/2019 19.0.0.49153
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem64.inf
+Driver package provider :   National Instruments
+Class :                     NI-845x Devices
+Driver date and version :   07/24/2014 2.1.3.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem103.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49427
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem102.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/31/2025 25.3.0.49300
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem15.inf
+Driver package provider :   National Instruments
+Class :                     NI System Monitoring Devices
+Driver date and version :   03/28/2025 25.3.0.49363
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem28.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem53.inf
+Driver package provider :   National Instruments
+Class :                     NI Controllers
+Driver date and version :   03/30/2025 25.3.0.49367
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem46.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem31.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem11.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem120.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/01/2019 19.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem34.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem41.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem73.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem124.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   07/14/2021 21.0.0.49343
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem123.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   07/14/2021 21.0.0.49343
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem121.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   06/06/2019 19.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem111.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   07/16/2021 21.0.0.49346
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem112.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   07/14/2021 21.0.0.49343
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem47.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem98.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   03/31/2025 25.3.0.49303
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem125.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   08/03/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem116.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   03/16/2020 1.1.0.49152
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem68.inf
+Driver package provider :   National Instruments
+Class :                     NI MXI Devices
+Driver date and version :   03/29/2025 25.3.0.49366
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem20.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem39.inf
+Driver package provider :   AMD Inc.
+Class :                     Network adapters
+Driver date and version :   01/14/2008 4.51.0.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem107.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   03/30/2025 25.3.0.49423
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem55.inf
+Driver package provider :   National Instruments
+Class :                     NI PXI Chassis Components
+Driver date and version :   03/30/2025 25.3.0.49367
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem24.inf
+Driver package provider :   National Instruments
+Class :                     NI PXI Platform Module
+Driver date and version :   03/28/2025 25.3.0.49363
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem3.inf
+Driver package provider :   National Instruments
+Class :                     NI PXI Platform Module
+Driver date and version :   03/28/2025 25.3.0.49363
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem16.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem127.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   08/05/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem134.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   08/06/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem113.inf
+Driver package provider :   NI
+Class :                     NI RIO Devices
+Driver date and version :   04/09/2021 20.7.0.49238
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem114.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   03/16/2018 18.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem92.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   03/31/2025 25.3.0.49258
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem115.inf
+Driver package provider :   National Instruments
+Class :                     NI RIO Devices
+Driver date and version :   03/21/2019 19.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem78.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem60.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem40.inf
+Driver package provider :   National Instruments
+Class :                     NI-Serial Peripherals
+Driver date and version :   01/08/2025 25.0.0.49247
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem59.inf
+Driver package provider :   National Instruments
+Class :                     NI-Serial USB/ExpressCard perf
+Driver date and version :   01/08/2025 25.0.0.49247
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem12.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/01/2014 0.0.0.0
+Signer name :               National Instruments Corporation
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem95.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   03/30/2025 25.3.0.49287
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem71.inf
+Driver package provider :   National Instruments
+Class :                     NI SMBus Controllers
+Driver date and version :   03/31/2025 25.3.0.49368
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem96.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   03/30/2025 25.3.0.49304
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem43.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem2.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem5.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem27.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   01/12/2025 25.0.0.49295
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem35.inf
+Driver package provider :   National Instruments
+Class :                     Network adapters
+Driver date and version :   01/08/2025 25.0.0.49286
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem79.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem126.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   08/05/2021 21.0.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem26.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   01/12/2025 25.0.0.49295
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem65.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem51.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem66.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem22.inf
+Driver package provider :   Microsoft
+Class :                     Printers
+Driver date and version :   06/21/2006 10.0.26100.4946
+Signer name :               Microsoft Windows
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem150.inf
+Driver package provider :   Ricoh
+Class :                     Printers
+Driver date and version :   11/14/2025 4.44.0.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem81.inf
+Driver package provider :   Dell Inc.
+Class :                     Monitors
+Driver date and version :   05/02/2013 1.0.0.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem90.inf
+Driver package provider :   Dell Inc.
+Class :                     Monitors
+Driver date and version :   07/09/2024 1.0.0.1
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem165.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem83.inf
+Driver package provider :   Microsoft
+Class :                     Printers
+Driver date and version :   06/21/2006 10.0.26100.1
+Signer name :               Microsoft Windows
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem82.inf
+Driver package provider :   Microsoft
+Class :                     Printers
+Driver date and version :   06/21/2006 10.0.26100.1882
+Signer name :               Microsoft Windows
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem58.inf
+Driver package provider :   Realtek
+Class :                     Audio Processing Objects (APOs)
+Driver date and version :   01/23/2024 13.0.6000.1167
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem80.inf
+Driver package provider :   Realtek
+Class :                     Software components
+Driver date and version :   02/23/2024 1.0.11.2
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem36.inf
+Driver package provider :   Realtek
+Class :                     Software components
+Driver date and version :   02/27/2024 1.0.732.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem135.inf
+Driver package provider :   National Instruments
+Class :                     NI Modular Instruments
+Driver date and version :   09/02/2020 1.2.0.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem164.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem167.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   03/12/2026 3.4.1007.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published name :            oem70.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   04/09/2025 25.3.1.49152
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem32.inf
+Driver package provider :   National Instruments
+Class :                     NI Data Acquisition Devices
+Driver date and version :   06/24/2021 20.0.0.49153
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published name :            oem23.inf
+Driver package provider :   Microsoft Corporation
+Class :                     Audio Processing Objects (APOs)
+Driver date and version :   05/04/2026 1.0.3.56670
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem67.inf
+Driver package provider :   Microsoft Corporation
+Class :                     Audio Processing Objects (APOs)
+Driver date and version :   06/16/2026 1.0.4.7057
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem4.inf
+Driver package provider :   Waves
+Class :                     Audio Processing Objects (APOs)
+Driver date and version :   02/13/2024 13.2.0.15648
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published name :            oem89.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   02/11/2026 267.102.85.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published name :            oem145.inf
+Driver package provider :   Intel
+Class :                     Software components
+Driver date and version :   10/20/2025 2543.98.178.0
+Signer name :               Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+.
+[00009190] 2026-09-11 12:49:18 <-- executeCommand
+[00009190] 2026-09-11 12:49:18 --> getInfNamesFromPnpUtilOutput
+[00009190] 2026-09-11 12:49:18 <-- getInfNamesFromPnpUtilOutput
+[00009190] 2026-09-11 12:49:18 <-- ClearDriverStore
+[00009190] 2026-09-11 12:49:18     <-- _tmain: succeed, nStatus = 0.
+[000077B4] 2026-09-11 12:49:18 --> wmain
+[000077B4] 2026-09-11 12:49:18     _tmain: executing, argv[1] = -n.
+[000077B4] 2026-09-11 12:49:18     _tmain: executing, argv[2] = -iw.
+[000077B4] 2026-09-11 12:49:18 --> InstallWFPCallout
+[000077B4] 2026-09-11 12:49:18 --> GetWFPCalloutInfFilePath
+[000077B4] 2026-09-11 12:49:18     lpFilename = C:\Program Files\Npcap\NPCAP_wfp.inf
+[000077B4] 2026-09-11 12:49:18 <-- GetWFPCalloutInfFilePath
+[000077B4] 2026-09-11 12:49:18 --> isFileExist
+[000077B4] 2026-09-11 12:49:18     FindFirstFile: succeed, szFileFullPath = C:\Program Files\Npcap\NPCAP_wfp.inf.
+[000077B4] 2026-09-11 12:49:18 <-- isFileExist
+[000077B4] 2026-09-11 12:49:18     LaunchINFSectionEx: executing, szCmd = C:\Program Files\Npcap\NPCAP_wfp.inf,DefaultInstall,,36,N.
+[000077B4] 2026-09-11 12:49:18 <-- InstallWFPCallout
+[000077B4] 2026-09-11 12:49:18     <-- _tmain: succeed, nStatus = 0.
+[0000108C] 2026-09-11 12:49:18 --> wmain
+[0000108C] 2026-09-11 12:49:18     _tmain: executing, argv[1] = -n.
+[0000108C] 2026-09-11 12:49:18     _tmain: executing, argv[2] = -i.
+[0000108C] 2026-09-11 12:49:18 --> UninstallDriver
+[0000108C] 2026-09-11 12:49:18 --> HrGetINetCfg
+[0000108C] 2026-09-11 12:49:18 <-- HrGetINetCfg
+[0000108C] 2026-09-11 12:49:18     bWiFiService = 0.
+[0000108C] 2026-09-11 12:49:18     HrUninstallNetComponent: executing, szComponentId = INSECURE_NPCAP.
+[0000108C] 2026-09-11 12:49:18 --> HrUninstallNetComponent
+[0000108C] 2026-09-11 12:49:18     Error 0x1: Couldn't get an interface pointer to INSECURE_NPCAP.
+
+Possible cause:
+
+Incorrect function.
+
+[0000108C] 2026-09-11 12:49:18 <-- HrUninstallNetComponent
+[0000108C] 2026-09-11 12:49:18     Error 0x1: Couldn't uninstall the network component.
+
+Possible cause:
+
+Incorrect function.
+
+[0000108C] 2026-09-11 12:49:19 --> HrReleaseINetCfg
+[0000108C] 2026-09-11 12:49:19 <-- HrReleaseINetCfg
+[0000108C] 2026-09-11 12:49:19 <-- UninstallDriver
+[0000108C] 2026-09-11 12:49:19 --> InstallDriver
+[0000108C] 2026-09-11 12:49:19 --> GetServiceInfFilePath
+[0000108C] 2026-09-11 12:49:19     lpFilename = C:\Program Files\Npcap\NPCAP.inf
+[0000108C] 2026-09-11 12:49:19 <-- GetServiceInfFilePath
+[0000108C] 2026-09-11 12:49:19 --> InstallSpecifiedComponent
+[0000108C] 2026-09-11 12:49:19 --> HrGetINetCfg
+[0000108C] 2026-09-11 12:49:19 <-- HrGetINetCfg
+[0000108C] 2026-09-11 12:49:19 --> HrInstallNetComponent
+[0000108C] 2026-09-11 12:49:19     bWiFiService = 0.
+[0000108C] 2026-09-11 12:49:19     HrInstallComponent: executing, szComponentId = INSECURE_NPCAP.
+[0000108C] 2026-09-11 12:49:19 --> HrInstallComponent
+[0000108C] 2026-09-11 12:49:20 <-- HrInstallComponent
+[0000108C] 2026-09-11 12:49:20 <-- HrInstallNetComponent
+[0000108C] 2026-09-11 12:49:20 --> HrReleaseINetCfg
+[0000108C] 2026-09-11 12:49:20 <-- HrReleaseINetCfg
+[0000108C] 2026-09-11 12:49:20 <-- InstallSpecifiedComponent
+[0000108C] 2026-09-11 12:49:20 <-- InstallDriver
+[0000108C] 2026-09-11 12:49:20     <-- _tmain: succeed, nStatus = 0.
