@@ -1,0 +1,401 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-21 15:05+0800\n"
+"PO-Revision-Date: 2024-10-11 00:13+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "Accessible Description"
+msgstr "அணுகக்கூடிய விளக்கம்"
+
+msgid "Accessible Layer"
+msgstr "அணுகக்கூடிய அடுக்கு"
+
+msgid "Accessible MDI Value"
+msgstr "அணுகக்கூடிய MDI மதிப்பு"
+
+msgid "Accessible Name"
+msgstr "அணுகக்கூடிய பெயர்"
+
+msgid "Accessible Parent"
+msgstr "அணுகக்கூடிய பெற்றோர்"
+
+msgid "Accessible Role"
+msgstr "அணுகக்கூடிய பங்கு"
+
+msgid "Accessible Table Caption"
+msgstr "அணுகக்கூடிய அட்டவணை தலைப்பு"
+
+msgid "Accessible Table Caption Object"
+msgstr "அணுகக்கூடிய அட்டவணை தலைப்பு பொருள்"
+
+msgid "Accessible Table Column Description"
+msgstr "அணுகக்கூடிய அட்டவணை நெடுவரிசை விளக்கம்"
+
+msgid "Accessible Table Column Header"
+msgstr "அணுகக்கூடிய அட்டவணை நெடுவரிசை தலைப்பு"
+
+msgid "Accessible Table Row Description"
+msgstr "அணுகக்கூடிய அட்டவணை வரிசை விளக்கம்"
+
+msgid "Accessible Table Row Header"
+msgstr "அணுகக்கூடிய அட்டவணை வரிசை தலைப்பு"
+
+msgid "Accessible Table Summary"
+msgstr "அணுகக்கூடிய அட்டவணை சுருக்கம்"
+
+msgid "Accessible Value"
+msgstr "அணுகக்கூடிய மதிப்பு"
+
+msgid "Description of an object, formatted for assistive technology access"
+msgstr "ஒரு பொருளின் விளக்கம், உதவி தொழில்நுட்ப அணுகலுக்காக வடிவமைக்கப்பட்டது"
+
+msgid "End index"
+msgstr "உள்ளடக்க அட்டவணையின் முடிவு"
+
+msgid "Is used to notify that the parent has changed"
+msgstr "பெற்றோர் மாறியதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the table caption has changed"
+msgstr "அட்டவணை தலைப்பு மாறியதை தெரிவிக்க பயன்படுகிறது"
+
+msgid ""
+"Is used to notify that the table caption has changed; this property should "
+"not be used. accessible-table-caption-object should be used instead"
+msgstr ""
+"அட்டவணையின் தலைப்பு மாறிவிட்டது என்பதைத் தெரிவிக்கப் பயன்படுகிறது; இந்த "
+"பண்பைப் பயன்படுத்தக்கூடாது. அதற்கு பதிலாக அணுகக்கூடிய-அட்டவணை-தலைப்பு-பொருள்"
+" பயன்படுத்தப்பட வேண்டும்"
+
+msgid "Is used to notify that the table column description has changed"
+msgstr "அட்டவணை நெடுவரிசை விளக்கம் மாறிவிட்டது என்பதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the table column header has changed"
+msgstr "அட்டவணை நெடுவரிசை தலைப்பு மாறியதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the table row description has changed"
+msgstr "அட்டவணை வரிசை விளக்கம் மாறிவிட்டது என்பதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the table row header has changed"
+msgstr "அட்டவணை வரிசையின் தலைப்பு மாறிவிட்டது என்பதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the table summary has changed"
+msgstr "அட்டவணை சுருக்கம் மாறிவிட்டது என்பதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Is used to notify that the value has changed"
+msgstr "மதிப்பு மாறியதை தெரிவிக்க பயன்படுகிறது"
+
+msgid "Number of Accessible Hypertext Links"
+msgstr "அணுகக்கூடிய உயர்உரை இணைப்புகளின் எண்ணிக்கை"
+
+msgid "Number of Anchors"
+msgstr "நங்கூரங்களின் எண்ணிக்கை"
+
+msgid "Object instance's name formatted for assistive technology access"
+msgstr ""
+"கட்டமைக்கப்பட்ட பொருளின் பெயர் உதவி தொழில்நுட்ப அணுகலுக்காக "
+"வடிவமைக்கப்பட்டது"
+
+msgid "Selected Link"
+msgstr "தேர்ந்தெடுக்கப்பட்ட இணைப்பு"
+
+msgid "Specifies whether the AtkHyperlink object is selected"
+msgstr "AtkHyperlink பொருள் தேர்ந்தெடுக்கப்பட்டதா என்பதைக் குறிப்பிடுகிறது"
+
+msgid "Start index"
+msgstr "தொடக்க அட்டவணை"
+
+msgid "The accessible MDI value of this object"
+msgstr "இந்த பொருளின் அணுகக்கூடிய MDI மதிப்பு"
+
+msgid "The accessible layer of this object"
+msgstr "இந்த பொருளின் அணுகக்கூடிய அடுக்கு"
+
+msgid "The accessible role of this object"
+msgstr "இந்த பொருளின் அணுகக்கூடிய பங்கு"
+
+msgid "The end index of the AtkHyperlink object"
+msgstr "AtkHyperlink பொருளின் இறுதி அட்டவணை"
+
+msgid "The number of anchors associated with the AtkHyperlink object"
+msgstr "AtkHyperlink பொருளுடன் தொடர்புடைய நங்கூரங்களின் எண்ணிக்கை"
+
+msgid "The number of links which the current AtkHypertext has"
+msgstr "தற்போதைய AtkHypertext கொண்டிருக்கும் இணைப்புகளின் எண்ணிக்கை"
+
+msgid "The start index of the AtkHyperlink object"
+msgstr "AtkHyperlink பொருளின் தொடக்க அட்டவணை"
+
+msgid "accelerator label"
+msgstr "முடுக்கி சிட்டை"
+
+msgid "alert"
+msgstr "அறிவிப்பு"
+
+msgid "animation"
+msgstr "இயங்குப்படம்"
+
+msgid "application"
+msgstr "பயன்பாடு"
+
+msgid "arrow"
+msgstr "அம்பு"
+
+msgid "autocomplete"
+msgstr "தானாக நிறைவு"
+
+msgid "calendar"
+msgstr "நாள்காட்டி"
+
+msgid "canvas"
+msgstr "திரைத்துணி"
+
+msgid "caption"
+msgstr "தலைப்பு"
+
+msgid "chart"
+msgstr "விளக்கப்படம்"
+
+msgid "check box"
+msgstr "சரிபார் பெட்டி"
+
+msgid "check menu item"
+msgstr "சரிபார் மெனு உருப்படி "
+
+msgid "color chooser"
+msgstr "வண்ணத் தேர்வி"
+
+msgid "column header"
+msgstr "நெடுவரிசை தலைப்பு"
+
+msgid "combo box"
+msgstr "சேர்ப்பு பெட்டி"
+
+msgid "dateeditor"
+msgstr "தேதி திருத்தி"
+
+msgid "desktop frame"
+msgstr "திரைப்பலக சட்டகம்"
+
+msgid "desktop icon"
+msgstr "திரைப்பலக சிருஉருவப்படம்"
+
+msgid "dial"
+msgstr "அட்டவணை"
+
+msgid "dialog"
+msgstr "உரையாடல்"
+
+msgid "directory pane"
+msgstr "அடைவுப் பலகம்"
+
+msgid "document frame"
+msgstr "ஆவண சட்டகம்"
+
+msgid "drawing area"
+msgstr "வரைதல் பகுதி"
+
+msgid "edit bar"
+msgstr "திருத்து பட்டி"
+
+msgid "embedded component"
+msgstr "உட்பொதிக்கப்பட்ட கூறு"
+
+msgid "entry"
+msgstr "நுழைவு"
+
+msgid "file chooser"
+msgstr "கோப்பு தேர்வி"
+
+msgid "filler"
+msgstr "நிரப்புதல்"
+
+msgid "fontchooser"
+msgstr "எழுத்துருத் தேர்வி"
+
+msgid "footer"
+msgstr "அடிக்குறிப்பு"
+
+msgid "form"
+msgstr "படிவம்"
+
+msgid "frame"
+msgstr "சட்டம்"
+
+msgid "glass pane"
+msgstr "கண்ணாடி பலகை"
+
+msgid "header"
+msgstr "தலைப்பு"
+
+msgid "heading"
+msgstr "தலைப்பு"
+
+msgid "html container"
+msgstr "html கொள்கலன்"
+
+msgid "icon"
+msgstr "சிருஉருவப்படம்"
+
+msgid "image"
+msgstr "படம்"
+
+msgid "input method window"
+msgstr "உள்ளீட்டு முறை சாளரம்"
+
+msgid "internal frame"
+msgstr "உள் சட்டகம்"
+
+msgid "invalid"
+msgstr "செல்லாதது"
+
+msgid "label"
+msgstr "சிட்டை"
+
+msgid "layered pane"
+msgstr "அடுக்கு பலகை"
+
+msgid "link"
+msgstr "இணைப்பு"
+
+msgid "list"
+msgstr "பட்டியல்"
+
+msgid "list item"
+msgstr "பட்டியல் உருப்படி"
+
+msgid "menu"
+msgstr "பட்டியல்"
+
+msgid "menu bar"
+msgstr "பட்டியல் பட்டி"
+
+msgid "menu item"
+msgstr "பட்டியல் உருப்படி"
+
+msgid "option pane"
+msgstr "விருப்பப் பலகம்"
+
+msgid "page"
+msgstr "பக்கம்"
+
+msgid "page tab"
+msgstr "பக்கம் தாவல்"
+
+msgid "page tab list"
+msgstr "பக்க தாவல் பட்டியல்"
+
+msgid "panel"
+msgstr "பலகம்"
+
+msgid "paragraph"
+msgstr "பத்தி"
+
+msgid "password text"
+msgstr "கடவுச்சொல் உரை"
+
+msgid "popup menu"
+msgstr "மேல்தோன்றும் பட்டியல்"
+
+msgid "progress bar"
+msgstr "முன்னேற்றப் பட்டி"
+
+msgid "push button"
+msgstr "தள்ளு பொத்தான்"
+
+msgid "radio button"
+msgstr "வானொலி பொத்தான்"
+
+msgid "radio menu item"
+msgstr "வானொலி பட்டியல் உருப்படி"
+
+msgid "redundant object"
+msgstr "தேவையான பொருள்"
+
+msgid "root pane"
+msgstr "வேர் பலகம்"
+
+msgid "row header"
+msgstr "வரிசை தலைப்பு"
+
+msgid "ruler"
+msgstr "அளவுகோல்"
+
+msgid "scroll bar"
+msgstr "சுருள் பட்டி"
+
+msgid "scroll pane"
+msgstr "சுருள் பலகம்"
+
+msgid "section"
+msgstr "பிரிவு"
+
+msgid "separator"
+msgstr "பிரிப்பான்"
+
+msgid "slider"
+msgstr "சருக்கான்"
+
+msgid "spin button"
+msgstr "சுழல் பொத்தான்"
+
+msgid "split pane"
+msgstr "பிளவு பலகம்"
+
+msgid "statusbar"
+msgstr "நிலைப்பட்டி"
+
+msgid "table"
+msgstr "அட்டவணை"
+
+msgid "table cell"
+msgstr "அட்டவணை செல்"
+
+msgid "table column header"
+msgstr "அட்டவணை நெடுவரிசை தலைப்பு"
+
+msgid "table row header"
+msgstr "அட்டவணை வரிசை தலைப்பு"
+
+msgid "tear off menu item"
+msgstr "மெனு உருப்படியை கிழித்து விடு"
+
+msgid "terminal"
+msgstr "முனையம்"
+
+msgid "text"
+msgstr "உரை"
+
+msgid "toggle button"
+msgstr "மாற்று பொத்தான்"
+
+msgid "tool bar"
+msgstr "கருவிப்பட்டி"
+
+msgid "tool tip"
+msgstr "கருவி முனை"
+
+msgid "tree"
+msgstr "மரம்"
+
+msgid "tree table"
+msgstr "மர அட்டவணை"
+
+msgid "unknown"
+msgstr "தெரியாது"
+
+msgid "viewport"
+msgstr "காண்துறைமுகம்"
+
+msgid "window"
+msgstr "சாளரம்"

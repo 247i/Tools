@@ -1,0 +1,627 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+.master.ta\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gdk-pixbuf\n"
+"POT-Creation-Date: 2010-11-05 19:57-0400\n"
+"PO-Revision-Date: 2024-10-11 21:39+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "BMP image has bogus header data"
+msgstr "BMP படம் has bogus தலைப்பி தகவல்கள்"
+
+msgid "BMP image has unsupported header size"
+msgstr "BMP படம் has unsupported தலைப்பி அளவு"
+
+msgid "Bad code encountered"
+msgstr "Bad குறியீடு encountered"
+
+msgid "Bits per channel of PNG image is invalid."
+msgstr "Bits per வாய்க்கால் of PNG படம் is invalid."
+
+msgid "Bits per channel of transformed PNG is not 8."
+msgstr "Bits per வாய்க்கால் of transformed PNG is not 8."
+
+msgid "Cannot allocate TGA header memory"
+msgstr "Cannot allocate TGA தலைப்பி memory"
+
+msgid "Cannot allocate colormap entries"
+msgstr "COLORMAP உள்ளீடுகளை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate colormap structure"
+msgstr "COLORMAP கட்டமைப்பை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for IOBuffer data"
+msgstr "Cannot allocate memory க்கு IOBuffer தகவல்கள்"
+
+msgid "Cannot allocate memory for IOBuffer struct"
+msgstr "Iobuffer struct க்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for TGA context struct"
+msgstr "டிசிஏ சூழல் கட்டமைப்பிற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for loading PNM image"
+msgstr "பிஎன்எம் படத்தை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for loading XPM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate new pixbuf"
+msgstr "புதிய பிக்ச்புஃப் ஒதுக்க முடியாது"
+
+msgid "Cannot allocate temporary IOBuffer data"
+msgstr "தற்காலிக அயோபஃபர் தரவை ஒதுக்க முடியாது"
+
+msgid "Cannot read XPM colormap"
+msgstr "எக்ச்பிஎம் கோலர்மேப்பைப் படிக்க முடியாது"
+
+msgid "Cannot realloc IOBuffer data"
+msgstr "ஐஓபஃபர் தரவை மறுசீரமைக்க முடியாது"
+
+msgid "Circular table entry in GIF file"
+msgstr "GIF கோப்பில் வட்ட அட்டவணை நுழைவு"
+
+msgid "Compressed icons are not supported"
+msgstr "சுருக்கப்பட்ட சின்னங்கள் ஆதரிக்கப்படவில்லை"
+
+msgid "Could not allocate memory: %s"
+msgstr "நினைவகத்தை ஒதுக்க முடியவில்லை: %s"
+
+msgid "Could not create stream: %s"
+msgstr "ச்ட்ரீமை உருவாக்க முடியவில்லை: %s"
+
+msgid "Could not decode ICNS file"
+msgstr "ஐ.சி.என்.எச் கோப்பை டிகோட் செய்ய முடியவில்லை"
+
+msgid "Could not get image height (bad TIFF file)"
+msgstr "பட உயரத்தைப் பெற முடியவில்லை (மோசமான TIFF கோப்பு)"
+
+msgid "Could not get image width (bad TIFF file)"
+msgstr "பட அகலத்தைப் பெற முடியவில்லை (மோசமான TIFF கோப்பு)"
+
+msgid "Could not read from stream: %s"
+msgstr "ச்ட்ரீமில் இருந்து படிக்க முடியவில்லை: %s"
+
+msgid "Could not seek stream: %s"
+msgstr "ச்ட்ரீம் தேட முடியவில்லை: %s"
+
+msgid "Couldn't allocate memory for color profile"
+msgstr "வண்ண சுயவிவரத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for context buffer"
+msgstr "சூழல் இடையகத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for header"
+msgstr "தலைப்புக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for line data"
+msgstr "வரி தரவுகளுக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG கோப்பை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for saving BMP file"
+msgstr "BMP கோப்பைச் சேமிக்க நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for stream"
+msgstr "ச்ட்ரீமுக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory to buffer image data"
+msgstr "படத் தரவை இடையகத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't create new pixbuf"
+msgstr "புதிய பிக்ச்புஃப் உருவாக்க முடியவில்லை"
+
+msgid "Couldn't decode image"
+msgstr "படத்தை டிகோட் செய்ய முடியவில்லை"
+
+msgid "Couldn't load bitmap"
+msgstr "பிட்மேப்பை ஏற்ற முடியவில்லை"
+
+msgid "Couldn't load metafile"
+msgstr "மெட்டாஃபைலை ஏற்ற முடியவில்லை"
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "'%S' கோப்புக்கான பட கோப்பு வடிவமைப்பை அடையாளம் காண முடியவில்லை"
+
+msgid "Couldn't save"
+msgstr "சேமிக்க முடியவில்லை"
+
+msgid "Couldn't save the rest"
+msgstr "மீதமுள்ளவற்றை காப்பாற்ற முடியவில்லை"
+
+msgid "Couldn't write to BMP file"
+msgstr "பி.எம்.பி கோப்பிற்கு எழுத முடியவில்லை"
+
+msgid "Couldn't write to TIFF file"
+msgstr "TIFF கோப்பிற்கு எழுத முடியவில்லை"
+
+msgid "Cursor hotspot outside image"
+msgstr "படத்திற்கு வெளியே கர்சர் ஆட்ச்பாட்"
+
+msgid "Didn't get all lines of PCX image"
+msgstr "பிசிஎக்ச் படத்தின் அனைத்து வரிகளும் கிடைக்கவில்லை"
+
+msgid "Dimensions of TIFF image too large"
+msgstr "TIFF படத்தின் பரிமாணங்கள் மிகப் பெரியவை"
+
+msgid "Error interpreting JPEG image file (%s)"
+msgstr "JPEG படக் கோப்பை (%s) விளக்குவதில் பிழை"
+
+msgid "Error reading ICNS image: %s"
+msgstr "ஐகான்கள் படங்களைப் படிப்பது பிழை"
+
+msgid "Error writing to image file: %s"
+msgstr "படக் கோப்பில் எழுதுவது பிழை: %s"
+
+msgid "Error writing to image stream"
+msgstr "பட ச்ட்ரீமுக்கு எழுதுதல் பிழை"
+
+msgid "Excess data in file"
+msgstr "கோப்பில் அதிகப்படியான தரவு"
+
+msgid ""
+"Failed to close '%s' while writing image, all data may not have been saved: "
+"%s"
+msgstr ""
+"படத்தை எழுதும் போது ' %s' ஐ மூடுவதில் தோல்வி, எல்லா தரவுகளும் "
+"சேமிக்கப்பட்டிருக்காது: %s"
+
+msgid "Failed to load RGB data from TIFF file"
+msgstr "TIFF கோப்பிலிருந்து RGB தரவை ஏற்றுவதில் தோல்வி"
+
+msgid "Failed to load TIFF image"
+msgstr "TIFF படத்தை ஏற்றுவதில் தோல்வி"
+
+msgid ""
+"Failed to load animation '%s': reason not known, probably a corrupt "
+"animation file"
+msgstr ""
+"அனிமேசனை ஏற்றுவதில் தோல்வி '%s': காரணம் தெரியவில்லை, அநேகமாக ஒரு ஊழல் "
+"அனிமேசன் கோப்பு"
+
+msgid "Failed to load image '%s': %s"
+msgstr "படத்தை ஏற்றுவதில் தோல்வி ' %s': %s"
+
+msgid ""
+"Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr ""
+"படத்தை ஏற்றுவதில் தோல்வி '%s': காரணம் தெரியவில்லை, அநேகமாக ஊழல் நிறைந்த படக்"
+" கோப்பு"
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "எழுதுவதற்கு ' %s' திறக்கத் தவறிவிட்டது: %s"
+
+msgid "Failed to open TIFF image"
+msgstr "TIFF படத்தைத் திறக்கத் தவறிவிட்டது"
+
+msgid "Failed to open file '%s': %s"
+msgstr "கோப்பைத் திறக்கத் தவறிவிட்டது ' %s': %s"
+
+msgid "Failed to open temporary file"
+msgstr "தற்காலிக கோப்பைத் திறக்கத் தவறிவிட்டது"
+
+msgid "Failed to read from temporary file"
+msgstr "தற்காலிக கோப்பிலிருந்து படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to save TIFF image"
+msgstr "TIFF படத்தை சேமிப்பதில் தோல்வி"
+
+msgid "Failed to write TIFF data"
+msgstr "TIFF தரவு எழுதத் தவறிவிட்டது"
+
+msgid "Failed to write to temporary file when loading XBM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றும்போது தற்காலிக கோப்பில் எழுதத் தவறிவிட்டது"
+
+msgid "Failed to write to temporary file when loading XPM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றும்போது தற்காலிக கோப்பில் எழுதத் தவறிவிட்டது"
+
+msgid "Failure reading GIF: %s"
+msgstr "Gifs படிக்கும் தோல்வி"
+
+msgid "Fatal error in PNG image file: %s"
+msgstr "பி.என்.சி படக் கோப்பில் அபாயகரமான பிழை: %s"
+
+msgid "Fatal error reading PNG image file"
+msgstr "பி.என்.சி படக் கோப்பைப் படிப்பது அபாயகரமான பிழை"
+
+msgid "Fatal error reading PNG image file: %s"
+msgstr "பி.என்.சி படக் கோப்பைப் படித்தல் அபாயகரமான பிழை: %s"
+
+msgid "File does not appear to be a GIF file"
+msgstr "கோப்பு GIF கோப்பாகத் தெரியவில்லை"
+
+msgid "GIF file was missing some data (perhaps it was truncated somehow?)"
+msgstr ""
+"GIF கோப்பு சில தரவைக் காணவில்லை (ஒருவேளை அது எப்படியாவது துண்டிக்கப்பட்டதா?)"
+
+msgid ""
+"GIF image has no global colormap, and a frame inside it has no local "
+"colormap."
+msgstr ""
+"GIF படத்திற்கு உலகளாவிய வண்ணமயமாகம் இல்லை, அதற்குள் ஒரு சட்டகத்திற்கு உள்ளக "
+"வண்ணமயமாக்கல் இல்லை."
+
+msgid "GIF image is corrupt (incorrect LZW compression)"
+msgstr "GIF படம் ஊழல் நிறைந்தது (தவறான LZW சுருக்கம்)"
+
+msgid "GIF image loader cannot understand this image."
+msgstr "GIF பட ஏற்றி இந்த படத்தை புரிந்து கொள்ள முடியாது."
+
+msgid "GIF image was truncated or incomplete."
+msgstr "GIF படம் துண்டிக்கப்பட்டது அல்லது முழுமையடையாது."
+
+msgid "Icon has zero height"
+msgstr "ஐகானுக்கு சுழிய உயரம் உள்ளது"
+
+msgid "Icon has zero width"
+msgstr "ஐகானுக்கு சுழிய அகலம் உள்ளது"
+
+msgid "Image file '%s' contains no data"
+msgstr "படக் கோப்பில் '%s' தரவு இல்லை"
+
+msgid "Image format unknown"
+msgstr "பட வடிவம் தெரியவில்லை"
+
+msgid "Image has invalid width and/or height"
+msgstr "படத்திற்கு தவறான அகலம் மற்றும்/அல்லது உயரம் உள்ளது"
+
+msgid "Image has unsupported bpp"
+msgstr "படம் ஆதரிக்கப்படாத பிபிபி"
+
+msgid "Image has unsupported number of %d-bit planes"
+msgstr "படத்தில் ஆதரிக்கப்படாத %d-பிட் விமானங்கள் உள்ளன"
+
+msgid "Image has zero height"
+msgstr "படம் சுழிய உயரத்தைக் கொண்டுள்ளது"
+
+msgid "Image has zero width"
+msgstr "படத்திற்கு சுழிய அகலம் உள்ளது"
+
+msgid "Image header corrupt"
+msgstr "பட தலைப்பு ஊழல்"
+
+msgid "Image pixel data corrupt"
+msgstr "பட படப்புள்ளி தரவு ஊழல்"
+
+msgid "Image too large to be saved as ICO"
+msgstr "படம் ஐ.சி.ஓ என சேமிக்க முடியாத அளவுக்கு பெரியது"
+
+msgid "Image type '%s' is not supported"
+msgstr "பட வகை '%s' ஆதரிக்கப்படவில்லை"
+
+msgid "Image type currently not supported"
+msgstr "பட வகை தற்போது ஆதரிக்கப்படவில்லை"
+
+msgid "Incremental loading of image type '%s' is not supported"
+msgstr "பட வகை '%s' இன் அதிகரிக்கும் ஏற்றுதல் ஆதரிக்கப்படவில்லை"
+
+msgid "Insufficient memory to load PNG file"
+msgstr "PNG கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load PNM context struct"
+msgstr "PNM சூழல் கட்டமைப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load PNM file"
+msgstr "PNM கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load XBM image file"
+msgstr "எக்ச்பிஎம் படக் கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid ""
+"Insufficient memory to load image, try exiting some applications to free "
+"memory"
+msgstr ""
+"படத்தை ஏற்றுவதற்கு போதுமான நினைவகம் இல்லை, இலவச நினைவகத்திற்கு சில "
+"பயன்பாடுகளிலிருந்து வெளியேற முயற்சிக்கவும்"
+
+msgid "Insufficient memory to open JPEG 2000 file"
+msgstr "JPEG 2000 கோப்பைத் திறக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to open TIFF file"
+msgstr "TIFF கோப்பைத் திறக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to save image into a buffer"
+msgstr "படத்தை ஒரு இடையகத்தில் சேமிக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to save image to callback"
+msgstr "படத்தை அழைப்புக்கு சேமிக்க போதுமான நினைவகம் இல்லை"
+
+msgid ""
+"Insufficient memory to store a %ld by %ld image; try exiting some "
+"applications to reduce memory usage"
+msgstr ""
+"%LD ஐ %LD படத்தால் சேமிக்க போதுமான நினைவகம்; நினைவக பயன்பாட்டைக் குறைக்க சில"
+" பயன்பாடுகளிலிருந்து வெளியேற முயற்சிக்கவும்"
+
+msgid "Internal error in the GIF loader (%s)"
+msgstr "GIF ஏற்றி (%s) இல் உள் பிழை"
+
+msgid ""
+"Internal error: Image loader module '%s' failed to complete an operation, "
+"but didn't give a reason for the failure"
+msgstr ""
+"உள் பிழை: பட ஏற்றி தொகுதி '%s' ஒரு செயல்பாட்டை முடிக்கத் தவறிவிட்டன, ஆனால் "
+"தோல்விக்கு ஒரு காரணத்தைக் கூறவில்லை"
+
+msgid "Invalid XBM file"
+msgstr "தவறான எக்ச்பிஎம் கோப்பு"
+
+msgid "Invalid XPM header"
+msgstr "தவறான எக்ச்பிஎம் தலைப்பு"
+
+msgid "Invalid header in animation"
+msgstr "அனிமேசனில் தவறான தலைப்பு"
+
+msgid "Invalid header in icon"
+msgstr "ஐகானில் தவறான தலைப்பு"
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%d' is not allowed."
+msgstr ""
+"JPEG தகுதி 0 மற்றும் 100 க்கு இடையில் ஒரு மதிப்பாக இருக்க வேண்டும்; மதிப்பு "
+"'%d' அனுமதிக்கப்படவில்லை."
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%s' could not be "
+"parsed."
+msgstr ""
+"JPEG தகுதி 0 மற்றும் 100 க்கு இடையில் ஒரு மதிப்பாக இருக்க வேண்டும்; மதிப்பை "
+"'%s' பாகுபடுத்த முடியவில்லை."
+
+msgid "Keys for PNG text chunks must be ASCII characters."
+msgstr ""
+"பி.என்.சி உரை துகள்களுக்கான விசைகள் தபஅஇகு எழுத்துகளாக இருக்க வேண்டும்."
+
+msgid ""
+"Keys for PNG text chunks must have at least 1 and at most 79 characters."
+msgstr ""
+"பி.என்.சி உரை துகள்களுக்கான விசைகள் குறைந்தது 1 மற்றும் அதிகபட்சம் 79 "
+"எழுத்துக்களைக் கொண்டிருக்க வேண்டும்."
+
+msgid "Malformed chunk in animation"
+msgstr "அனிமேசனில் தவறாக துண்டுகள்"
+
+msgid "Maximum color value in PNM file is 0"
+msgstr "PNM கோப்பில் அதிகபட்ச வண்ண மதிப்பு 0 ஆகும்"
+
+msgid "Maximum color value in PNM file is too large"
+msgstr "பி.என்.எம் கோப்பில் அதிகபட்ச வண்ண மதிப்பு மிகப் பெரியது"
+
+msgid "No XPM header found"
+msgstr "எக்ச்பிஎம் தலைப்பு இல்லை"
+
+msgid "No palette found at end of PCX data"
+msgstr "பிசிஎக்ச் தரவின் முடிவில் எந்த தட்டு கிடைக்கவில்லை"
+
+msgid "Not enough memory to composite a frame in GIF file"
+msgstr "GIF கோப்பில் ஒரு சட்டகத்தை கலக்க போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load GIF file"
+msgstr "GIF கோப்பை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load ICO file"
+msgstr "ஐ.சி.ஓ கோப்பை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load RAS image"
+msgstr "RAS படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load animation"
+msgstr "அனிமேசனை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load bitmap image"
+msgstr "பிட்மேப் படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load icon"
+msgstr "ஐகானை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load image"
+msgstr "படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid ""
+"PNG compression level must be a value between 0 and 9; value '%d' is not "
+"allowed."
+msgstr ""
+"பி.என்.சி சுருக்க நிலை 0 மற்றும் 9 க்கு இடையில் ஒரு மதிப்பாக இருக்க "
+"வேண்டும்; மதிப்பு '%d' அனுமதிக்கப்படவில்லை."
+
+msgid ""
+"PNG compression level must be a value between 0 and 9; value '%s' could not "
+"be parsed."
+msgstr ""
+"பி.என்.சி சுருக்க நிலை 0 மற்றும் 9 க்கு இடையில் ஒரு மதிப்பாக இருக்க "
+"வேண்டும்; மதிப்பை '%s' பாகுபடுத்த முடியவில்லை."
+
+msgid "PNM file has an image height of 0"
+msgstr "பிஎன்எம் கோப்பில் படத்தின் உயரம் 0 உள்ளது"
+
+msgid "PNM file has an image width of 0"
+msgstr "பிஎன்எம் கோப்பில் 0 இன் பட அகலம் உள்ளது"
+
+msgid "PNM file has an incorrect initial byte"
+msgstr "பிஎன்எம் கோப்பில் தவறான ஆரம்ப பைட் உள்ளது"
+
+msgid "PNM file is not in a recognized PNM subformat"
+msgstr "பி.என்.எம் கோப்பு அங்கீகரிக்கப்பட்ட பி.என்.எம் சப்ஃபார்மட்டில் இல்லை"
+
+msgid "PNM image loader does not support this PNM subformat"
+msgstr "பிஎன்எம் பட ஏற்றி இந்த பிஎன்எம் சப்ஃபார்மட்டை ஆதரிக்காது"
+
+msgid "PNM loader expected to find an integer, but didn't"
+msgstr ""
+"பி.என்.எம் ஏற்றி ஒரு முழு எண்ணைக் கண்டுபிடிப்பார் என்று "
+"எதிர்பார்க்கப்படுகிறது, ஆனால் அவ்வாறு செய்யவில்லை"
+
+msgid "Premature end-of-file encountered"
+msgstr "முன்கூட்டிய முடிவுக்கு வந்தது"
+
+msgid "RAS image has bogus header data"
+msgstr "RAS படத்திற்கு போலி தலைப்பு தரவு உள்ளது"
+
+msgid "RAS image has unknown type"
+msgstr "RAS படத்திற்கு தெரியாத வகை உள்ளது"
+
+msgid "Raw PNM formats require exactly one whitespace before sample data"
+msgstr ""
+"மூல பி.என்.எம் வடிவங்களுக்கு மாதிரி தரவுக்கு முன் ஒரு இடைவெளி தேவைப்படுகிறது"
+
+msgid "Raw PNM image type is invalid"
+msgstr "மூல பி.என்.எம் பட வகை தவறானது"
+
+msgid "Stack overflow"
+msgstr "அடுக்கு வழிதல்"
+
+msgid "TGA image has invalid dimensions"
+msgstr "டிசிஏ படம் தவறான பரிமாணங்களைக் கொண்டுள்ளது"
+
+msgid "TGA image type not supported"
+msgstr "டிசிஏ பட வகை ஆதரிக்கப்படவில்லை"
+
+msgid "TIFFClose operation failed"
+msgstr "டிஃப்ளோச் செயல்பாடு தோல்வியடைந்தது"
+
+msgid "The ANI image format"
+msgstr "ANI பட வடிவம்"
+
+msgid "The BMP image format"
+msgstr "BMP பட வடிவம்"
+
+msgid "The EMF image format"
+msgstr "EMF பட வடிவம்"
+
+msgid "The GIF image format"
+msgstr "GIF பட வடிவம்"
+
+msgid "The ICNS image format"
+msgstr "ICNS பட வடிவம்"
+
+msgid "The ICO image format"
+msgstr "ICO பட வடிவம்"
+
+msgid "The JPEG 2000 image format"
+msgstr "JPEG 2000 பட வடிவம்"
+
+msgid "The JPEG image format"
+msgstr "JPEG பட வடிவம்"
+
+msgid "The PCX image format"
+msgstr "PCX பட வடிவம்"
+
+msgid "The PNG image format"
+msgstr "பி.என்.சி பட வடிவம்"
+
+msgid "The PNM/PBM/PGM/PPM image format family"
+msgstr "PNM/PBM/PGM/PPM பட வடிவமைப்பு குடும்பம்"
+
+msgid "The Sun raster image format"
+msgstr "சன் ராச்டர் பட வடிவம்"
+
+msgid "The TIFF image format"
+msgstr "TIFF பட வடிவம்"
+
+msgid "The Targa image format"
+msgstr "தர்கா பட வடிவம்"
+
+msgid "The WBMP image format"
+msgstr "WBMP பட வடிவம்"
+
+msgid "The WMF image format"
+msgstr "WMF பட வடிவம்"
+
+msgid "The XBM image format"
+msgstr "எக்ச்பிஎம் பட வடிவம்"
+
+msgid "The XPM image format"
+msgstr "எக்ச்பிஎம் பட வடிவம்"
+
+msgid "This build of gdk-pixbuf does not support saving the image format: %s"
+msgstr ""
+"சி.டி.கே-பிக்ச்புஃப் இந்த உருவாக்கம் பட வடிவமைப்பைச் சேமிப்பதை ஆதரிக்காது: "
+"%s"
+
+msgid "Topdown BMP images cannot be compressed"
+msgstr "டாப் பேரூர் பி.எம்.பி படங்களை சுருக்க முடியாது"
+
+msgid "Transformed JPEG has zero width or height."
+msgstr "மாற்றப்பட்ட JPEG சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது."
+
+msgid "Transformed JPEG2000 has zero width or height"
+msgstr "மாற்றப்பட்ட JPEG2000 சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது"
+
+msgid "Transformed PNG has unsupported number of channels, must be 3 or 4."
+msgstr ""
+"மாற்றப்பட்ட பி.என்.சி ஆதரிக்கப்படாத சேனல்களைக் கொண்டுள்ளது, 3 அல்லது 4 ஆக "
+"இருக்க வேண்டும்."
+
+msgid "Transformed PNG has zero width or height."
+msgstr "மாற்றப்பட்ட பி.என்.சி சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது."
+
+msgid "Transformed PNG not RGB or RGBA."
+msgstr "மாற்றப்பட்ட PNG RGB அல்லது RGBA அல்ல."
+
+msgid "Unable to load image-loading module: %s: %s"
+msgstr "பட-ஏற்றுதல் தொகுதியை ஏற்ற முடியவில்லை: %s: %s"
+
+msgid "Unexpected bitdepth for colormap entries"
+msgstr "வண்ணமயமான உள்ளீடுகளுக்கான எதிர்பாராத பிட்டெப்ட்"
+
+msgid "Unexpected end of PNM image data"
+msgstr "பிஎன்எம் பட தரவின் எதிர்பாராத முடிவு"
+
+msgid "Unexpected icon chunk in animation"
+msgstr "அனிமேசனில் எதிர்பாராத படவுரு துண்டாகும்"
+
+msgid "Unrecognized image file format"
+msgstr "அங்கீகரிக்கப்படாத பட கோப்பு வடிவம்"
+
+msgid "Unsupported JPEG color space (%s)"
+msgstr "ஆதரிக்கப்படாத JPEG வண்ண இடம் (%s)"
+
+msgid "Unsupported animation type"
+msgstr "ஆதரிக்கப்படாத அனிமேசன் வகை"
+
+msgid "Unsupported depth for ICO file: %d"
+msgstr "ஐ.சி.ஓ கோப்பிற்கான ஆதரிக்கப்படாத ஆழம்: %d"
+
+msgid "Unsupported icon type"
+msgstr "ஆதரிக்கப்படாத படவுரு வகை"
+
+msgid "Unsupported image format for GDI+"
+msgstr "சி.டி.ஐ+ க்கான ஆதரிக்கப்படாத பட வடிவம்"
+
+msgid ""
+"Value for PNG text chunk %s cannot be converted to ISO-8859-1 encoding."
+msgstr ""
+"பி.என்.சி உரை துண்டுக்கான மதிப்பை ஐஎச்ஓ -8859-1 குறியாக்கமாக மாற்ற முடியாது."
+
+msgid "Version %s of the GIF file format is not supported"
+msgstr "GIF கோப்பு வடிவமைப்பின் பதிப்பு %s ஆதரிக்கப்படவில்லை"
+
+msgid "Width or height of TIFF image is zero"
+msgstr "TIFF படத்தின் அகலம் அல்லது உயரம் பூச்சியமாகும்"
+
+msgid "XPM file has image height <= 0"
+msgstr "எக்ச்பிஎம் கோப்பில் பட உயரம் <= 0 உள்ளது"
+
+msgid "XPM file has image width <= 0"
+msgstr "எக்ச்பிஎம் கோப்பில் பட அகலம் <= 0 உள்ளது"
+
+msgid "XPM file has invalid number of colors"
+msgstr "எக்ச்பிஎம் கோப்பில் தவறான எண்ணிக்கையிலான வண்ணங்கள் உள்ளன"
+
+msgid "XPM has invalid number of chars per pixel"
+msgstr "எக்ச்பிஎம் பிக்சலுக்கு தவறான எண்ணிக்கையிலான எழுத்துகளைக் கொண்டுள்ளது"
+
+msgid "unsupported RAS image variation"
+msgstr "ஆதரிக்கப்படாத RAS பட மாறுபாடு"

@@ -1,0 +1,1306 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glib.master.ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 21:37-0400\n"
+"PO-Revision-Date: 2024-10-11 21:39+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid " (invalid encoding)"
+msgstr "(தவறான குறியாக்கம்)"
+
+msgid "%.1f GB"
+msgstr "%.1F சிபி"
+
+msgid "%.1f KB"
+msgstr "%.1f KB"
+
+msgid "%.1f MB"
+msgstr "%.1f Mb"
+
+msgid "%s filetype"
+msgstr "%S FILETYPE"
+
+msgid "%s type"
+msgstr "%s வகை"
+
+msgid ""
+"'%s' is not a valid character following a '<' character; it may not begin an"
+" element name"
+msgstr ""
+"'%s' என்பது ஒரு '<' கதாபாத்திரத்தைத் தொடர்ந்து சரியான பாத்திரம் அல்ல; இது "
+"ஒரு உறுப்பு பெயரைத் தொடங்கக்கூடாது"
+
+msgid ""
+"'%s' is not a valid character following the characters '</'; '%s' may not "
+"begin an element name"
+msgstr ""
+"'%s' என்பது கதாபாத்திரங்களின் '</' என்ற கதாபாத்திரங்களைப் பின்பற்றும் சரியான"
+" பாத்திரம் அல்ல; '%s' ஒரு உறுப்பு பெயரைத் தொடங்கக்கூடாது"
+
+msgid ""
+"'%s' is not a valid character following the close element name '%s'; the "
+"allowed character is '>'"
+msgstr "the allowed character is '>'"
+
+msgid "'%s' is not a valid name "
+msgstr "'%s' என்பது சரியான பெயர் அல்ல"
+
+msgid "'%s' is not a valid name: '%c' "
+msgstr "'%s' என்பது சரியான பெயர் அல்ல: '%சி'"
+
+msgid "(?R or (?[+-]digits must be followed by )"
+msgstr "(? R அல்லது (? [+-] இலக்கங்களை பின்பற்ற வேண்டும்)"
+
+msgid ") without opening ("
+msgstr ") திறக்காமல் ("
+
+msgid "A bookmark for URI '%s' already exists"
+msgstr "யூரி '%s' க்கான ஒரு புக்மார்க்கு ஏற்கனவே உள்ளது"
+
+msgid "Abstract unix domain socket addresses not supported on this system"
+msgstr ""
+"சுருக்கம் யூனிக்ச் டொமைன் சாக்கெட் முகவரிகள் இந்த அமைப்பில் "
+"ஆதரிக்கப்படவில்லை"
+
+msgid "Added socket is closed"
+msgstr "சேர்க்கப்பட்ட சாக்கெட் மூடப்பட்டுள்ளது"
+
+msgid "Application Options:"
+msgstr "பயன்பாட்டு விருப்பங்கள்:"
+
+msgid "Association creation not supported on win32"
+msgstr "சங்க உருவாக்கம் WIN32 இல் ஆதரிக்கப்படவில்லை"
+
+msgid "Attribute '%s' of element '%s' not found"
+msgstr "உறுப்பு '%s' இன் '%s' என்ற பண்புக்கூறு காணப்படவில்லை"
+
+msgid "Attribute value must be non-NULL"
+msgstr "பண்புக்கூறு மதிப்பு பூசப்படாததாக இருக்க வேண்டும்"
+
+msgid "Backup file creation failed"
+msgstr "காப்பு கோப்பு உருவாக்கம் தோல்வியடைந்தது"
+
+msgid "Can't copy directory over directory"
+msgstr "கோப்பகத்தை கோப்பகத்தை நகலெடுக்க முடியாது"
+
+msgid "Can't copy over directory"
+msgstr "கோப்பகத்தை நகலெடுக்க முடியாது"
+
+msgid "Can't copy special file"
+msgstr "சிறப்பு கோப்பை நகலெடுக்க முடியாது"
+
+msgid "Can't create user MIME configuration folder %s: %s"
+msgstr "பயனர் மைம் உள்ளமைவு கோப்புறை %s: %s ஐ உருவாக்க முடியாது"
+
+msgid "Can't create user application configuration folder %s: %s"
+msgstr "பயனர் பயன்பாட்டு உள்ளமைவு கோப்புறை %s: %s ஐ உருவாக்க முடியாது"
+
+msgid "Can't create user desktop file %s"
+msgstr "பயனர் டெச்க்டாப் கோப்பு %s ஐ உருவாக்க முடியாது"
+
+msgid "Can't do a raw read in g_io_channel_read_line_string"
+msgstr "G_IO_CHANNEL_READ_LINE_STRING இல் ஒரு மூல வாசிப்பை செய்ய முடியாது"
+
+msgid "Can't do a raw read in g_io_channel_read_to_end"
+msgstr "G_io_channel_read_to_end இல் ஒரு மூல வாசிப்பைச் செய்ய முடியாது"
+
+msgid "Can't find application"
+msgstr "பயன்பாட்டைக் கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Can't handle the supplied version the icon encoding"
+msgstr "வழங்கப்பட்ட பதிப்பை படவுரு குறியாக்கத்தை கையாள முடியாது"
+
+msgid "Can't handle version %d of GEmblem encoding"
+msgstr "செம்லெம் குறியாக்கத்தின் பதிப்பு %d ஐ கையாள முடியாது"
+
+msgid "Can't handle version %d of GEmblemedIcon encoding"
+msgstr "செம்லாம்ப்ளிம்பிளிகான் குறியாக்கத்தின் பதிப்பு %d ஐ கையாள முடியாது"
+
+msgid "Can't handle version %d of GFileIcon encoding"
+msgstr "Gfileicon குறியாக்கத்தின் பதிப்பு %d ஐ கையாள முடியாது"
+
+msgid "Can't handle version %d of GThemedIcon encoding"
+msgstr "Gthemedicon குறியாக்கத்தின் பதிப்பு %d ஐ கையாள முடியாது"
+
+msgid "Can't move directory over directory"
+msgstr "கோப்பகத்தின் மீது கோப்பகத்தை நகர்த்த முடியாது"
+
+msgid "Can't open directory"
+msgstr "கோப்பகத்தைத் திறக்க முடியாது"
+
+msgid "Can't recursively copy directory"
+msgstr "கோப்பகத்தை மீண்டும் மீண்டும் நகலெடுக்க முடியாது"
+
+msgid "Can't rename file, filename already exist"
+msgstr "கோப்பை மறுபெயரிட முடியாது, கோப்பு பெயர் ஏற்கனவே உள்ளது"
+
+msgid "Can't rename root directory"
+msgstr "ரூட் கோப்பகத்தை மறுபெயரிட முடியாது"
+
+msgid "Cancellable initialization not supported"
+msgstr "ரத்து செய்யக்கூடிய துவக்கம் ஆதரிக்கப்படவில்லை"
+
+msgid "Cannot convert fallback '%s' to codeset '%s'"
+msgstr "குறைவடையும் '%s' கோட்செட் '%s' ஆக மாற்ற முடியாது"
+
+msgid "Cannot parse double value '%s' for %s"
+msgstr "%S க்கு இரட்டை மதிப்பை ' %s' அலச முடியாது"
+
+msgid "Cannot parse integer value '%s' for %s"
+msgstr "%S க்கு முழு எண் மதிப்பை ' %s' அலச முடியாது"
+
+msgid "Cannot set permissions on symlinks"
+msgstr "சிம்லிங்க்களில் அனுமதிகளை அமைக்க முடியாது"
+
+msgid "Cannot truncate GMemoryInputStream"
+msgstr "GmemoryInputstream ஐ துண்டிக்க முடியாது"
+
+msgid "Channel terminates in a partial character"
+msgstr "சேனல் ஒரு பகுதி எழுத்தில் முடிவடைகிறது"
+
+msgid "Character out of range for UTF-16"
+msgstr "யுடிஎஃப் -16 க்கான தன்மை வரம்பற்றது"
+
+msgid "Character out of range for UTF-8"
+msgstr "யுடிஎஃப் -8 க்கான வரம்பிற்கு வெளியே"
+
+msgid "Character reference '%-.*s' does not encode a permitted character"
+msgstr "எழுத்து குறிப்பு '%-.*கள்' அனுமதிக்கப்பட்ட தன்மையை குறியாக்கவில்லை"
+
+msgid ""
+"Character reference did not end with a semicolon; most likely you used an "
+"ampersand character without intending to start an entity - escape ampersand "
+"as &amp;"
+msgstr ""
+"எழுத்து குறிப்பு அரைக்காற்புள்ளியுடன் முடிவடையவில்லை; பெரும்பாலும் நீங்கள் "
+"ஒரு நிறுவனத்தைத் தொடங்க விரும்பாமல் ஒரு ஆம்பர்சண்ட் கதாபாத்திரத்தைப் "
+"பயன்படுத்தினீர்கள் - ஆம்பர்சண்ட் தப்பிக்க & ஆம்ப்;"
+
+msgid "Connection in progress"
+msgstr "இணைப்பு முன்னேற்றத்தில் உள்ளது"
+
+msgid "Containing mount does not exist"
+msgstr "மவுண்ட் கொண்டிருப்பது இல்லை"
+
+msgid "Conversion from character set '%s' to '%s' is not supported"
+msgstr ""
+"எழுத்துக்குறி தொகுப்பிலிருந்து '%s' இலிருந்து '%s' ஆக மாற்றுவது "
+"ஆதரிக்கப்படவில்லை"
+
+msgid "Could not allocate %lu bytes to read file \"%s\""
+msgstr "\" %s\" கோப்பைப் படிக்க %லு பைட்டுகளை ஒதுக்க முடியவில்லை"
+
+msgid "Could not open converter from '%s' to '%s'"
+msgstr "'%S' முதல் '%s' வரை மாற்றி திறக்க முடியவில்லை"
+
+msgid "Could not open converter from '%s' to '%s': %s"
+msgstr "'%S' முதல் '%s' வரை மாற்றி திறக்க முடியவில்லை:%s"
+
+msgid "Custom definition for %s"
+msgstr "%S க்கான தனிப்பயன் வரையறை"
+
+msgid "DEFINE group contains more than one branch"
+msgstr "வரையறுக்கும் குழுவில் ஒன்றுக்கு மேற்பட்ட கிளைகள் உள்ளன"
+
+msgid "Desktop file didn't specify Exec field"
+msgstr "டெச்க்டாப் கோப்பு EXEC புலத்தைக் குறிப்பிடவில்லை"
+
+msgid ""
+"Document ended unexpectedly after the equals sign following an attribute "
+"name; no attribute value"
+msgstr ""
+"ஒரு பண்புக்கூறு பெயரைத் தொடர்ந்து சமமான அடையாளத்திற்குப் பிறகு ஆவணம் "
+"எதிர்பாராத விதமாக முடிந்தது; பண்புக்கூறு மதிப்பு இல்லை"
+
+msgid "Document ended unexpectedly inside a comment or processing instruction"
+msgstr ""
+"ஒரு கருத்து அல்லது செயலாக்க அறிவுறுத்தலுக்குள் ஆவணம் எதிர்பாராத விதமாக "
+"முடிந்தது"
+
+msgid "Document ended unexpectedly inside an attribute name"
+msgstr "ஒரு பண்புக்கூறு பெயருக்குள் ஆவணம் எதிர்பாராத விதமாக முடிந்தது"
+
+msgid "Document ended unexpectedly inside an element name"
+msgstr "ஆவணம் எதிர்பாராத விதமாக ஒரு உறுப்பு பெயருக்குள் முடிந்தது"
+
+msgid "Document ended unexpectedly inside an element-opening tag."
+msgstr ""
+"ஒரு உறுப்பு திறக்கும் குறிச்சொல்லின் உள்ளே ஆவணம் எதிர்பாராத விதமாக "
+"முடிந்தது."
+
+msgid "Document ended unexpectedly inside the close tag for element '%s'"
+msgstr ""
+"'%s' என்ற உறுப்புக்கான நெருக்கமான குறிச்சொல்லுக்குள் ஆவணம் எதிர்பாராத விதமாக"
+" முடிந்தது"
+
+msgid "Document ended unexpectedly just after an open angle bracket '<'"
+msgstr "ஆவணம் எதிர்பாராத விதமாக ஒரு திறந்த கோண அடைப்புக்குப் பிறகு '<'"
+
+msgid "Document ended unexpectedly while inside an attribute value"
+msgstr ""
+"ஒரு பண்புக்கூறு மதிப்புக்குள் இருக்கும்போது ஆவணம் எதிர்பாராத விதமாக "
+"முடிந்தது"
+
+msgid ""
+"Document ended unexpectedly with elements still open - '%s' was the last "
+"element opened"
+msgstr ""
+"இன்னும் திறந்த உறுப்புகளுடன் ஆவணம் எதிர்பாராத விதமாக முடிந்தது - '%s' என்பது"
+" கடைசி உறுப்பு திறக்கப்பட்டது"
+
+msgid ""
+"Document ended unexpectedly, expected to see a close angle bracket ending "
+"the tag <%s/>"
+msgstr "%s/>"
+
+msgid "Document must begin with an element (e.g. <book>)"
+msgstr "ஆவணம் ஒரு உறுப்புடன் தொடங்க வேண்டும் (எ.கா. <BOOK>)"
+
+msgid "Document was empty or contained only whitespace"
+msgstr "ஆவணம் காலியாக இருந்தது அல்லது இடைவெளி மட்டுமே இருந்தது"
+
+msgid "Double value '%s' for %s out of range"
+msgstr "%s வரம்பிற்கு வெளியே இரட்டை மதிப்பு ' %s'"
+
+msgid "Element '%s' was closed, but the currently open element is '%s'"
+msgstr "உறுப்பு '%s' மூடப்பட்டது, ஆனால் தற்போது திறந்த உறுப்பு '%s'"
+
+msgid "Element '%s' was closed, no element is currently open"
+msgstr "உறுப்பு '%s' மூடப்பட்டது, தற்போது எந்த உறுப்புகளும் திறக்கப்படவில்லை"
+
+msgid ""
+"Empty entity '&;' seen; valid entities are: &amp; &quot; &lt; &gt; &apos;"
+msgstr ""
+"வெற்று நிறுவனம் '&;' பார்த்தது; செல்லுபடியாகும் நிறுவனங்கள்: & ஆம்ப்; & "
+"quot; & lt; & gt; & apos;"
+
+msgid ""
+"Entity did not end with a semicolon; most likely you used an ampersand "
+"character without intending to start an entity - escape ampersand as &amp;"
+msgstr ""
+"நிறுவனம் அரைக்காற்புள்ளியுடன் முடிவடையவில்லை; பெரும்பாலும் நீங்கள் ஒரு "
+"நிறுவனத்தைத் தொடங்க விரும்பாமல் ஒரு ஆம்பர்சண்ட் கதாபாத்திரத்தைப் "
+"பயன்படுத்தினீர்கள் - ஆம்பர்சண்ட் தப்பிக்க & ஆம்ப்;"
+
+msgid "Entity name '%-.*s' is not known"
+msgstr "நிறுவனத்தின் பெயர் '%-.*கள்' தெரியவில்லை"
+
+msgid "Enumerator is closed"
+msgstr "கணக்கீட்டாளர் மூடப்பட்டுள்ளது"
+
+msgid "Error accepting connection: %s"
+msgstr "இணைப்பை ஏற்றுக்கொள்வதில் பிழை: %s"
+
+msgid "Error binding to address: %s"
+msgstr "முகவரிக்கு பிழை பிணைப்பு: %s"
+
+msgid "Error closing file: %s"
+msgstr "பிழை மூடல் கோப்பு: %s"
+
+msgid "Error closing socket: %s"
+msgstr "பிழை மூடும் சாக்கெட்: %s"
+
+msgid "Error closing unix: %s"
+msgstr "பிழை மூடல் யூனிக்ச்: %s"
+
+msgid "Error connecting: "
+msgstr "இணைக்கும் பிழை:"
+
+msgid "Error connecting: %s"
+msgstr "இணைக்கும் பிழை: %s"
+
+msgid "Error creating backup copy: %s"
+msgstr "காப்புப்பிரதி நகலை உருவாக்குவது பிழை: %s"
+
+msgid "Error creating directory: %s"
+msgstr "கோப்பகத்தை உருவாக்கும் பிழை: %s"
+
+msgid "Error during conversion: %s"
+msgstr "மாற்றத்தின் போது பிழை: %s"
+
+msgid "Error getting filesystem info: %s"
+msgstr "கோப்பு முறைமை தகவல்களைப் பெறுவதில் பிழை: %s"
+
+msgid "Error launching application: %s"
+msgstr "பயன்பாட்டை தொடங்குவதில் பிழை: %s"
+
+msgid "Error making symbolic link: %s"
+msgstr "குறியீட்டு இணைப்பை உருவாக்கும் பிழை: %s"
+
+msgid "Error moving file: %s"
+msgstr "நகரும் கோப்பு: %s"
+
+msgid "Error on line %d char %d: "
+msgstr "வரி %d char %d இல் பிழை:"
+
+msgid "Error on line %d: %s"
+msgstr "வரி %d இல் பிழை: %s"
+
+msgid "Error opening directory '%s': %s"
+msgstr "' %s' என்ற கோப்பகத்தைத் திறப்பது: %s"
+
+msgid "Error opening file '%s': %s"
+msgstr "' %s' கோப்பைத் திறப்பதில் பிழை: %s"
+
+msgid "Error opening file: %s"
+msgstr "கோப்பைத் திறப்பதில் பிழை: %s"
+
+msgid "Error parsing option %s"
+msgstr "பிழை பாகுபடுத்தல் விருப்பம் %s"
+
+msgid "Error reading file '%s': %s"
+msgstr "' %s' கோப்பைப் படிப்பது பிழை: %s"
+
+msgid "Error reading from file: %s"
+msgstr "கோப்பிலிருந்து வாசிப்பது பிழை: %s"
+
+msgid "Error reading from unix: %s"
+msgstr "யூனிக்ச் இலிருந்து பிழை வாசிப்பு: %s"
+
+msgid "Error receiving data: %s"
+msgstr "தரவைப் பெறுவதில் பிழை: %s"
+
+msgid "Error receiving message: %s"
+msgstr "செய்தி பெறுவதில் பிழை: %s"
+
+msgid "Error removing file: %s"
+msgstr "கோப்பை அகற்றுவதில் பிழை: %s"
+
+msgid "Error removing old backup link: %s"
+msgstr "பழைய காப்பு இணைப்பை அகற்றுவதில் பிழை: %s"
+
+msgid "Error removing old file: %s"
+msgstr "பழைய கோப்பை அகற்றுவதில் பிழை: %s"
+
+msgid "Error removing target file: %s"
+msgstr "இலக்கு கோப்பை அகற்றுவதில் பிழை: %s"
+
+msgid "Error renaming file: %s"
+msgstr "பிழை மறுபெயரிடுதல் கோப்பு: %s"
+
+msgid "Error renaming temporary file: %s"
+msgstr "தற்காலிக கோப்பை மறுபெயரிடுவது பிழை: %s"
+
+msgid "Error resolving '%s'"
+msgstr "'%s' தீர்க்கும் பிழை"
+
+msgid "Error resolving '%s': %s"
+msgstr "' %S' ஐ தீர்க்கும் பிழை: %s"
+
+msgid "Error reverse-resolving '%s': %s"
+msgstr "பிழை தலைகீழ் தீர்க்கும் ' %s': %s"
+
+msgid "Error seeking in file: %s"
+msgstr "கோப்பில் தேடுவதில் பிழை: %s"
+
+msgid "Error sending data: %s"
+msgstr "தரவை அனுப்புவதில் பிழை: %s"
+
+msgid "Error sending message: %s"
+msgstr "செய்தி அனுப்புவதில் பிழை: %s"
+
+msgid "Error setting SELinux context: %s"
+msgstr "செலினக்ச் சூழலை அமைப்பது: %s"
+
+msgid "Error setting extended attribute '%s': %s"
+msgstr "பிழை அமைத்தல் நீட்டிக்கப்பட்ட பண்புக்கூறு ' %s': %s"
+
+msgid "Error setting modification or access time: %s"
+msgstr "மாற்றம் அமைத்தல் மாற்றம் அல்லது அணுகல் நேரம்: %s"
+
+msgid "Error setting owner: %s"
+msgstr "பிழை அமைத்தல் உரிமையாளர்: %s"
+
+msgid "Error setting permissions: %s"
+msgstr "பிழை அமைத்தல் அனுமதிகள்: %s"
+
+msgid "Error setting symlink: %s"
+msgstr "சிம்லிங்கை அமைப்பது பிழை: %s"
+
+msgid "Error setting symlink: file is not a symlink"
+msgstr "சிம்லிங்கை அமைப்பது பிழை: கோப்பு ஒரு சிம்லிங்க் அல்ல"
+
+msgid "Error stating file '%s': %s"
+msgstr "' %S' என்ற கோப்பைக் குறிப்பிடுவது பிழை: %s"
+
+msgid "Error stating file descriptor: %s"
+msgstr "கோப்பு விவரிப்பாளரைக் குறிப்பிடுவது பிழை: %s"
+
+msgid "Error trashing file: %s"
+msgstr "பிழை குப்பைத் தொட்டியை: %s"
+
+msgid "Error truncating file: %s"
+msgstr "பிழை துண்டிக்கும் கோப்பு: %s"
+
+msgid "Error while compiling regular expression %s at char %d: %s"
+msgstr "வழக்கமான வெளிப்பாடு %s ஐ char %d இல் தொகுக்கும்போது பிழை: %s"
+
+msgid "Error while matching regular expression %s: %s"
+msgstr "வழக்கமான வெளிப்பாடு %s: %s உடன் பொருந்தும்போது பிழை"
+
+msgid "Error while optimizing regular expression %s: %s"
+msgstr "வழக்கமான வெளிப்பாட்டை மேம்படுத்தும் போது பிழை %s: %s"
+
+msgid "Error while parsing replacement text \"%s\" at char %lu: %s"
+msgstr "மாற்று உரையை \" %s\" இல் பாகுபடுத்தும்போது பிழை char %lu: %s: %s"
+
+msgid "Error writing to file: %s"
+msgstr "கோப்புக்கு எழுதுதல் பிழை: %s"
+
+msgid "Error writing to unix: %s"
+msgstr "யுனிக்ச் க்கு பிழை எழுதுதல்: %s"
+
+msgid "Existing file '%s' could not be removed: g_unlink() failed: %s"
+msgstr ""
+"தற்போதுள்ள கோப்பு ' %s' அகற்ற முடியவில்லை: g_unlink () தோல்வியுற்றது: %s"
+
+msgid "Expected a GEmblem for GEmblemedIcon"
+msgstr "செம்லாம்ப்ளேமெடிகானுக்கு ஒரு செம்பம் எதிர்பார்க்கப்படுகிறது"
+
+msgid "Expecting 1 control message, got %d"
+msgstr "1 கட்டுப்பாட்டு செய்தியை எதிர்பார்த்து, %d கிடைத்தது"
+
+msgid "Expecting one fd, but got %d\n"
+msgstr "ஒரு FD ஐ எதிர்பார்க்கிறது, ஆனால் %d கிடைத்தது\n"
+
+msgid "Failed to change to directory '%s' (%s)"
+msgstr "கோப்பகத்தை '%s' (%s) மாற்றுவதில் தோல்வி"
+
+msgid "Failed to close file '%s': fclose() failed: %s"
+msgstr "' %s' கோப்பை மூடுவதில் தோல்வி: fclose () தோல்வியுற்றது: %s"
+
+msgid "Failed to create file '%s': %s"
+msgstr "' %S' கோப்பை உருவாக்கத் தவறிவிட்டது: %s"
+
+msgid "Failed to create pipe for communicating with child process (%s)"
+msgstr ""
+"குழந்தை செயல்முறையுடன் (%s) தொடர்புகொள்வதற்கான குழாயை உருவாக்குவதில் தோல்வி"
+
+msgid "Failed to execute child process \"%s\" (%s)"
+msgstr "குழந்தை செயல்முறையை \"%s\" (%s) செயல்படுத்துவதில் தோல்வி"
+
+msgid "Failed to execute child process (%s)"
+msgstr "குழந்தை செயல்முறையை (%s) செயல்படுத்துவதில் தோல்வி"
+
+msgid "Failed to execute helper program (%s)"
+msgstr "உதவி திட்டத்தை (%s) செயல்படுத்துவதில் தோல்வி"
+
+msgid "Failed to expand exec line '%s' with URI '%s'"
+msgstr "யூரி '%s' உடன் '%s' ஐ விரிவாக்குவதில் தோல்வி"
+
+msgid "Failed to fork (%s)"
+msgstr "முட்கரண்டி (%s) இல் தோல்வியுற்றது"
+
+msgid "Failed to fork child process (%s)"
+msgstr "குழந்தை செயல்முறையை முடக்குவதில் தோல்வி (%s)"
+
+msgid "Failed to get attributes of file '%s': fstat() failed: %s"
+msgstr ""
+"' %S' கோப்பின் பண்புகளைப் பெறுவதில் தோல்வி: fstat () தோல்வியுற்றது: %s"
+
+msgid "Failed to map file '%s': mmap() failed: %s"
+msgstr "' %S' ஐ வரைபடமாக்குவதில் தோல்வி: MMAP () தோல்வியுற்றது: %s"
+
+msgid "Failed to open file '%s' for writing: fdopen() failed: %s"
+msgstr ""
+"எழுதுவதற்கு ' %s' கோப்பைத் திறக்கத் தவறிவிட்டது: FDopen () தோல்வியுற்றது: %s"
+
+msgid "Failed to open file '%s': %s"
+msgstr "கோப்பைத் திறக்கத் தவறிவிட்டது ' %s': %s"
+
+msgid "Failed to open file '%s': fdopen() failed: %s"
+msgstr "' %s' என்ற கோப்பைத் திறக்கத் தவறிவிட்டது: fdopen () தோல்வியுற்றது: %s"
+
+msgid "Failed to open file '%s': open() failed: %s"
+msgstr "' %s' என்ற கோப்பைத் திறக்கத் தவறிவிட்டது: திறந்த () தோல்வியுற்றது: %s"
+
+msgid ""
+"Failed to parse '%-.*s', which should have been a digit inside a character "
+"reference (&#234; for example) - perhaps the digit is too large"
+msgstr ""
+"'% -.*எச்' ஐ அலசத் தவறிவிட்டது, இது ஒரு எழுத்துக்குறி குறிப்புக்குள் ஒரு "
+"இலக்கமாக இருந்திருக்க வேண்டும் (&#234; எடுத்துக்காட்டாக) - ஒருவேளை "
+"இலக்கமானது மிகப் பெரியது"
+
+msgid "Failed to read data from child process"
+msgstr "குழந்தை செயல்முறையிலிருந்து தரவைப் படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to read data from child process (%s)"
+msgstr "குழந்தை செயல்முறையிலிருந்து (%s) தரவைப் படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to read enough data from child pid pipe (%s)"
+msgstr "சைல்ட் பிஐடி குழாயிலிருந்து (%s) போதுமான தரவைப் படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to read from child pipe (%s)"
+msgstr "குழந்தை குழாயிலிருந்து (%s) படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to read from file '%s': %s"
+msgstr "' %S' கோப்பிலிருந்து படிக்கத் தவறிவிட்டது: %s"
+
+msgid "Failed to read the symbolic link '%s': %s"
+msgstr "' %S' என்ற குறியீட்டு இணைப்பைப் படிக்கத் தவறிவிட்டது: %s"
+
+msgid "Failed to redirect output or input of child process (%s)"
+msgstr ""
+"குழந்தை செயல்முறையின் (%s) வெளியீடு அல்லது உள்ளீட்டை திருப்பிவிடுவதில் "
+"தோல்வி"
+
+msgid "Failed to rename file '%s' to '%s': g_rename() failed: %s"
+msgstr "%s"
+
+msgid "Failed to resize memory output stream"
+msgstr "நினைவக வெளியீட்டு ச்ட்ரீமை அளவை மாற்றுவதில் தோல்வி"
+
+msgid "Failed to write file '%s': fflush() failed: %s"
+msgstr "' %S' கோப்பை எழுதத் தவறிவிட்டது: fflush () தோல்வியுற்றது: %s"
+
+msgid "Failed to write file '%s': fsync() failed: %s"
+msgstr "' %S' கோப்பை எழுதத் தவறிவிட்டது: fsync () தோல்வியுற்றது: %s"
+
+msgid "Failed to write file '%s': fwrite() failed: %s"
+msgstr "' %s' என்ற கோப்பை எழுதத் தவறிவிட்டது: fwrite () தோல்வியுற்றது: %s"
+
+msgid "File \"%s\" is too large"
+msgstr "கோப்பு \"%s\" மிகப் பெரியது"
+
+msgid "File enumerator has outstanding operation"
+msgstr "கோப்பு கணக்காளருக்கு சிறந்த செயல்பாடு உள்ளது"
+
+msgid "File enumerator is already closed"
+msgstr "கோப்பு கணக்காளர் ஏற்கனவே மூடப்பட்டுள்ளது"
+
+msgid "File is empty"
+msgstr "கோப்பு காலியாக உள்ளது"
+
+msgid "File names cannot contain '%c'"
+msgstr "கோப்பு பெயர்களில் '%சி' இருக்க முடியாது"
+
+msgid "Filesystem root"
+msgstr "கோப்பு முறைமை ரூட்"
+
+msgid "GSocketControlMessage not supported on windows"
+msgstr "GsocketControlMessage சாளரங்களில் ஆதரிக்கப்படவில்லை"
+
+msgid "Help Options:"
+msgstr "உதவி விருப்பங்கள்:"
+
+msgid "Hostname '%s' contains '[' but not ']'"
+msgstr "ஓச்ட்பெயர் '%s' உள்ளது '[' ஆனால் 'இல்லை]'"
+
+msgid "Input stream doesn't implement read"
+msgstr "உள்ளீட்டு ச்ட்ரீம் வாசிப்பை செயல்படுத்தாது"
+
+msgid "Integer value '%s' for %s out of range"
+msgstr "%s வரம்பிற்கு வெளியே முழு மதிப்பு ' %s'"
+
+msgid "Integer value '%s' out of range"
+msgstr "முழு எண் '%s' வரம்பிற்கு வெளியே"
+
+msgid "Invalid GSeekType supplied"
+msgstr "தவறான GSEEKTYPE வழங்கப்பட்டது"
+
+msgid "Invalid UTF-8 encoded text in name - not valid '%s'"
+msgstr ""
+"பெயரில் தவறான யுடிஎஃப் -8 குறியிடப்பட்ட உரை - செல்லுபடியாகும் '%s' அல்ல"
+
+msgid "Invalid attribute type (byte string expected)"
+msgstr "தவறான பண்புக்கூறு வகை (பைட் சரம் எதிர்பார்க்கப்படுகிறது)"
+
+msgid "Invalid attribute type (string expected)"
+msgstr "தவறான பண்புக்கூறு வகை (சரம் எதிர்பார்க்கப்படுகிறது)"
+
+msgid "Invalid attribute type (uint32 expected)"
+msgstr "தவறான பண்புக்கூறு வகை (UINT32 எதிர்பார்க்கப்படுகிறது)"
+
+msgid "Invalid attribute type (uint64 expected)"
+msgstr "தவறான பண்புக்கூறு வகை (UINT64 எதிர்பார்க்கப்படுகிறது)"
+
+msgid "Invalid byte sequence in conversion input"
+msgstr "மாற்று உள்ளீட்டில் தவறான பைட் வரிசை"
+
+msgid "Invalid extended attribute name"
+msgstr "தவறான நீட்டிக்கப்பட்ட பண்புக்கூறு பெயர்"
+
+msgid "Invalid filename"
+msgstr "தவறான கோப்பு பெயர்"
+
+msgid "Invalid filename %s"
+msgstr "தவறான கோப்பு பெயர் %s"
+
+msgid "Invalid group name: %s"
+msgstr "தவறான குழு பெயர்: %s"
+
+msgid "Invalid hostname"
+msgstr "தவறான ஓச்ட்பெயர்"
+
+msgid "Invalid key name: %s"
+msgstr "தவறான முக்கிய பெயர்: %s"
+
+msgid "Invalid program name: %s"
+msgstr "தவறான நிரல் பெயர்: %s"
+
+msgid "Invalid seek request"
+msgstr "செல்லாத கோரிக்கை"
+
+msgid "Invalid sequence in conversion input"
+msgstr "மாற்று உள்ளீட்டில் தவறான வரிசை"
+
+msgid "Invalid socket, initialization failed due to: %s"
+msgstr "தவறான சாக்கெட், துவக்கம் தோல்வியுற்றது: %s"
+
+msgid "Invalid socket, not initialized"
+msgstr "தவறான சாக்கெட், துவக்கப்படவில்லை"
+
+msgid "Invalid string in argument vector at %d: %s"
+msgstr "வாத திசையன் %d: %s இல் தவறான சரம்"
+
+msgid "Invalid string in environment: %s"
+msgstr "சூழலில் தவறான சரம்: %s"
+
+msgid "Invalid symlink value given"
+msgstr "கொடுக்கப்பட்ட தவறான சிம்லிங்க் மதிப்பு"
+
+msgid "Invalid working directory: %s"
+msgstr "தவறான பணி அடைவு: %s"
+
+msgid "Key file contains escape character at end of line"
+msgstr "முக்கிய கோப்பில் வரியின் முடிவில் தப்பிக்கும் தன்மை உள்ளது"
+
+msgid "Key file contains invalid escape sequence '%s'"
+msgstr "முக்கிய கோப்பில் தவறான தப்பிக்கும் வரிசை '%s' உள்ளது"
+
+msgid ""
+"Key file contains key '%s' in group '%s' which has value that cannot be "
+"interpreted."
+msgstr ""
+"முக்கிய கோப்பில் குழு '%s' இல் முக்கிய '%s' உள்ளது, இது மதிப்பிட முடியாத "
+"மதிப்பைக் கொண்டுள்ளது."
+
+msgid ""
+"Key file contains key '%s' which has a value that cannot be interpreted."
+msgstr ""
+"முக்கிய கோப்பில் முக்கிய '%s' உள்ளது, இது விளக்க முடியாத மதிப்பைக் "
+"கொண்டுள்ளது."
+
+msgid "Key file contains key '%s' which has value that cannot be interpreted."
+msgstr ""
+"முக்கிய கோப்பில் முக்கிய '%s' உள்ளது, இது மதிப்பைக் கொண்ட மதிப்பைக் "
+"கொண்டுள்ளது."
+
+msgid "Key file contains key '%s' with value '%s' which is not UTF-8"
+msgstr "முக்கிய கோப்பில் UTF-8 இல்லாத '%s' மதிப்புடன் முக்கிய '%s' உள்ளது"
+
+msgid ""
+"Key file contains line '%s' which is not a key-value pair, group, or comment"
+msgstr ""
+"முக்கிய கோப்பில் '%s' வரி உள்ளது, இது ஒரு முக்கிய மதிப்பு இணை, குழு அல்லது "
+"கருத்து அல்ல"
+
+msgid "Key file contains unsupported encoding '%s'"
+msgstr "முக்கிய கோப்பில் ஆதரிக்கப்படாத குறியாக்கம் '%s' உள்ளது"
+
+msgid "Key file does not have group '%s'"
+msgstr "முக்கிய கோப்பில் '%s' குழு இல்லை"
+
+msgid "Key file does not have key '%s'"
+msgstr "முக்கிய கோப்பில் முக்கிய '%s' இல்லை"
+
+msgid "Key file does not have key '%s' in group '%s'"
+msgstr "முக்கிய கோப்பில் '%s' என்ற முக்கிய கோப்பில் முக்கிய '%s' இல்லை"
+
+msgid "Key file does not start with a group"
+msgstr "முக்கிய கோப்பு ஒரு குழுவுடன் தொடங்காது"
+
+msgid "Leftover unconverted data in read buffer"
+msgstr "வாசிப்பு இடையகத்தில் மீதமுள்ள மாற்றப்படாத தரவு"
+
+msgid "Listener is already closed"
+msgstr "கேட்பவர் ஏற்கனவே மூடப்பட்டுள்ளார்"
+
+msgid "Malformed input data for GFileIcon"
+msgstr "Gfileicon க்கான தவறான உள்ளீட்டு தரவு"
+
+msgid "Malformed number of tokens (%d) in GEmblem encoding"
+msgstr "செம்லெம் குறியாக்கத்தில் டோக்கன்களின் தவறான எண்ணிக்கை (%d)"
+
+msgid "Malformed number of tokens (%d) in GEmblemedIcon encoding"
+msgstr "செம்லாம்பிளிசான் குறியாக்கத்தில் டோக்கன்களின் தவறான எண்ணிக்கை (%d)"
+
+msgid "Malformed version number: %s"
+msgstr "தவறாக பதிப்பு எண்: %s"
+
+msgid "Memory output stream not resizable"
+msgstr "நினைவக வெளியீடு ச்ட்ரீம் மாற்றியமைக்க முடியாது"
+
+msgid "Missing argument for %s"
+msgstr "%s காணவில்லை"
+
+msgid "Move between mounts not supported"
+msgstr "ஆதரிக்கப்படாத ஏற்றங்களுக்கு இடையில் நகர்வு"
+
+msgid "No MIME type defined in the bookmark for URI '%s'"
+msgstr "யூரி '%s' க்கான புக்மார்க்கில் MIME வகை வரையறுக்கப்படவில்லை"
+
+msgid "No application is registered as handling this file"
+msgstr "இந்த கோப்பைக் கையாளும் எந்த விண்ணப்பமும் பதிவு செய்யப்படவில்லை"
+
+msgid "No application with name '%s' registered a bookmark for '%s'"
+msgstr ""
+"'%S' என்ற பெயருடன் எந்த விண்ணப்பமும் '%s' க்கு ஒரு புத்தகக்குறியை பதிவு "
+"செய்யவில்லை"
+
+msgid "No bookmark found for URI '%s'"
+msgstr "யூரி '%s' க்கு புக்மார்க்கு எதுவும் கிடைக்கவில்லை"
+
+msgid "No groups set in bookmark for URI '%s'"
+msgstr "யூரி '%s' க்கு புக்மார்க்கில் அமைக்கப்பட்ட எந்த குழுக்களும் இல்லை"
+
+msgid "No private flag has been defined in bookmark for URI '%s'"
+msgstr ""
+"யூரி '%s' க்கான புக்மார்க்கில் எந்த தனியார் கொடியும் வரையறுக்கப்படவில்லை"
+
+msgid "No service record for '%s'"
+msgstr "'%s' க்கு பணி பதிவு இல்லை"
+
+msgid "No type for class name %s"
+msgstr "வகுப்பு பெயர் %s க்கு வகை இல்லை"
+
+msgid "No valid bookmark file found in data dirs"
+msgstr "தரவு dirs இல் செல்லுபடியாகும் புக்மார்க்கு கோப்பு இல்லை"
+
+msgid "Not a regular file"
+msgstr "வழக்கமான கோப்பு அல்ல"
+
+msgid "Not enough space for socket address"
+msgstr "சாக்கெட் முகவரிக்கு போதுமான இடம் இல்லை"
+
+msgid ""
+"Odd character '%s', expected a '=' after attribute name '%s' of element '%s'"
+msgstr ""
+"ஒற்றைப்படை எழுத்து '%s', ஒரு '=' என்ற பண்புக்கூறு பெயருக்குப் பிறகு '%s' "
+"உறுப்பு '%s'"
+
+msgid ""
+"Odd character '%s', expected a '>' character to end the empty-element tag "
+"'%s'"
+msgstr ""
+"ஒற்றைப்படை எழுத்து '%s', வெற்று-உறுப்பு குறிச்சொல்லை '%s' முடிவுக்கு "
+"கொண்டுவரும் என்று எதிர்பார்க்கப்படுகிறது"
+
+msgid ""
+"Odd character '%s', expected a '>' or '/' character to end the start tag of "
+"element '%s', or optionally an attribute; perhaps you used an invalid "
+"character in an attribute name"
+msgstr ""
+"ஒற்றைப்படை எழுத்து '%s', ஒரு '>' அல்லது '/' எழுத்து '%s' இன் தொடக்கக் "
+"குறிச்சொல்லை முடிக்க எதிர்பார்க்கப்படுகிறது, அல்லது விருப்பமாக ஒரு "
+"பண்புக்கூறு; ஒருவேளை நீங்கள் ஒரு பண்புக்கூறு பெயரில் தவறான தன்மையைப் "
+"பயன்படுத்தினீர்கள்"
+
+msgid ""
+"Odd character '%s', expected an open quote mark after the equals sign when "
+"giving value for attribute '%s' of element '%s'"
+msgstr "'%s'"
+
+msgid "Operation not supported"
+msgstr "செயல்பாடு ஆதரிக்கப்படவில்லை"
+
+msgid "Operation was cancelled"
+msgstr "செயல்பாடு ரத்து செய்யப்பட்டது"
+
+msgid "Output stream doesn't implement write"
+msgstr "வெளியீட்டு ச்ட்ரீம் எழுத்தை செயல்படுத்தாது"
+
+msgid "PCRE library is compiled without UTF8 properties support"
+msgstr ""
+"பி.சி.ஆர்.இ நூலகம் யுடிஎஃப் 8 பண்புகள் உதவி இல்லாமல் தொகுக்கப்பட்டுள்ளது"
+
+msgid "PCRE library is compiled without UTF8 support"
+msgstr "பி.சி.ஆர்.இ நூலகம் யுடிஎஃப் 8 உதவி இல்லாமல் தொகுக்கப்பட்டுள்ளது"
+
+msgid "POSIX collating elements are not supported"
+msgstr "POSIX COMMATING கூறுகள் ஆதரிக்கப்படவில்லை"
+
+msgid "POSIX named classes are supported only within a class"
+msgstr ""
+"POSIX பெயரிடப்பட்ட வகுப்புகள் ஒரு வகுப்பிற்குள் மட்டுமே ஆதரிக்கப்படுகின்றன"
+
+msgid "Partial character sequence at end of input"
+msgstr "உள்ளீட்டின் முடிவில் பகுதி எழுத்து வரிசை"
+
+msgid "Quoted text doesn't begin with a quotation mark"
+msgstr "மேற்கோள் உரை மேற்கோள் அடையாளத்துடன் தொடங்காது"
+
+msgid "Received invalid fd"
+msgstr "தவறான எஃப்.டி."
+
+msgid "SELinux context must be non-NULL"
+msgstr "செலினக்ச் சூழல் பூசப்படாததாக இருக்க வேண்டும்"
+
+msgid "SELinux is not enabled on this system"
+msgstr "இந்த கணினியில் செலினக்ச் இயக்கப்படவில்லை"
+
+msgid "Seek not supported on stream"
+msgstr "ச்ட்ரீமில் ஆதரிக்கப்படவில்லை"
+
+msgid "Setting attribute %s not supported"
+msgstr "பண்புக்கூறு %s ஆதரிக்கப்படவில்லை"
+
+msgid "Show all help options"
+msgstr "அனைத்து உதவி விருப்பங்களையும் காட்டு"
+
+msgid "Show help options"
+msgstr "உதவி விருப்பங்களைக் காட்டு"
+
+msgid "Socket is already closed"
+msgstr "சாக்கெட் ஏற்கனவே மூடப்பட்டுள்ளது"
+
+msgid "Source stream is already closed"
+msgstr "மூல ச்ட்ரீம் ஏற்கனவே மூடப்பட்டுள்ளது"
+
+msgid "Stream doesn't support query_info"
+msgstr "ச்ட்ரீம் வினவல்_இன்ஃபோவை ஆதரிக்காது"
+
+msgid "Stream has outstanding operation"
+msgstr "ச்ட்ரீம் நிலுவையில் உள்ள செயல்பாட்டைக் கொண்டுள்ளது"
+
+msgid "Stream is already closed"
+msgstr "ச்ட்ரீம் ஏற்கனவே மூடப்பட்டுள்ளது"
+
+msgid "Symbolic links not supported"
+msgstr "குறியீட்டு இணைப்புகள் ஆதரிக்கப்படவில்லை"
+
+msgid "Target file exists"
+msgstr "இலக்கு கோப்பு உள்ளது"
+
+msgid "Target file is a directory"
+msgstr "இலக்கு கோப்பு ஒரு அடைவு"
+
+msgid "Target file is not a regular file"
+msgstr "இலக்கு கோப்பு வழக்கமான கோப்பு அல்ல"
+
+msgid "Template '%s' doesn't contain XXXXXX"
+msgstr "வார்ப்புரு '%s' இல் xxxxxx இல்லை"
+
+msgid "Template '%s' invalid, should not contain a '%s'"
+msgstr "வார்ப்புரு '%s' செல்லாது, '%s' இருக்கக்கூடாது"
+
+msgid "Temporarily unable to resolve '%s'"
+msgstr "தற்காலிகமாக '%s' தீர்க்க முடியவில்லை"
+
+msgid "Text ended before matching quote was found for %c. (The text was '%s')"
+msgstr ""
+"பொருந்தக்கூடிய மேற்கோள் %c க்கு கண்டறியப்படுவதற்கு முன்பு உரை முடிந்தது. "
+"(உரை '%s')"
+
+msgid "Text ended just after a '\\' character. (The text was '%s')"
+msgstr "ஒரு '\\' எழுத்துக்குப் பிறகு உரை முடிந்தது. (உரை '%s')"
+
+msgid "Text was empty (or contained only whitespace)"
+msgstr "உரை காலியாக இருந்தது (அல்லது இடைவெளி மட்டுமே உள்ளது)"
+
+msgid "The URI '%s' contains invalidly escaped characters"
+msgstr "யூரி '%s' செல்லாத வகையில் தப்பித்த எழுத்துக்களைக் கொண்டுள்ளன"
+
+msgid "The URI '%s' is invalid"
+msgstr "யூரி '%s' தவறானது"
+
+msgid "The URI '%s' is not an absolute URI using the \"file\" scheme"
+msgstr ""
+"யூரி '%s' என்பது \"கோப்பு\" திட்டத்தைப் பயன்படுத்தி ஒரு முழுமையான யூரி அல்ல"
+
+msgid "The file was externally modified"
+msgstr "கோப்பு வெளிப்புறமாக மாற்றப்பட்டது"
+
+msgid "The hostname of the URI '%s' is invalid"
+msgstr "யூரி '%s' இன் ஓச்ட்பெயர் தவறானது"
+
+msgid "The local file URI '%s' may not include a '#'"
+msgstr "உள்ளக கோப்பு யூரி '%s' ஒரு '#' ஐ சேர்க்கக்கூடாது"
+
+msgid "The pathname '%s' is not an absolute path"
+msgstr "பாதை பெயர் '%s' ஒரு முழுமையான பாதை அல்ல"
+
+msgid "Too large count value passed to %s"
+msgstr "மிகப் பெரிய எண்ணிக்கையிலான மதிப்பு %s க்கு அனுப்பப்பட்டது"
+
+msgid "Trash not supported"
+msgstr "குப்பை ஆதரிக்கப்படவில்லை"
+
+msgid "Truncate not allowed on input stream"
+msgstr "உள்ளீட்டு ச்ட்ரீமில் அனுமதிக்கப்படவில்லை"
+
+msgid "Truncate not supported on stream"
+msgstr "ச்ட்ரீமில் ஆதரிக்கப்படவில்லை"
+
+msgid "Type %s does not implement from_tokens() on the GIcon interface"
+msgstr "கிகான் இடைமுகத்தில்_ டோகன்ச் () இலிருந்து வகை %s செயல்படுத்தாது"
+
+msgid "Type %s does not implement the GIcon interface"
+msgstr "வகை %s கிகான் இடைமுகத்தை செயல்படுத்தாது"
+
+msgid "Type %s is not classed"
+msgstr "வகை %s வகைப்படுத்தப்படவில்லை"
+
+msgid "URIs not supported"
+msgstr "URIS ஆதரிக்கப்படவில்லை"
+
+msgid "Unable to create socket: %s"
+msgstr "சாக்கெட் உருவாக்க முடியவில்லை: %s"
+
+msgid "Unable to create trash dir %s: %s"
+msgstr "குப்பைத் தொட்டியை உருவாக்க முடியவில்லை %s: %s"
+
+msgid "Unable to create trashing info file: %s"
+msgstr "குப்பை செய்தி கோப்பை உருவாக்க முடியவில்லை: %s"
+
+msgid "Unable to find default local directory monitor type"
+msgstr "இயல்புநிலை உள்ளக அடைவு மானிட்டர் வகையை கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Unable to find default local file monitor type"
+msgstr "இயல்புநிலை உள்ளக கோப்பு மானிட்டர் வகையை கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Unable to find or create trash directory"
+msgstr "குப்பை கோப்பகத்தைக் கண்டுபிடிக்க அல்லது உருவாக்க முடியவில்லை"
+
+msgid "Unable to find terminal required for application"
+msgstr "பயன்பாட்டிற்கு தேவையான முனையத்தைக் கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Unable to find toplevel directory for trash"
+msgstr "குப்பைக்கான டோப்ல்வெல் கோப்பகத்தைக் கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Unable to get pending error: %s"
+msgstr "நிலுவையில் உள்ள பிழையைப் பெற முடியவில்லை: %s"
+
+msgid "Unable to trash file: %s"
+msgstr "குப்பை கோப்பு: %s"
+
+msgid "Unexpected attribute '%s' for element '%s'"
+msgstr "உறுப்பு '%s' க்கான எதிர்பாராத பண்புக்கூறு '%s'"
+
+msgid "Unexpected early end-of-stream"
+msgstr "எதிர்பாராத ஆரம்பகால ச்ட்ரீம்"
+
+msgid ""
+"Unexpected error in g_io_channel_win32_poll() reading data from a child "
+"process"
+msgstr ""
+"G_io_channel_win32_poll () குழந்தை செயல்முறையிலிருந்து தரவைப் படிப்பது "
+"எதிர்பாராத பிழை"
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr ""
+"குழந்தை செயல்முறையிலிருந்து (%s) தரவைத் தேர்ந்தெடுப்பதில் எதிர்பாராத பிழை ()"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "வெயிட்பிட் () (%s) இல் எதிர்பாராத பிழை"
+
+msgid "Unexpected tag '%s' inside '%s'"
+msgstr "எதிர்பாராத குறிச்சொல் '%s' உள்ளே '%s'"
+
+msgid "Unexpected tag '%s', tag '%s' expected"
+msgstr "எதிர்பாராத குறிச்சொல் '%s', குறிச்சொல் '%s' எதிர்பார்க்கப்படுகிறது"
+
+msgid "Unexpected type of ancillary data"
+msgstr "எதிர்பாராத வகை துணை தரவு"
+
+msgid "Unknown error executing child process \"%s\""
+msgstr "குழந்தை செயல்முறையை செயல்படுத்துவதில் தெரியாத பிழை \"%s\""
+
+msgid "Unknown error on connect"
+msgstr "இணைப்பில் தெரியாத பிழை"
+
+msgid "Unknown option %s"
+msgstr "அறியப்படாத விருப்பம் %s"
+
+msgid "Unknown protocol was specified"
+msgstr "அறியப்படாத நெறிமுறை குறிப்பிடப்பட்டது"
+
+msgid "Unknown type"
+msgstr "தெரியாத வகை"
+
+msgid "Unmatched quotation mark in command line or other shell-quoted text"
+msgstr ""
+"கட்டளை வரியில் அல்லது செல்-மேற்கோள் காட்டப்பட்ட உரையில் ஒப்பிடமுடியாத "
+"மேற்கோள் குறி"
+
+msgid "Unnamed"
+msgstr "பெயரில்லாதது"
+
+msgid "Unsupported socket address"
+msgstr "ஆதரிக்கப்படாத சாக்கெட் முகவரி"
+
+msgid "Usage:"
+msgstr "பயன்பாடு:"
+
+msgid "Valid key file could not be found in search dirs"
+msgstr "செல்லுபடியாகும் விசை கோப்பை தேடல் dirs இல் காண முடியவில்லை"
+
+msgid "Value '%s' cannot be interpreted as a boolean."
+msgstr "மதிப்பை '%s' ஒரு பூலியன் என்று விளக்க முடியாது."
+
+msgid "Value '%s' cannot be interpreted as a float number."
+msgstr "மதிப்பை '%s' ஒரு மிதவை எண்ணாக விளக்க முடியாது."
+
+msgid "Value '%s' cannot be interpreted as a number."
+msgstr "மதிப்பை '%s' ஒரு எண்ணாக விளக்க முடியாது."
+
+msgid "Waiting for socket condition: %s"
+msgstr "சாக்கெட் நிலைக்கு காத்திருக்கிறது: %s"
+
+msgid "Wrong number of tokens (%d)"
+msgstr "டோக்கன்களின் தவறான எண்ணிக்கை (%d)"
+
+msgid "[OPTION...]"
+msgstr "[விருப்பம் ...]"
+
+msgid "\\ at end of pattern"
+msgstr "The வடிவத்தின் முடிவில்"
+
+msgid "\\C not allowed in lookbehind assertion"
+msgstr "\\ C தேடல் கூற்றில் அனுமதிக்கப்படவில்லை"
+
+msgid "\\c at end of pattern"
+msgstr "\\ c வடிவத்தின் முடிவில்"
+
+msgid ""
+"\\g is not followed by a braced name or an optionally braced non-zero number"
+msgstr ""
+"\\ g ஒரு அடைப்புக்குறி பெயர் அல்லது விருப்பமாக அடைப்புக்குறி பூச்சியமற்ற "
+"எண்ணால் பின்பற்றப்படவில்லை"
+
+msgid "assertion expected after (?("
+msgstr "பின்னர் எதிர்பார்க்கப்படும் கூற்று ((? (?"
+
+msgid "association changes not supported on win32"
+msgstr "சங்க மாற்றங்கள் WIN32 இல் ஆதரிக்கப்படவில்லை"
+
+msgid "back references as conditions are not supported for partial matching"
+msgstr ""
+"பகுதி பொருத்தத்திற்கு நிபந்தனைகள் ஆதரிக்கப்படவில்லை என்பதால் பின் "
+"குறிப்புகள்"
+
+msgid "backtracking limit reached"
+msgstr "பின்னடைவு வரம்பு எட்டப்பட்டது"
+
+msgid "case-changing escapes (\\l, \\L, \\u, \\U) are not allowed here"
+msgstr ""
+"வழக்கு மாற்றும் தப்பிப்புகள் (\\ l, \\ l, \\ u, \\ u) இங்கே "
+"அனுமதிக்கப்படவில்லை"
+
+msgid "character value in \\x{...} sequence is too large"
+msgstr "\\ ஃச் {...} வரிசையில் எழுத்து மதிப்பு மிகப் பெரியது"
+
+msgid "code overflow"
+msgstr "குறியீடு வழிதல்"
+
+msgid "conditional group contains more than two branches"
+msgstr "நிபந்தனை குழுவில் இரண்டு கிளைகளுக்கு மேல் உள்ளது"
+
+msgid "corrupted object"
+msgstr "சிதைந்த பொருள்"
+
+msgid "could not get local address: %s"
+msgstr "உள்ளக முகவரியைப் பெற முடியவில்லை: %s"
+
+msgid "could not get remote address: %s"
+msgstr "தொலை முகவரியைப் பெற முடியவில்லை: %s"
+
+msgid "could not listen: %s"
+msgstr "கேட்க முடியவில்லை: %s"
+
+msgid "creating GSocket from fd: %s"
+msgstr "FD இலிருந்து Gsocket ஐ உருவாக்குதல்: %s"
+
+msgid "digit expected"
+msgstr "இலக்க எதிர்பார்க்கப்படுகிறது"
+
+msgid "drive doesn't implement eject"
+msgstr "இயக்கி வெளியேற்றத்தை செயல்படுத்தாது"
+
+msgid "drive doesn't implement eject or eject_with_operation"
+msgstr "இயக்கி eject அல்லது eject_with_operation ஐ செயல்படுத்தாது"
+
+msgid "drive doesn't implement polling for media"
+msgstr "இயக்கி ஊடகங்களுக்கான வாக்குப்பதிவை செயல்படுத்தாது"
+
+msgid "drive doesn't implement start"
+msgstr "இயக்கி தொடக்கத்தை செயல்படுத்தாது"
+
+msgid "drive doesn't implement stop"
+msgstr "இயக்கி நிறுத்தத்தை செயல்படுத்தாது"
+
+msgid "failed to get memory"
+msgstr "நினைவகம் பெறுவதில் தோல்வி"
+
+msgid "hexadecimal digit expected"
+msgstr "எக்சாடெசிமல் இலக்க எதிர்பார்க்கப்படுகிறது"
+
+msgid "hexadecimal digit or '}' expected"
+msgstr "எக்சாடெசிமல் இலக்க அல்லது '}' எதிர்பார்க்கப்படுகிறது"
+
+msgid "illegal symbolic reference"
+msgstr "சட்டவிரோத குறியீட்டு குறிப்பு"
+
+msgid "inconsistent NEWLINE options"
+msgstr "சீரற்ற புதிய விருப்பங்கள்"
+
+msgid "internal error"
+msgstr "உள் பிழை"
+
+msgid "internal error or corrupted object"
+msgstr "உள் பிழை அல்லது சிதைந்த பொருள்"
+
+msgid "invalid combination of newline flags"
+msgstr "நியூலைன் கொடிகளின் தவறான சேர்க்கை"
+
+msgid "invalid condition (?(0)"
+msgstr "தவறான நிலை (? (0)"
+
+msgid "invalid escape sequence in character class"
+msgstr "எழுத்து வகுப்பில் தவறான தப்பிக்கும் வரிசை"
+
+msgid "lookbehind assertion is not fixed length"
+msgstr "தேடல் வலியுறுத்தல் நிலையான நீளம் அல்ல"
+
+msgid "malformed \\P or \\p sequence"
+msgstr "தவறாக \\ p அல்லது \\ p வரிசை"
+
+msgid "malformed number or name after (?("
+msgstr "தவறாக எண் அல்லது பெயர் (? (? (?"
+
+msgid "missing '<' in symbolic reference"
+msgstr "குறியீட்டு குறிப்பில் '<' காணவில்லை"
+
+msgid "missing ) after comment"
+msgstr "காணவில்லை) கருத்துக்குப் பிறகு"
+
+msgid "missing terminating )"
+msgstr "நிறுத்தப்படுவதைக் காணவில்லை)"
+
+msgid "missing terminating ] for character class"
+msgstr "எழுத்துக்குறி வகுப்பிற்கு நிறுத்தப்படுவதைக் காணவில்லை"
+
+msgid "missing terminator in subpattern name"
+msgstr "சப் பேட்டர்ன் பெயரில் டெர்மினேட்டரைக் காணவில்லை"
+
+msgid "mount doesn't implement content type guessing"
+msgstr "மவுண்ட் உள்ளடக்க வகை யூகத்தை செயல்படுத்தாது"
+
+msgid "mount doesn't implement synchronous content type guessing"
+msgstr "மவுண்ட் ஒத்திசைவான உள்ளடக்க வகை யூகத்தை செயல்படுத்தாது"
+
+msgid "nothing to repeat"
+msgstr "மீண்டும் செய்ய எதுவும் இல்லை"
+
+msgid "number too big in {} quantifier"
+msgstr "}} அளவுகோலில் எண் மிகப் பெரியது"
+
+msgid "numbers out of order in {} quantifier"
+msgstr "}} அளவுகோலில் வரிசையில் எண்கள்"
+
+msgid "octal value is greater than \\377"
+msgstr "ஆக்டல் மதிப்பு 7 377 ஐ விட அதிகமாக உள்ளது"
+
+msgid "out of memory"
+msgstr "நினைவகத்திற்கு வெளியே"
+
+msgid "overran compiling workspace"
+msgstr "தொகுக்கும் பணியிடத்தை மீறுகிறது"
+
+msgid "previously-checked referenced subpattern not found"
+msgstr ""
+"முன்னர் சரிபார்க்கப்பட்ட குறிப்பிடப்பட்ட துணைப்பொருட்கள் காணப்படவில்லை"
+
+msgid "range out of order in character class"
+msgstr "எழுத்து வகுப்பில் வரிசையில் இல்லை"
+
+msgid "recursion limit reached"
+msgstr "மறுநிகழ்வு வரம்பு எட்டப்பட்டது"
+
+msgid "recursive call could loop indefinitely"
+msgstr "சுழல்நிலை அழைப்பு காலவரையின்றி சுழலும்"
+
+msgid "reference to non-existent subpattern"
+msgstr "இல்லாத துணைப்பகுதிக்கான குறிப்பு"
+
+msgid "regular expression too large"
+msgstr "வழக்கமான வெளிப்பாடு மிகப் பெரியது"
+
+msgid "repeating a DEFINE group is not allowed"
+msgstr "வரையறுக்கப்பட்ட குழுவை மீண்டும் செய்ய அனுமதிக்கப்படவில்லை"
+
+msgid "stray final '\\'"
+msgstr "தவறான இறுதி '\\'"
+
+msgid "subpattern name is too long (maximum 32 characters)"
+msgstr "சப் பேட்டர்ன் பெயர் மிக நீளமானது (அதிகபட்சம் 32 எழுத்துக்கள்)"
+
+msgid "symlink must be non-NULL"
+msgstr "சிம்லிங்க் பூசப்படாததாக இருக்க வேண்டும்"
+
+msgid "the pattern contains items not supported for partial matching"
+msgstr "இந்த வடிவத்தில் பகுதி பொருத்தத்திற்கு ஆதரிக்கப்படாத உருப்படிகள் உள்ளன"
+
+msgid "too many named subpatterns (maximum 10,000)"
+msgstr "பெயரிடப்பட்ட துணை வடிவங்கள் (அதிகபட்சம் 10,000)"
+
+msgid "two named subpatterns have the same name"
+msgstr "பெயரிடப்பட்ட இரண்டு துணை வடிவங்கள் ஒரே பெயரைக் கொண்டுள்ளன"
+
+msgid "unexpected repeat"
+msgstr "எதிர்பாராத மறுபடியும்"
+
+msgid "unfinished symbolic reference"
+msgstr "முடிக்கப்படாத குறியீட்டு குறிப்பு"
+
+msgid "unknown POSIX class name"
+msgstr "தெரியாத POSIX வகுப்பு பெயர்"
+
+msgid "unknown error"
+msgstr "தெரியாத பிழை"
+
+msgid "unknown escape sequence"
+msgstr "தெரியாத தப்பிக்கும் வரிசை"
+
+msgid "unknown property name after \\P or \\p"
+msgstr "\\ p அல்லது \\ p க்குப் பிறகு அறியப்படாத சொத்து பெயர்"
+
+msgid "unrecognized character after (?"
+msgstr "அங்கீகரிக்கப்படாத தன்மை (?"
+
+msgid "unrecognized character after (?<"
+msgstr "அங்கீகரிக்கப்படாத தன்மை (? <"
+
+msgid "unrecognized character after (?P"
+msgstr "அங்கீகரிக்கப்படாத தன்மை (? ப"
+
+msgid "unrecognized character follows \\"
+msgstr "அங்கீகரிக்கப்படாத தன்மை பின்வருமாறு \\"
+
+msgid "volume doesn't implement eject"
+msgstr "தொகுதி வெளியேற்றத்தை செயல்படுத்தாது"
+
+msgid "volume doesn't implement eject or eject_with_operation"
+msgstr "தொகுதி eject அல்லது eject_with_operation ஐ செயல்படுத்தாது"
+
+msgid "volume doesn't implement mount"
+msgstr "தொகுதி மவுண்ட் செயல்படுத்தாது"
+
+msgid "workspace limit for empty substrings reached"
+msgstr "வெற்று அடி மூலக்கூறுகளுக்கான பணியிட வரம்பு"
+
+msgid "zero-length symbolic reference"
+msgstr "சுழிய நீள குறியீட்டு குறிப்பு"

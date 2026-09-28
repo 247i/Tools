@@ -1,0 +1,5647 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+-properties.master.ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-10 11:56-0400\n"
+"PO-Revision-Date: 2024-10-11 22:46+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "A GdkImage to display"
+msgstr "காண்பிக்க ஒரு gdkimage"
+
+msgid "A GdkPixbuf to display"
+msgstr "காண்பிக்க ஒரு gdkpixbuf"
+
+msgid "A GdkPixmap to display"
+msgstr "காண்பிக்க ஒரு gdkpixmap"
+
+msgid ""
+"A GtkPackType indicating whether the child is packed with reference to the "
+"start or end of the parent"
+msgstr ""
+"பெற்றோரின் தொடக்க அல்லது முடிவைக் குறிக்கும் குழந்தை நிரம்பியிருக்கிறதா "
+"என்பதைக் குறிக்கும் ஒரு GtkPackType"
+
+msgid "A boolean that determines whether the menu grabs the keyboard focus"
+msgstr ""
+"பட்டியல் விசைப்பலகை மையத்தைப் பிடிக்கிறதா என்பதை தீர்மானிக்கும் ஒரு பூலியன்"
+
+msgid "A boolean that indicates whether the menu is torn-off"
+msgstr "பட்டியல் கிழிந்ததா என்பதைக் குறிக்கும் பூலியன்"
+
+msgid ""
+"A boolean that indicates whether the menu reserves space for toggles and "
+"icons"
+msgstr ""
+"பட்டியல் மாற்று மற்றும் ஐகான்களுக்கான இடத்தைக் கொண்டிருக்கிறதா என்பதைக் "
+"குறிக்கும் ஒரு பூலியன்"
+
+msgid ""
+"A boolean value indicating whether the handlebox's child is attached or "
+"detached."
+msgstr ""
+"ஏண்டில்பாக்சின் குழந்தை இணைக்கப்பட்டுள்ளதா அல்லது பிரிக்கப்பட்டதா என்பதைக் "
+"குறிக்கும் பூலியன் மதிப்பு."
+
+msgid "A column in the data source model to get the strings from"
+msgstr "சரங்களை பெற தரவு மூல மாதிரியில் ஒரு நெடுவரிசை"
+
+msgid "A hash table representation of the color scheme."
+msgstr "வண்ணத் திட்டத்தின் ஆச் அட்டவணை பிரதிநிதித்துவம்."
+
+msgid "A human-readable description of the status"
+msgstr "அந்தச்தின் மனிதனால் படிக்கக்கூடிய விளக்கம்"
+
+msgid "A list of style attributes to apply to the text of the label"
+msgstr "லேபிளின் உரைக்கு விண்ணப்பிக்க பாணி பண்புகளின் பட்டியல்"
+
+msgid "A list of style attributes to apply to the text of the renderer"
+msgstr "ரெண்டரரின் உரைக்கு விண்ணப்பிக்க பாணி பண்புகளின் பட்டியல்"
+
+msgid ""
+"A logo for the about box. If this is not set, it defaults to "
+"gtk_window_get_default_icon_list()"
+msgstr "gtk_window_get_default_icon_list() అప్రమేయాలకు అమర్చబడును"
+
+msgid "A name for the action group."
+msgstr "அதிரடி குழுவிற்கான பெயர்."
+
+msgid "A named icon to use as the logo for the about box."
+msgstr "பற்றி பெட்டியின் லோகோவாக பயன்படுத்த பெயரிடப்பட்ட படவுரு."
+
+msgid "A palette of named colors for use in themes"
+msgstr "கருப்பொருள்களில் பயன்படுத்த பெயரிடப்பட்ட வண்ணங்களின் தட்டு"
+
+msgid "A pointer to the pixel data of the pixbuf"
+msgstr "பிக்ச்புஃப் படப்புள்ளி தரவுக்கு ஒரு சுட்டிக்காட்டி"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "கருவிப்பட்டி பொத்தான்களில் பயன்படுத்தக்கூடிய குறுகிய சிட்டை."
+
+msgid "A string used for identifying the print job."
+msgstr "அச்சு வேலையை அடையாளம் காண பயன்படுத்தப்படும் ஒரு சரம்."
+
+msgid ""
+"A string with _ characters in positions correspond to characters in the text"
+" to underline"
+msgstr ""
+"நிலைகளில் _ எழுத்துக்களைக் கொண்ட ஒரு சரம் உரையில் உள்ள எழுத்துக்களுடன் "
+"ஒத்துப்போகிறது"
+
+msgid ""
+"A title that may be displayed by the window manager when the popup is torn-"
+"off"
+msgstr ""
+"பாப்அப் கிழிந்து போகும்போது சாளர மேலாளரால் காண்பிக்கப்படக்கூடிய தலைப்பு"
+
+msgid ""
+"A title that may be displayed by the window manager when this menu is torn-"
+"off"
+msgstr "இந்த பட்டியல் கிழிந்தால் சாளர மேலாளரால் காண்பிக்கப்படக்கூடிய தலைப்பு"
+
+msgid "A tooltip for this action."
+msgstr "இந்த செயலுக்கான உதவிக்குறிப்பு."
+
+msgid "A unique name for the action."
+msgstr "செயலுக்கு ஒரு தனித்துவமான பெயர்."
+
+msgid "A widget to display in place of the usual expander label"
+msgstr "வழக்கமான விரிவாக்க லேபிளுக்கு பதிலாக காண்பிக்க ஒரு விட்செட்"
+
+msgid "A widget to display in place of the usual frame label"
+msgstr "வழக்கமான பிரேம் லேபிளுக்கு பதிலாக காண்பிக்க ஒரு விட்செட்"
+
+msgid "Above child"
+msgstr "குழந்தைக்கு மேலே"
+
+msgid "Accel Group"
+msgstr "குழு"
+
+msgid "Accel Path"
+msgstr "முடி பாதை"
+
+msgid "Accelerator Closure"
+msgstr "முடுக்கி மூடல்"
+
+msgid "Accelerator Mode"
+msgstr "முடுக்கி பயன்முறை"
+
+msgid "Accelerator Widget"
+msgstr "முடுக்கி விட்செட்"
+
+msgid "Accelerator key"
+msgstr "முடுக்கி விசை"
+
+msgid "Accelerator keycode"
+msgstr "முடுக்கி விசை குறியீடு"
+
+msgid "Accelerator modifiers"
+msgstr "முடுக்கி மாற்றியமைப்பாளர்கள்"
+
+msgid "Accept focus"
+msgstr "கவனம் ஏற்றுக்கொள்ளுங்கள்"
+
+msgid "Accepting Jobs"
+msgstr "வேலைகளை ஏற்றுக்கொள்வது"
+
+msgid "Accepts PDF"
+msgstr "PDF ஐ ஏற்றுக்கொள்கிறது"
+
+msgid "Accepts PostScript"
+msgstr "போச்ட்ச்கிரிப்டை ஏற்றுக்கொள்கிறது"
+
+msgid "Accepts tab"
+msgstr "தாவலை ஏற்றுக்கொள்கிறது"
+
+msgid "Action"
+msgstr "செயல்"
+
+msgid "Action Group"
+msgstr "செயல் குழு"
+
+msgid "Action area border"
+msgstr "செயல் பகுதி எல்லை"
+
+msgid "Activatable"
+msgstr "சட்டகை IVA அட்டவணை"
+
+msgid "Activates default"
+msgstr "இயல்புநிலையை செயல்படுத்துகிறது"
+
+msgid "Active"
+msgstr "செயலில்"
+
+msgid "Active item"
+msgstr "செயலில் உள்ள உருப்படி"
+
+msgid "Activity Blocks"
+msgstr "செயல்பாட்டு தொகுதிகள்"
+
+msgid "Activity Step"
+msgstr "செயல்பாட்டு படி"
+
+msgid "Activity mode"
+msgstr "செயல்பாட்டு முறை"
+
+msgid "Add tearoffs to menus"
+msgstr "மெனுக்களில் கண்ணீரை சேர்க்கவும்"
+
+msgid "Adjustment"
+msgstr "சரிசெய்தல்"
+
+msgid "Align set"
+msgstr "சீரமை தொகுப்பு"
+
+msgid "Alignment"
+msgstr "இருப்புவழி"
+
+msgid "Allow Async"
+msgstr "ஒத்திசைவை அனுமதிக்கவும்"
+
+msgid "Allow Grow"
+msgstr "வளர அனுமதிக்கவும்"
+
+msgid "Allow Rules"
+msgstr "விதிகளை அனுமதிக்கவும்"
+
+msgid "Allow Shrink"
+msgstr "சுருங்க அனுமதிக்கவும்"
+
+msgid "Allow drawing of alternating color rows"
+msgstr "மாற்று வண்ண வரிசைகளை வரைய அனுமதிக்கவும்"
+
+msgid "Allow empty"
+msgstr "காலியாக அனுமதிக்கவும்"
+
+msgid "Allow folders creation"
+msgstr "கோப்புறைகளை உருவாக்க அனுமதிக்கவும்"
+
+msgid "Alternative button order"
+msgstr "மாற்று பொத்தான் ஆர்டர்"
+
+msgid "Alternative sort indicator direction"
+msgstr "மாற்று வரிசை காட்டி திசை"
+
+msgid "Always enable arrows"
+msgstr "எப்போதும் அம்புகளை இயக்கவும்"
+
+msgid "Always show image"
+msgstr "எப்போதும் படத்தைக் காட்டு"
+
+msgid "Amount of border space between the menubar shadow and the menu items"
+msgstr ""
+"மெனுபார் நிழலுக்கும் பட்டியல் உருப்படிகளுக்கும் இடையிலான எல்லை இடத்தின் அளவு"
+
+msgid "Amount of border space between the toolbar shadow and the buttons"
+msgstr ""
+"கருவிப்பட்டி நிழலுக்கும் பொத்தான்களுக்கும் இடையிலான எல்லை இடத்தின் அளவு"
+
+msgid "Amount of space used up by arrow"
+msgstr "அம்பு பயன்படுத்தும் இடத்தின் அளவு"
+
+msgid ""
+"Amount of space used up by arrow, relative to the menu item's font size"
+msgstr ""
+"பட்டியல் உருப்படியின் எழுத்துரு அளவோடு ஒப்பிடும்போது அம்பு மூலம் "
+"பயன்படுத்தப்படும் இடத்தின் அளவு"
+
+msgid "Amount to increase child's size on either side"
+msgstr "இருபுறமும் குழந்தையின் அளவை அதிகரிப்பதற்கான தொகை"
+
+msgid "Amount to increase child's size on the top and bottom"
+msgstr "மேல் மற்றும் கீழ் குழந்தையின் அளவை அதிகரிப்பதற்கான தொகை"
+
+msgid "Amount to indent the paragraph, in pixels"
+msgstr "பிக்சல்களில், பத்தியை உள்தள்ள வேண்டிய தொகை"
+
+msgid "An XML string describing the merged UI"
+msgstr "இணைக்கப்பட்ட இடைமுகம் ஐ விவரிக்கும் ஒரு எக்ச்எம்எல் சரம்"
+
+msgid ""
+"An accel path used to conveniently construct accel paths of child items"
+msgstr ""
+"குழந்தை பொருட்களின் முடி பாதைகளை வசதியாக உருவாக்க பயன்படுத்தப்படும் ஒரு முடி"
+" பாதை"
+
+msgid "Angle"
+msgstr "கோணம்"
+
+msgid "Angle at which the label is rotated"
+msgstr "சிட்டை சுழற்றப்படும் கோணம்"
+
+msgid "Animation"
+msgstr "அனிமேசன்"
+
+msgid "Anonymous User Data Pointer"
+msgstr "அநாமதேய பயனர் தரவு சுட்டிக்காட்டி"
+
+msgid "Appearance of the frame border"
+msgstr "பிரேம் எல்லையின் தோற்றம்"
+
+msgid "Appearance of the shadow surrounding the arrow"
+msgstr "அம்புக்குறியைச் சுற்றியுள்ள நிழலின் தோற்றம்"
+
+msgid "Appearance of the shadow that surrounds the container"
+msgstr "கொள்கலனைச் சுற்றியுள்ள நிழலின் தோற்றம்"
+
+msgid "Appears as list"
+msgstr "பட்டியலாக தோன்றும்"
+
+msgid "Application paintable"
+msgstr "பயன்பாட்டு ஓவியம்"
+
+msgid "Application supplied widget for custom previews."
+msgstr "தனிப்பயன் முன்னோட்டங்களுக்கான பயன்பாடு விட்செட்டை வழங்கியது."
+
+msgid "Application supplied widget for extra options."
+msgstr "கூடுதல் விருப்பங்களுக்காக பயன்பாடு விட்செட்டை வழங்கியது."
+
+msgid "Arbitrary constant to scale down the size of the scroll arrow"
+msgstr "சுருள் அம்புக்குறியின் அளவைக் குறைக்க தன்னிச்சையான மாறிலி"
+
+msgid "Are we showing a dialog"
+msgstr "நாம் ஒரு உரையாடலைக் காட்டுகிறோமா?"
+
+msgid "Arrow Placement"
+msgstr "அம்பு வேலை வாய்ப்பு"
+
+msgid "Arrow Scaling"
+msgstr "அம்பு அளவிடுதல்"
+
+msgid "Arrow Size"
+msgstr "அம்பு அளவு"
+
+msgid "Arrow X Displacement"
+msgstr "அம்பு ஃச் இடப்பெயர்ச்சி"
+
+msgid "Arrow Y Displacement"
+msgstr "அம்பு ஒய் இடப்பெயர்ச்சி"
+
+msgid "Arrow direction"
+msgstr "அம்பு திசை"
+
+msgid "Arrow scaling"
+msgstr "அம்பு அளவிடுதல்"
+
+msgid "Arrow scaling with regard to scroll button size"
+msgstr "சுருள் பொத்தான் அளவு தொடர்பாக அம்பு அளவிடுதல்"
+
+msgid "Arrow shadow"
+msgstr "அம்பு நிழல்"
+
+msgid "Arrow spacing"
+msgstr "அம்பு இடைவெளி"
+
+msgid "Artists"
+msgstr "கலைஞர்கள்"
+
+msgid "Aspect ratio if obey_child is FALSE"
+msgstr "Obey_child தவறானது என்றால் விகித விகிதம்"
+
+msgid "Aspect ratio with which to draw insertion cursor"
+msgstr "செருகும் கர்சரை வரைய வேண்டிய விகித விகிதம்"
+
+msgid "Attach Widget"
+msgstr "விட்செட்டை இணைக்கவும்"
+
+msgid "Attributes"
+msgstr "பண்புக்கூறுகள்"
+
+msgid "Audible Input Feedback"
+msgstr "கேட்கக்கூடிய உள்ளீட்டு கருத்து"
+
+msgid "Authors"
+msgstr "ஆசிரியர்கள்"
+
+msgid "Backend"
+msgstr "பின்தளத்தில்"
+
+msgid "Backend for the printer"
+msgstr "அச்சுப்பொறிக்கு பின்தளத்தில்"
+
+msgid "Background color"
+msgstr "பின்னணி நிறம்"
+
+msgid "Background color as a (possibly unallocated) GdkColor"
+msgstr "பின்னணி நிறம் ஒரு (ஒதுக்கப்படாத) gdkcolor ஆக"
+
+msgid "Background color as a GdkColor"
+msgstr "GDKColor ஆக பின்னணி நிறம்"
+
+msgid "Background color as a string"
+msgstr "பின்னணி நிறம் ஒரு சரமாக"
+
+msgid "Background color name"
+msgstr "பின்னணி வண்ண பெயர்"
+
+msgid "Background full height"
+msgstr "பின்னணி முழு உயரம்"
+
+msgid "Background full height set"
+msgstr "பின்னணி முழு உயரம் தொகுப்பு"
+
+msgid "Background set"
+msgstr "பின்னணி தொகுப்பு"
+
+msgid "Background stipple mask"
+msgstr "பின்னணி ச்டிப்பிள் மாச்க்"
+
+msgid "Background stipple set"
+msgstr "பின்னணி ச்டிப்பிள் செட்"
+
+msgid "Backward stepper"
+msgstr "பின்தங்கிய ச்டெப்பர்"
+
+msgid "Bar style"
+msgstr "பார் பாணி"
+
+msgid "Bitmap to use as a mask when drawing the text background"
+msgstr "உரை பின்னணியை வரையும்போது முகமூடியாக பயன்படுத்த பிட்மேப்"
+
+msgid "Bitmap to use as a mask when drawing the text foreground"
+msgstr "உரை முன்புறத்தை வரையும்போது முகமூடியாக பயன்படுத்த பிட்மேப்"
+
+msgid "Bits per Sample"
+msgstr "ஒரு மாதிரிக்கு பிட்கள்"
+
+msgid "Blinking"
+msgstr "ஒளிரும்"
+
+msgid "Border around the progress bar"
+msgstr "முன்னேற்றப் பட்டியைச் சுற்றி எல்லை"
+
+msgid "Border between button edges and child."
+msgstr "பொத்தான் விளிம்புகளுக்கும் குழந்தைக்கும் இடையில் எல்லை."
+
+msgid "Border between text and frame."
+msgstr "உரை மற்றும் சட்டத்திற்கு இடையிலான எல்லை."
+
+msgid ""
+"Border between text and frame. Overrides the inner-border style property"
+msgstr ""
+"உரை மற்றும் சட்டத்திற்கு இடையிலான எல்லை. உள்-எல்லை பாணி சொத்தை மேலெழுதும்"
+
+msgid "Border relief"
+msgstr "எல்லை ஈடு"
+
+msgid "Border width"
+msgstr "எல்லை அகலம்"
+
+msgid "Bottom Attach"
+msgstr "கீழே இணைக்கவும்"
+
+msgid "Bottom Padding"
+msgstr "கீழே திணிப்பு"
+
+msgid "Bottom attachment"
+msgstr "கீழே இணைப்பு"
+
+msgid "Buffer"
+msgstr "இடையக"
+
+msgid "Button Sensitivity"
+msgstr "பொத்தான் உணர்திறன்"
+
+msgid "Button relief"
+msgstr "பொத்தான் ஈடு"
+
+msgid "Button spacing"
+msgstr "பொத்தான் இடைவெளி"
+
+msgid "Can be used to add a new child to the container"
+msgstr "ஒரு புதிய குழந்தையை கொள்கலனில் சேர்க்க பயன்படுத்தலாம்"
+
+msgid "Can change accelerators"
+msgstr "முடுக்கிகளை மாற்ற முடியும்"
+
+msgid "Can default"
+msgstr "இயல்புநிலை முடியும்"
+
+msgid "Can focus"
+msgstr "கவனம் செலுத்த முடியும்"
+
+msgid "Cancel Button"
+msgstr "பொத்தானை ரத்து செய்யுங்கள்"
+
+msgid "Capabilities the application can handle"
+msgstr "பயன்பாடு கையாளக்கூடிய திறன்கள்"
+
+msgid "Caps Lock warning"
+msgstr "தொப்பிகள் பூட்டு எச்சரிக்கை"
+
+msgid "Case sensitive"
+msgstr "வழக்கு உணர்திறன்"
+
+msgid "Cell background color"
+msgstr "செல் பின்னணி நிறம்"
+
+msgid "Cell background color as a GdkColor"
+msgstr "செல் பின்னணி நிறம் ஒரு GDKColor ஆக"
+
+msgid "Cell background color as a string"
+msgstr "செல் பின்னணி நிறம் ஒரு சரமாக"
+
+msgid "Cell background color name"
+msgstr "செல் பின்னணி வண்ண பெயர்"
+
+msgid "Cell background set"
+msgstr "செல் பின்னணி தொகுப்பு"
+
+msgid "CellView model"
+msgstr "CellView மாதிரி"
+
+msgid "Child"
+msgstr "குழந்தை"
+
+msgid "Child Detached"
+msgstr "குழந்தை பிரிக்கப்பட்டது"
+
+msgid "Child Pack direction"
+msgstr "குழந்தை பேக் திசை"
+
+msgid "Child X Displacement"
+msgstr "குழந்தை ஃச் இடப்பெயர்ச்சி"
+
+msgid "Child Y Displacement"
+msgstr "குழந்தை ஒய் இடப்பெயர்ச்சி"
+
+msgid "Child internal height padding"
+msgstr "குழந்தை உள் உயரம் திணிப்பு"
+
+msgid "Child internal width padding"
+msgstr "குழந்தை உள் அகலம் திணிப்பு"
+
+msgid "Child widget to appear next to the button text"
+msgstr "குழந்தை விட்செட் பொத்தான் உரைக்கு அடுத்ததாக தோன்றும்"
+
+msgid "Child widget to appear next to the menu text"
+msgstr "பட்டியல் உரைக்கு அடுத்ததாக குழந்தை விட்செட் தோன்றும்"
+
+msgid "Clickable"
+msgstr "சொடுக்கு செய்யக்கூடியது"
+
+msgid "Climb Rate"
+msgstr "ஏறும் வீதம்"
+
+msgid "Climb rate"
+msgstr "ஏறும் வீதம்"
+
+msgid "Color Hash"
+msgstr "வண்ண ஆச்"
+
+msgid "Color Selection"
+msgstr "வண்ண தேர்வு"
+
+msgid "Color of the selection box"
+msgstr "தேர்வு பெட்டியின் நிறம்"
+
+msgid "Color of unvisited links"
+msgstr "பார்வையிடப்படாத இணைப்புகளின் நிறம்"
+
+msgid "Color of visited links"
+msgstr "பார்வையிட்ட இணைப்புகளின் நிறம்"
+
+msgid "Color scheme"
+msgstr "வண்ணத் திட்டம்"
+
+msgid "Color to use for even rows"
+msgstr "வரிசைகளுக்கு கூட பயன்படுத்த வண்ணம்"
+
+msgid "Color to use for odd rows"
+msgstr "ஒற்றைப்படை வரிசைகளுக்கு பயன்படுத்த வண்ணம்"
+
+msgid "Color with which to draw error-indication underlines"
+msgstr "பிழை-அறிகுறியை வரைய உதவும் வண்ணம்"
+
+msgid "Color with which to draw insertion cursor"
+msgstr "செருகும் கர்சரை வரைய வண்ணம்"
+
+msgid ""
+"Color with which to draw the secondary insertion cursor when editing mixed "
+"right-to-left and left-to-right text"
+msgstr ""
+"கலப்பு வலது-இடது மற்றும் இடமிருந்து வலமாக உரையைத் திருத்தும்போது இரண்டாம் "
+"நிலை செருகும் கர்சரை வரைய வண்ணம்"
+
+msgid "Colorspace"
+msgstr "வண்ணங்கள்"
+
+msgid "Column Spacing"
+msgstr "நெடுவரிசை இடைவெளி"
+
+msgid "Column gets share of extra width allocated to the widget"
+msgstr ""
+"விட்செட்டுக்கு ஒதுக்கப்பட்ட கூடுதல் அகலத்தின் பங்கை நெடுவரிசை பெறுகிறது"
+
+msgid "Column headers respond to click events"
+msgstr "சொடுக்கு நிகழ்வுகளுக்கு நெடுவரிசை தலைப்புகள் பதிலளிக்கின்றன"
+
+msgid "Column is user-resizable"
+msgstr "நெடுவரிசை பயனர்-மீளக்கூடியது"
+
+msgid "Column spacing"
+msgstr "நெடுவரிசை இடைவெளி"
+
+msgid "Column span column"
+msgstr "நெடுவரிசை இடைவெளி நெடுவரிசை"
+
+msgid "Columns"
+msgstr "நெடுவரிசைகள்"
+
+msgid "ComboBox model"
+msgstr "காம்போபாக்ச் மாதிரி"
+
+msgid "Command to run when displaying a print preview"
+msgstr "அச்சு முன்னோட்டத்தைக் காண்பிக்கும் போது இயக்க கட்டளை"
+
+msgid "Comments about the program"
+msgstr "நிரல் பற்றிய கருத்துகள்"
+
+msgid "Comments string"
+msgstr "கருத்துகள் சரம்"
+
+msgid "Completion Model"
+msgstr "நிறைவு மாதிரி"
+
+msgid "Composite child"
+msgstr "கூட்டு குழந்தை"
+
+msgid "Content Padding"
+msgstr "உள்ளடக்க திணிப்பு"
+
+msgid "Content area border"
+msgstr "உள்ளடக்க பகுதி எல்லை"
+
+msgid "Content area spacing"
+msgstr "உள்ளடக்க பகுதி இடைவெளி"
+
+msgid "Copy target list"
+msgstr "இலக்கு பட்டியலை நகலெடுக்கவும்"
+
+msgid "Copyright information for the program"
+msgstr "திட்டத்திற்கான பதிப்புரிமை செய்தி"
+
+msgid "Copyright string"
+msgstr "பதிப்புரிமை சரம்"
+
+msgid "Create the same proxies as a radio action"
+msgstr "வானொலி செயலாக அதே ப்ராக்சிகளை உருவாக்கவும்"
+
+msgid ""
+"Credits to the translators. This string should be marked as translatable"
+msgstr ""
+"மொழிபெயர்ப்பாளர்களுக்கு வரவு. இந்த சரம் மொழிபெயர்க்கக்கூடியதாக குறிக்கப்பட "
+"வேண்டும்"
+
+msgid "Current Alpha"
+msgstr "தற்போதைய ஆல்பா"
+
+msgid "Current Color"
+msgstr "தற்போதைய நிறம்"
+
+msgid "Current Page"
+msgstr "தற்போதைய பக்கம்"
+
+msgid "Current fixed width of the column"
+msgstr "நெடுவரிசையின் தற்போதைய நிலையான அகலம்"
+
+msgid "Current text of the buffer"
+msgstr "இடையகத்தின் தற்போதைய உரை"
+
+msgid "Current width of the column"
+msgstr "நெடுவரிசையின் தற்போதைய அகலம்"
+
+msgid "Cursor"
+msgstr "கர்சர்"
+
+msgid "Cursor Blink"
+msgstr "கர்சர் சிமிட்டும்"
+
+msgid "Cursor Blink Time"
+msgstr "கர்சர் சிமிட்டும் நேரம்"
+
+msgid "Cursor Blink Timeout"
+msgstr "கர்சர் ஒளிரும் நேரம் முடிந்தது"
+
+msgid "Cursor Position"
+msgstr "கர்சர் நிலை"
+
+msgid "Cursor Visible"
+msgstr "கர்சர் தெரியும்"
+
+msgid "Cursor color"
+msgstr "கர்சர் நிறம்"
+
+msgid "Cursor line aspect ratio"
+msgstr "கர்சர் வரி விகித விகிதம்"
+
+msgid "Cursor position"
+msgstr "கர்சர் நிலை"
+
+msgid "Cursor theme name"
+msgstr "கர்சர் கருப்பொருள் பெயர்"
+
+msgid "Cursor theme size"
+msgstr "கர்சர் கருப்பொருள் அளவு"
+
+msgid "Curve type"
+msgstr "வளைவு வகை"
+
+msgid "Custom palette"
+msgstr "தனிப்பயன் தட்டு"
+
+msgid "Custom tab label"
+msgstr "தனிப்பயன் தாவல் சிட்டை"
+
+msgid "Custom tabs for this text"
+msgstr "இந்த உரைக்கான தனிப்பயன் தாவல்கள்"
+
+msgid "Dash pattern used to draw the focus indicator"
+msgstr "கவனம் காட்டி வரைய பயன்படுத்தப்படும் கோடு முறை"
+
+msgid "Dash pattern used to draw the tree view grid lines"
+msgstr "மரக் காட்சி கட்டம் கோடுகளை வரைய பயன்படுத்தப்படும் கோடு முறை"
+
+msgid "Dash pattern used to draw the tree view lines"
+msgstr "மரக் காட்சி கோடுகளை வரைய பயன்படுத்தப்படும் கோடு முறை"
+
+msgid "Day"
+msgstr "நாள்"
+
+msgid "Decorated"
+msgstr "அலங்கரிக்கப்பட்டுள்ளது"
+
+msgid "Default Display"
+msgstr "இயல்புநிலை காட்சி"
+
+msgid "Default Height"
+msgstr "இயல்புநிலை உயரம்"
+
+msgid "Default IM module"
+msgstr "இயல்புநிலை IM தொகுதி"
+
+msgid "Default Outside Spacing"
+msgstr "இயல்புநிலை வெளியே இடைவெளி"
+
+msgid "Default Page Setup"
+msgstr "இயல்புநிலை பக்க அமைப்பு"
+
+msgid "Default Spacing"
+msgstr "இயல்புநிலை இடைவெளி"
+
+msgid "Default Width"
+msgstr "இயல்புநிலை அகலம்"
+
+msgid "Default command to run when displaying a print preview"
+msgstr "அச்சு முன்னோட்டத்தைக் காண்பிக்கும் போது இயக்க இயல்புநிலை கட்டளை"
+
+msgid "Default file chooser backend"
+msgstr "இயல்புநிலை கோப்பு தேர்வாளர் பின்தளத்தில்"
+
+msgid "Default print backend"
+msgstr "இயல்புநிலை அச்சு பின்தளத்தில்"
+
+msgid "Delay before drop down menus appear"
+msgstr "மெனுக்கள் கீழே இறங்குவதற்கு முன் நேரந்தவறுகை"
+
+msgid "Delay before hiding a submenu"
+msgstr "ஒரு துணைமெனுவை மறைப்பதற்கு முன் நேரந்தவறுகை"
+
+msgid "Delay before submenus appear"
+msgstr "துணைமெனச் தோன்றுவதற்கு முன்பு நேரந்தவறுகை"
+
+msgid "Delay before the submenus of a menu bar appear"
+msgstr "பட்டியல் பட்டியின் துணைமெனச் தோன்றுவதற்கு முன் நேரந்தவறுகை"
+
+msgid "Deletable"
+msgstr "நீக்கக்கூடிய"
+
+msgid "Deprecated property, use shadow_type instead"
+msgstr "நீக்கப்பட்ட சொத்தை, அதற்கு பதிலாக நிழல்_பைவைப் பயன்படுத்தவும்"
+
+msgid "Destroy with Parent"
+msgstr "பெற்றோருடன் அழிக்கவும்"
+
+msgid "Detail"
+msgstr "விவரம்"
+
+msgid "Details Height"
+msgstr "விவரங்கள் உயரம்"
+
+msgid "Details Width"
+msgstr "விவரங்கள் அகலம்"
+
+msgid "Details height in rows"
+msgstr "விவரங்கள் வரிசைகளில் உயரம்"
+
+msgid "Details width in characters"
+msgstr "கதாபாத்திரங்களில் விவரங்கள் அகலம்"
+
+msgid "Determines how the shadowed box around the viewport is drawn"
+msgstr ""
+"காட்சியமைப்பைச் சுற்றியுள்ள நிழல் பெட்டி எவ்வாறு வரையப்படுகிறது என்பதை "
+"தீர்மானிக்கிறது"
+
+msgid "Dialog"
+msgstr "உரையாடல்"
+
+msgid "Digits"
+msgstr "இலக்கங்கள்"
+
+msgid "Discrete Blocks"
+msgstr "தனித்துவமான தொகுதிகள்"
+
+msgid "Displace focus"
+msgstr "கவனம் இடம்பெயரவும்"
+
+msgid ""
+"Display a second backward arrow button on the opposite end of the scrollbar"
+msgstr ""
+"சுருள்பட்டியின் எதிர் முனையில் இரண்டாவது பின்தங்கிய அம்பு பொத்தானைக் காண்பி"
+
+msgid ""
+"Display a second backward arrow button on the opposite end of the tab area"
+msgstr ""
+"தாவல் பகுதியின் எதிர் முனையில் இரண்டாவது பின்தங்கிய அம்பு பொத்தானைக் காண்பி"
+
+msgid ""
+"Display a second forward arrow button on the opposite end of the scrollbar"
+msgstr ""
+"சுருள்பட்டியின் எதிர் முனையில் இரண்டாவது முன்னோக்கி அம்பு பொத்தானைக் காண்பி"
+
+msgid ""
+"Display a second forward arrow button on the opposite end of the tab area"
+msgstr ""
+"தாவல் பகுதியின் எதிர் முனையில் இரண்டாவது முன்னோக்கி அம்பு பொத்தானைக் காண்பி"
+
+msgid "Display the cell"
+msgstr "கலத்தைக் காண்பி"
+
+msgid "Display the cell sensitive"
+msgstr "செல் உணர்திறன் காட்டுங்கள்"
+
+msgid "Display the standard backward arrow button"
+msgstr "நிலையான பின்தங்கிய அம்பு பொத்தானைக் காண்பி"
+
+msgid "Display the standard forward arrow button"
+msgstr "நிலையான முன்னோக்கி அம்பு பொத்தானைக் காண்பி"
+
+msgid "Do overwrite confirmation"
+msgstr "உறுதிப்படுத்தலை மேலெழுதவும்"
+
+msgid "Documenters"
+msgstr "ஆவணங்கள்"
+
+msgid "Don't change slider size, just lock it to the minimum length"
+msgstr "ச்லைடர் அளவை மாற்ற வேண்டாம், அதை குறைந்தபட்ச நீளத்திற்கு பூட்டவும்"
+
+msgid "Double Arrows"
+msgstr "இரட்டை அம்புகள்"
+
+msgid "Double Buffered"
+msgstr "இரட்டை இடையக"
+
+msgid "Double Click Distance"
+msgstr "இரட்டை சொடுக்கு தூரம்"
+
+msgid "Double Click Time"
+msgstr "இரட்டை சொடுக்கு நேரம்"
+
+msgid "Drag threshold"
+msgstr "வாசலை இழுக்கவும்"
+
+msgid "Draw"
+msgstr "டிரா"
+
+msgid "Draw Border"
+msgstr "எல்லையை வரையவும்"
+
+msgid "Draw Indicator"
+msgstr "காட்டி வரையவும்"
+
+msgid "Draw Value"
+msgstr "மதிப்பு வரைய"
+
+msgid "Draw as radio menu item"
+msgstr "ரேடியோ பட்டியல் உருப்படியாக வரையவும்"
+
+msgid "Draw slider ACTIVE during drag"
+msgstr "இழுவின் போது ச்லைடரை செயலில் வரையவும்"
+
+msgid "Draw the toggle button as a radio button"
+msgstr "மாற்று பொத்தானை ரேடியோ பொத்தானாக வரையவும்"
+
+msgid "Editability set"
+msgstr "திருத்தக்கூடியது"
+
+msgid "Editable"
+msgstr "திருத்தக்கூடிய"
+
+msgid "Editable mode of the CellRenderer"
+msgstr "செல்ரெண்டரரின் திருத்தக்கூடிய முறை"
+
+msgid "Editing"
+msgstr "திருத்துதல்"
+
+msgid "Ellipsize"
+msgstr "நீக்குதல்"
+
+msgid "Ellipsize set"
+msgstr "செட் நீங்களே"
+
+msgid "Embed Page Setup"
+msgstr "பக்க அமைப்பை உட்பொதிக்கவும்"
+
+msgid "Embedded"
+msgstr "உட்பொதிக்கப்பட்டது"
+
+msgid "Enable Accelerators"
+msgstr "முடுக்கிகளை இயக்கவும்"
+
+msgid "Enable Animations"
+msgstr "அனிமேசன்களை இயக்கவும்"
+
+msgid "Enable Event Sounds"
+msgstr "நிகழ்வு ஒலிகளை இயக்கவும்"
+
+msgid "Enable Grid Lines"
+msgstr "கட்டம் கோடுகளை இயக்கவும்"
+
+msgid "Enable Mnemonics"
+msgstr "நினைவூட்டலை இயக்கவும்"
+
+msgid "Enable Popup"
+msgstr "பாப்அப்பை இயக்கவும்"
+
+msgid "Enable Search"
+msgstr "தேடலை இயக்கவும்"
+
+msgid "Enable Tooltips"
+msgstr "உதவிக்குறிப்புகளை இயக்கவும்"
+
+msgid "Enable Touchscreen Mode"
+msgstr "தொடுதிரை பயன்முறையை இயக்கவும்"
+
+msgid "Enable Tree Lines"
+msgstr "மரக் கோடுகளை இயக்கவும்"
+
+msgid "Enable arrow keys"
+msgstr "அம்பு விசைகளை இயக்கவும்"
+
+msgid "Enable extended row background theming"
+msgstr "நீட்டிக்கப்பட்ட வரிசை பின்னணி தீமிங் இயக்கவும்"
+
+msgid "Error Bell"
+msgstr "பிழை மணி"
+
+msgid "Error underline color"
+msgstr "பிழை அடிக்கோடிட்டு"
+
+msgid "Even Row Color"
+msgstr "கூட வரிசை நிறம்"
+
+msgid "Events"
+msgstr "நிகழ்வுகள்"
+
+msgid "Expand"
+msgstr "விரிவாக்கு"
+
+msgid "Expand timeout"
+msgstr "நேரத்தை விரிவாக்குங்கள்"
+
+msgid "Expand value for timeouts, when a widget is expanding a new region"
+msgstr ""
+"ஒரு விட்செட் ஒரு புதிய பிராந்தியத்தை விரிவுபடுத்தும்போது, ​​காலக்கெடுவுக்கான"
+" மதிப்பை விரிவாக்குங்கள்"
+
+msgid "Expanded"
+msgstr "விரிவாக்கப்பட்டது"
+
+msgid "Expander Column"
+msgstr "விரிவாக்க நெடுவரிசை"
+
+msgid "Expander Size"
+msgstr "விரிவாக்க அளவு"
+
+msgid "Export filename"
+msgstr "ஏற்றுமதி கோப்பு பெயர்"
+
+msgid "Extension events"
+msgstr "விரிவாக்க நிகழ்வுகள்"
+
+msgid "Extra indentation for each level"
+msgstr "ஒவ்வொரு நிலைக்கும் கூடுதல் உள்தள்ளல்"
+
+msgid "Extra space at the left and right edges of the menu"
+msgstr "மெனுவின் இடது மற்றும் வலது விளிம்புகளில் கூடுதல் இடம்"
+
+msgid "Extra space at the top and bottom of the menu"
+msgstr "மெனுவின் மேல் மற்றும் கீழ் கூடுதல் இடம்"
+
+msgid ""
+"Extra space to put between the child and its left and right neighbors, in "
+"pixels"
+msgstr ""
+"குழந்தைக்கும் அதன் இடது மற்றும் வலது அண்டை நாடுகளுக்கும் இடையில், "
+"பிக்சல்களில் வைக்க கூடுதல் இடம்"
+
+msgid "Extra space to put between the child and its neighbors, in pixels"
+msgstr ""
+"குழந்தைக்கும் அதன் அண்டை நாடுகளுக்கும் இடையில், பிக்சல்களில் வைக்க கூடுதல் "
+"இடம்"
+
+msgid ""
+"Extra space to put between the child and its upper and lower neighbors, in "
+"pixels"
+msgstr ""
+"குழந்தைக்கும் அதன் மேல் மற்றும் கீழ் அண்டை நாடுகளுக்கும் இடையில், "
+"பிக்சல்களில் வைக்க கூடுதல் இடம்"
+
+msgid "Extra spacing applied to the height of a progress bar."
+msgstr ""
+"முன்னேற்றப் பட்டியின் உயரத்திற்கு கூடுதல் இடைவெளி பயன்படுத்தப்படுகிறது."
+
+msgid "Extra spacing applied to the width of a progress bar."
+msgstr ""
+"முன்னேற்றப் பட்டியின் அகலத்திற்கு கூடுதல் இடைவெளி பயன்படுத்தப்படுகிறது."
+
+msgid "Extra widget"
+msgstr "கூடுதல் விட்செட்"
+
+msgid ""
+"FALSE displays the \"invisible char\" instead of the actual text (password "
+"mode)"
+msgstr ""
+"உண்மையான உரைக்கு பதிலாக (கடவுச்சொல் பயன்முறை) \"கண்ணுக்கு தெரியாத கரி\" ஐ "
+"தவறு காட்டுகிறது"
+
+msgid "FALSE if this represents a real hardware printer"
+msgstr "இது ஒரு உண்மையான வன்பொருள் அச்சுப்பொறியைக் குறிக்கிறது என்றால் தவறு"
+
+msgid "FALSE removes outside bevel from entry"
+msgstr "பொய்யானது நுழைவிலிருந்து பெவலுக்கு வெளியே நீக்குகிறது"
+
+msgid "Fallback Icon Theme Name"
+msgstr "குறைவடையும் படவுரு கருப்பொருள் பெயர்"
+
+msgid "File System Backend"
+msgstr "கோப்பு முறைமை பின்தளத்தில்"
+
+msgid "Filename"
+msgstr "கோப்புப்பெயர்"
+
+msgid "Filename to load and display"
+msgstr "ஏற்றவும் காண்பிக்கவும் கோப்பு பெயர்"
+
+msgid "Fill"
+msgstr "நிரப்பவும்"
+
+msgid "Fill Level"
+msgstr "நிரப்பு நிலை"
+
+msgid "Filter"
+msgstr "வடிப்பி"
+
+msgid "Fixed Height Mode"
+msgstr "நிலையான உயர பயன்முறை"
+
+msgid "Fixed Width"
+msgstr "நிலையான அகலம்"
+
+msgid "Fixed slider size"
+msgstr "நிலையான ச்லைடர் அளவு"
+
+msgid "Focus in Toplevel"
+msgstr "டோப்லெவலில் கவனம் செலுத்துங்கள்"
+
+msgid "Focus line dash pattern"
+msgstr "கவனம் லைன் டாச் முறை"
+
+msgid "Focus linewidth"
+msgstr "வரி அகல கவனம்"
+
+msgid "Focus on click"
+msgstr "சொடுக்கு செய்வதில் கவனம் செலுத்துங்கள்"
+
+msgid "Focus on map"
+msgstr "வரைபடத்தில் கவனம் செலுத்துங்கள்"
+
+msgid "Focus padding"
+msgstr "கவனம் திணிப்பு"
+
+msgid "Follow State"
+msgstr "மாநிலத்தைப் பின்பற்றுங்கள்"
+
+msgid "Font"
+msgstr "எழுத்துரு"
+
+msgid "Font Name"
+msgstr "எழுத்துரு பெயர்"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "எழுத்துரு விளக்கம் ஒரு பாங்கோஃபோன்ட் டெச்கிரிப்சன் கட்டமைப்பாக"
+
+msgid "Font description as a string, e.g. \"Sans Italic 12\""
+msgstr "எழுத்துரு விளக்கம் ஒரு சரமாக, எ.கா. \"சான்ச் சாய்வு 12\""
+
+msgid "Font family"
+msgstr "எழுத்துரு குடும்பம்"
+
+msgid "Font family set"
+msgstr "எழுத்துரு குடும்ப தொகுப்பு"
+
+msgid "Font name"
+msgstr "எழுத்துரு பெயர்"
+
+msgid "Font options"
+msgstr "எழுத்துரு விருப்பங்கள்"
+
+msgid "Font points"
+msgstr "எழுத்துரு புள்ளிகள்"
+
+msgid "Font resolution"
+msgstr "எழுத்துரு தீர்மானம்"
+
+msgid "Font scale"
+msgstr "எழுத்துரு அளவு"
+
+msgid "Font scale set"
+msgstr "எழுத்துரு அளவிலான தொகுப்பு"
+
+msgid "Font scaling factor"
+msgstr "எழுத்துரு அளவிடுதல் காரணி"
+
+msgid "Font size"
+msgstr "எழுத்துரு அளவு"
+
+msgid ""
+"Font size as a scale factor relative to the default font size. This properly"
+" adapts to theme changes etc. so is recommended. Pango predefines some "
+"scales such as PANGO_SCALE_X_LARGE"
+msgstr ""
+"இயல்புநிலை எழுத்துரு அளவோடு தொடர்புடைய அளவிலான காரணியாக எழுத்துரு அளவு. இது "
+"கருப்பொருள் மாற்றங்கள் போன்றவற்றுடன் சரியாக மாற்றியமைக்கிறது. எனவே "
+"பரிந்துரைக்கப்படுகிறது. Pango_scale_x_large போன்ற சில செதில்களை பாங்கோ "
+"முன்கூட்டியே கொண்டுள்ளது"
+
+msgid "Font size in Pango units"
+msgstr "பாங்கோ அலகுகளில் எழுத்துரு அளவு"
+
+msgid "Font size in points"
+msgstr "புள்ளிகளில் எழுத்துரு அளவு"
+
+msgid "Font size set"
+msgstr "எழுத்துரு அளவு தொகுப்பு"
+
+msgid "Font stretch"
+msgstr "எழுத்துரு நீட்சி"
+
+msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
+msgstr ""
+"ஒரு பாங்கோச்ட்ரெட்ச் என எழுத்துரு நீட்சி, எ.கா. Pango_stretch_condensed"
+
+msgid "Font stretch set"
+msgstr "எழுத்துரு நீட்டிப்பு தொகுப்பு"
+
+msgid "Font style"
+msgstr "எழுத்துரு நடை"
+
+msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
+msgstr "ஒரு பாங்ச்டைலாக எழுத்துரு பாணி, எ.கா. Pango_style_italic"
+
+msgid "Font style set"
+msgstr "எழுத்துரு பாணி தொகுப்பு"
+
+msgid "Font variant"
+msgstr "எழுத்துரு மாறுபாடு"
+
+msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
+msgstr "புங்கோவாரியட்டின் மாறுபாடு மூல, எ.கா. Small_caps"
+
+msgid "Font variant set"
+msgstr "எழுத்துரு மாறுபாடு தொகுப்பு"
+
+msgid "Font weight"
+msgstr "எழுத்துரு எடை"
+
+msgid ""
+"Font weight as an integer, see predefined values in PangoWeight; for "
+"example, PANGO_WEIGHT_BOLD"
+msgstr ""
+"எழுத்துரு எடை ஒரு முழு எண்ணாக, Pangoweight இல் முன் வரையறுக்கப்பட்ட "
+"மதிப்புகளைக் காண்க; எடுத்துக்காட்டாக, pango_weight_bold"
+
+msgid "Font weight set"
+msgstr "எழுத்துரு எடை தொகுப்பு"
+
+msgid "Fontconfig configuration timestamp"
+msgstr "FontConfig கட்டமைப்பு நேர முத்திரை"
+
+msgid "Force aspect ratio to match that of the frame's child"
+msgstr ""
+"சட்டகத்தின் குழந்தையுடன் பொருந்தக்கூடிய விகித விகிதத்தை கட்டாயப்படுத்துங்கள்"
+
+msgid "Foreground color"
+msgstr "முன்புற நிறம்"
+
+msgid "Foreground color as a (possibly unallocated) GdkColor"
+msgstr "முன்புற வண்ணம் ஒரு (ஒதுக்கப்படாத) gdkcolor"
+
+msgid "Foreground color as a GdkColor"
+msgstr "Gdkcolor ஆக முன்புற வண்ணம்"
+
+msgid "Foreground color as a string"
+msgstr "முன்புற வண்ணம் ஒரு சரமாக"
+
+msgid "Foreground color name"
+msgstr "முன்புற வண்ண பெயர்"
+
+msgid "Foreground set"
+msgstr "முன்புற தொகுப்பு"
+
+msgid "Foreground stipple mask"
+msgstr "முன்புற ச்டிப்பிள் மாச்க்"
+
+msgid "Foreground stipple set"
+msgstr "முன்புற ச்டிப்பிள் செட்"
+
+msgid "Forward stepper"
+msgstr "முன்னோக்கி ச்டெப்பர்"
+
+msgid "Fraction"
+msgstr "பின்னம்"
+
+msgid "Frame shadow"
+msgstr "பிரேம் நிழல்"
+
+msgid "GIcon"
+msgstr "கிகான்"
+
+msgid "GIcon for primary icon"
+msgstr "முதன்மை ஐகானுக்கு கிகான்"
+
+msgid "GIcon for secondary icon"
+msgstr "இரண்டாம் நிலை ஐகானுக்கு கிகான்"
+
+msgid "GTK Modules"
+msgstr "சி.டி.கே தொகுதிகள்"
+
+msgid "GdkPixbufAnimation to display"
+msgstr "காண்பிக்க gdkpixbufanimation"
+
+msgid "Gravity"
+msgstr "ஈர்ப்பு"
+
+msgid "Grid line pattern"
+msgstr "கட்டம் வரி முறை"
+
+msgid "Grid line width"
+msgstr "கட்டம் வரி அகலம்"
+
+msgid "Group"
+msgstr "குழு"
+
+msgid "Group ID"
+msgstr "குழு ஐடி"
+
+msgid "Group ID for tabs drag and drop"
+msgstr "தாவல்களுக்கான குழு ஐடி இழுத்து விடுங்கள்"
+
+msgid "Group for tabs drag and drop"
+msgstr "தாவல்களுக்கான குழு இழுத்து விடுங்கள்"
+
+msgid "Handle Size"
+msgstr "கையாளுதல்"
+
+msgid "Handle position"
+msgstr "நிலை நிலையை கையாளவும்"
+
+msgid "Has Alpha"
+msgstr "ஆல்பா உள்ளது"
+
+msgid "Has Entry"
+msgstr "நுழைவு உள்ளது"
+
+msgid "Has Frame"
+msgstr "சட்டகம் உள்ளது"
+
+msgid "Has Opacity Control"
+msgstr "ஒளிபுகா கட்டுப்பாடு உள்ளது"
+
+msgid "Has Resize Grip"
+msgstr "மறுஅளவிடுதல் பிடியைக் கொண்டுள்ளது"
+
+msgid "Has Selection"
+msgstr "தேர்வு உள்ளது"
+
+msgid "Has default"
+msgstr "இயல்புநிலை உள்ளது"
+
+msgid "Has focus"
+msgstr "கவனம் செலுத்துகிறது"
+
+msgid "Has palette"
+msgstr "தட்டு உள்ளது"
+
+msgid "Has selection"
+msgstr "தேர்வு உள்ளது"
+
+msgid "Has separator"
+msgstr "பிரிப்பான் உள்ளது"
+
+msgid "Has tooltip"
+msgstr "உதவிக்குறிப்பு உள்ளது"
+
+msgid "Header Padding"
+msgstr "தலைப்பு திணிப்பு"
+
+msgid "Header image"
+msgstr "தலைப்பு படம்"
+
+msgid "Header image for the assistant page"
+msgstr "உதவி பக்கத்திற்கான தலைப்பு படம்"
+
+msgid "Headers Clickable"
+msgstr "தலைப்புகள் சொடுக்கு செய்யக்கூடியவை"
+
+msgid "Headers Visible"
+msgstr "தலைப்புகள் தெரியும்"
+
+msgid "Height"
+msgstr "உயரம்"
+
+msgid "Height request"
+msgstr "உயர கோரிக்கை"
+
+msgid "Help Button"
+msgstr "உதவி பொத்தான்"
+
+msgid "Hide if empty"
+msgstr "காலியாக இருந்தால் மறைக்கவும்"
+
+msgid ""
+"Hint to help the desktop environment understand what kind of window this is "
+"and how to treat it."
+msgstr ""
+"டெச்க்டாப் சூழலுக்கு இது என்ன வகையான சாளரம், அதை எவ்வாறு சிகிச்சையளிப்பது "
+"என்பதைப் புரிந்துகொள்ள உதவும் குறிப்பு."
+
+msgid "Homogeneous"
+msgstr "ஒரே மாதிரியான"
+
+msgid "Horizontal Adjustment"
+msgstr "கிடைமட்ட சரிசெய்தல்"
+
+msgid "Horizontal Adjustment for the widget"
+msgstr "விட்செட்டுக்கு கிடைமட்ட சரிசெய்தல்"
+
+msgid "Horizontal Alignment"
+msgstr "கிடைமட்ட சீரமைப்பு"
+
+msgid "Horizontal Offset"
+msgstr "கிடைமட்ட ஆஃப்செட்"
+
+msgid "Horizontal Padding"
+msgstr "கிடைமட்ட திணிப்பு"
+
+msgid "Horizontal Scroll Arrow Length"
+msgstr "கிடைமட்ட உருள் அம்பு நீளம்"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "கிடைமட்ட உருள் கொள்கை"
+
+msgid "Horizontal Separator Width"
+msgstr "கிடைமட்ட பிரிப்பான் அகலம்"
+
+msgid "Horizontal Tab Border"
+msgstr "கிடைமட்ட தாவல் எல்லை"
+
+msgid "Horizontal adjustment"
+msgstr "கிடைமட்ட சரிசெய்தல்"
+
+msgid "Horizontal adjustment for the text widget"
+msgstr "உரை விட்செட்டுக்கு கிடைமட்ட சரிசெய்தல்"
+
+msgid "Horizontal alignment"
+msgstr "கிடைமட்ட சீரமைப்பு"
+
+msgid "Horizontal alignment for child"
+msgstr "குழந்தைக்கு கிடைமட்ட சீரமைப்பு"
+
+msgid "Horizontal options"
+msgstr "கிடைமட்ட விருப்பங்கள்"
+
+msgid "Horizontal padding"
+msgstr "கிடைமட்ட திணிப்பு"
+
+msgid ""
+"Horizontal position of child in available space. 0.0 is left aligned, 1.0 is"
+" right aligned"
+msgstr ""
+"கிடைக்கக்கூடிய இடத்தில் குழந்தையின் கிடைமட்ட நிலை. 0.0 இடது "
+"சீரமைக்கப்பட்டுள்ளது, 1.0 வலதுபுறம் சீரமைக்கப்பட்டுள்ளது"
+
+msgid "Horizontal scale"
+msgstr "கிடைமட்ட அளவு"
+
+msgid "Horizontal space between cells.  Must be an even number"
+msgstr "கலங்களுக்கு இடையில் கிடைமட்ட இடைவெளி. ஒரு சம எண்ணாக இருக்க வேண்டும்"
+
+msgid "Hover Expand"
+msgstr "ஓவர் விரிவாக்கம்"
+
+msgid "Hover Selection"
+msgstr "ஓவர் தேர்வு"
+
+msgid ""
+"How far in the x direction to move the arrow when the button is depressed"
+msgstr ""
+"பொத்தானைக் குறைக்கும் போது அம்புக்குறியை நகர்த்த ஃச் திசையில் எவ்வளவு தூரம்"
+
+msgid ""
+"How far in the x direction to move the child when the button is depressed"
+msgstr ""
+"பொத்தானைக் குறைக்கும் போது குழந்தையை நகர்த்த ஃச் திசையில் எவ்வளவு தூரம்"
+
+msgid ""
+"How far in the y direction to move the arrow when the button is depressed"
+msgstr ""
+"பொத்தானை மனச்சோர்வடையும்போது அம்புக்குறியை நகர்த்த ஒய் திசையில் எவ்வளவு "
+"தூரம்"
+
+msgid ""
+"How far in the y direction to move the child when the button is depressed"
+msgstr ""
+"பொத்தானைக் குறைக்கும் போது குழந்தையை நகர்த்த ஒய் திசையில் எவ்வளவு தூரம்"
+
+msgid "How long to show the last input character in hidden entries"
+msgstr ""
+"மறைக்கப்பட்ட உள்ளீடுகளில் கடைசி உள்ளீட்டு எழுத்தை எவ்வளவு நேரம் காண்பிப்பது"
+
+msgid "How the range should be updated on the screen"
+msgstr "வரம்பு எவ்வாறு திரையில் புதுப்பிக்கப்பட வேண்டும்"
+
+msgid ""
+"How the text and icon of each item are positioned relative to each other"
+msgstr ""
+"ஒவ்வொரு பொருளின் உரை மற்றும் படவுரு ஒருவருக்கொருவர் ஒப்பிடும்போது எவ்வாறு "
+"நிலைநிறுத்தப்படுகின்றன"
+
+msgid "How to align the lines"
+msgstr "கோடுகளை எவ்வாறு சீரமைப்பது"
+
+msgid ""
+"How to break the string into multiple lines, if the cell renderer does not "
+"have enough room to display the entire string"
+msgstr ""
+"செல் ரெண்டரரிடம் முழு சரத்தையும் காண்பிக்க போதுமான இடம் இல்லையென்றால், "
+"சரத்தை பல வரிகளாக உடைப்பது எப்படி"
+
+msgid "How to draw the input method preedit string"
+msgstr "உள்ளீட்டு முறை முன்னுரை சரம் எப்படி வரையலாம்"
+
+msgid "How to draw the input method statusbar"
+msgstr "உள்ளீட்டு முறை நிலைமையை எவ்வாறு வரையலாம்"
+
+msgid "How to draw the toolbar"
+msgstr "கருவிப்பட்டியை எவ்வாறு வரையலாம்"
+
+msgid ""
+"How to layout the buttons in the box. Possible values are default, spread, "
+"edge, start and end"
+msgstr ""
+"பெட்டியில் பொத்தான்களை எவ்வாறு அமைப்பது. சாத்தியமான மதிப்புகள் இயல்புநிலை, "
+"பரவல், விளிம்பு, தொடக்க மற்றும் முடிவு"
+
+msgid "IM Preedit style"
+msgstr "நான் முன்னுரிமை பாணி"
+
+msgid "IM Status style"
+msgstr "நான் நிலை நடை"
+
+msgid "IM module"
+msgstr "Im தொகுதி"
+
+msgid "Icon"
+msgstr "படவுரு"
+
+msgid "Icon Name"
+msgstr "படவுரு பெயர்"
+
+msgid "Icon Prelight"
+msgstr "படவுரு ப்ரெபிலைட்"
+
+msgid "Icon Sizes"
+msgstr "படவுரு அளவுகள்"
+
+msgid "Icon Theme Name"
+msgstr "படவுரு கருப்பொருள் பெயர்"
+
+msgid "Icon View Model"
+msgstr "படவுரு பார்வை மாதிரி"
+
+msgid "Icon for this window"
+msgstr "இந்த சாளரத்திற்கான படவுரு"
+
+msgid "Icon name"
+msgstr "படவுரு பெயர்"
+
+msgid "Icon name for primary icon"
+msgstr "முதன்மை ஐகானுக்கான படவுரு பெயர்"
+
+msgid "Icon name for secondary icon"
+msgstr "இரண்டாம் நிலை ஐகானுக்கான படவுரு பெயர்"
+
+msgid "Icon set"
+msgstr "படவுரு தொகுப்பு"
+
+msgid "Icon set to display"
+msgstr "காண்பிக்க படவுரு அமைக்கப்பட்டுள்ளது"
+
+msgid "Icon size"
+msgstr "படவுரு அளவு"
+
+msgid "Icon size set"
+msgstr "படவுரு அளவு தொகுப்பு"
+
+msgid "Icon spacing"
+msgstr "படவுரு இடைவெளி"
+
+msgid "Icon widget"
+msgstr "படவுரு விட்செட்"
+
+msgid "Icon widget to display in the item"
+msgstr "உருப்படியில் காண்பிக்க படவுரு விட்செட்"
+
+msgid "Icons"
+msgstr "சின்னங்கள்"
+
+msgid "If FALSE, don't allow to enter strings other than the chosen ones"
+msgstr ""
+"தவறு என்றால், தேர்ந்தெடுக்கப்பட்டவற்றைத் தவிர வேறு சரங்களை உள்ளிட அனுமதிக்க "
+"வேண்டாம்"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "உண்மை என்றால், ஒரு தலைப்பு காட்டப்படும்"
+
+msgid "If TRUE, day names are displayed"
+msgstr "உண்மை என்றால், நாள் பெயர்கள் காட்டப்படும்"
+
+msgid "If TRUE, details are shown"
+msgstr "உண்மை என்றால், விவரங்கள் காட்டப்படும்"
+
+msgid ""
+"If TRUE, pressing the right mouse button on the notebook pops up a menu that"
+" you can use to go to a page"
+msgstr ""
+"உண்மை என்றால், நோட்புக்கில் வலது சுட்டி பொத்தானை அழுத்துவது ஒரு "
+"பக்கத்திற்குச் செல்ல நீங்கள் பயன்படுத்தக்கூடிய ஒரு மெனுவை மேல்தோன்றும்"
+
+msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
+msgstr ""
+"உண்மை என்றால், பொருந்தக்கூடிய பல தாவல்கள் இருந்தால் உருள் அம்புகள் "
+"சேர்க்கப்படுகின்றன"
+
+msgid ""
+"If TRUE, the GtkProgress is in activity mode, meaning that it signals "
+"something is happening, but not how much of the activity is finished. This "
+"is used when you're doing something but don't know how long it will take."
+msgstr ""
+"உண்மை என்றால், GTKPROGRESS செயல்பாட்டு பயன்முறையில் உள்ளது, அதாவது அது "
+"ஏதாவது நடக்கிறது என்பதை சமிக்ஞை செய்கிறது, ஆனால் எவ்வளவு செயல்பாடு முடிந்தது"
+" அல்ல. நீங்கள் ஏதாவது செய்யும்போது இது பயன்படுத்தப்படுகிறது, ஆனால் எவ்வளவு "
+"நேரம் ஆகும் என்று தெரியவில்லை."
+
+msgid ""
+"If TRUE, the child appears in a secondary group of children, suitable for, "
+"e.g., help buttons"
+msgstr ""
+"உண்மை என்றால், குழந்தை இரண்டாம் நிலை குழந்தைகளின் குழுவில் தோன்றும், எ.கா., "
+"உதவி பொத்தான்கள்"
+
+msgid "If TRUE, the child can be made smaller than its requisition"
+msgstr "உண்மை என்றால், குழந்தையை அதன் கோரிக்கையை விட சிறியதாக மாற்ற முடியும்"
+
+msgid "If TRUE, the child expands and shrinks along with the paned widget"
+msgstr "உண்மை என்றால், குழந்தை விரிவடைந்து பான் விட்செட்டுடன் சுருங்குகிறது"
+
+msgid "If TRUE, the popup window will appear for a single match."
+msgstr "உண்மை என்றால், ஒரு போட்டிக்கு பாப்அப் சாளரம் தோன்றும்."
+
+msgid "If TRUE, the popup window will have the same size as the entry"
+msgstr "உண்மை என்றால், பாப்அப் சாளரம் நுழைவுக்கு சமமான அளவைக் கொண்டிருக்கும்"
+
+msgid "If TRUE, the selected month cannot be changed"
+msgstr "உண்மை என்றால், தேர்ந்தெடுக்கப்பட்ட மாதத்தை மாற்ற முடியாது"
+
+msgid "If TRUE, the table cells are all the same width/height"
+msgstr "உண்மை என்றால், அட்டவணை செல்கள் அனைத்தும் ஒரே அகலம்/உயரம்"
+
+msgid "If TRUE, the widget will receive the default action when it is focused"
+msgstr ""
+"உண்மை என்றால், விட்செட் கவனம் செலுத்தும்போது இயல்புநிலை செயலைப் பெறும்"
+
+msgid ""
+"If TRUE, the window has no mimimum size. Setting this to TRUE is 99% of the "
+"time a bad idea"
+msgstr ""
+"உண்மை என்றால், சாளரத்திற்கு குறைந்தபட்ச அளவு இல்லை. இது உண்மைக்கு அமைப்புகள்"
+" 99% நேரம் ஒரு மோசமான யோசனையாகும்"
+
+msgid ""
+"If TRUE, the window is modal (other windows are not usable while this one is"
+" up)"
+msgstr ""
+"உண்மை என்றால், சாளரம் மோடல் ஆகும் (இது மேலே இருக்கும்போது மற்ற சாளரங்கள் "
+"பயன்படுத்தப்படாது)"
+
+msgid ""
+"If TRUE, unmapped widgets are ignored when determining the size of the group"
+msgstr ""
+"உண்மை என்றால், குழுவின் அளவை நிர்ணயிக்கும் போது அசைக்கப்படாத விட்செட்டுகள் "
+"புறக்கணிக்கப்படுகின்றன"
+
+msgid "If TRUE, users can expand the window beyond its minimum size"
+msgstr ""
+"உண்மை என்றால், பயனர்கள் சாளரத்தை அதன் குறைந்தபட்ச அளவிற்கு அப்பால் விரிவாக்க"
+" முடியும்"
+
+msgid "If TRUE, users can resize the window"
+msgstr "உண்மை என்றால், பயனர்கள் சாளரத்தை அளவை மாற்றலாம்"
+
+msgid "If TRUE, week numbers are displayed"
+msgstr "உண்மை என்றால், வார எண்கள் காட்டப்படும்"
+
+msgid "If an arrow should be shown if the toolbar doesn't fit"
+msgstr ""
+"கருவிப்பட்டி பொருந்தவில்லை என்றால் ஒரு அம்பு காட்டப்பட வேண்டும் என்றால்"
+
+msgid ""
+"If available horizontal space is bigger than needed for the child, how much "
+"of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr ""
+"கிடைமட்ட இடம் குழந்தைக்குத் தேவையானதை விட பெரியதாக இருந்தால், குழந்தைக்கு "
+"எவ்வளவு பயன்படுத்த வேண்டும். 0.0 என்றால் எதுவுமில்லை, 1.0 என்றால் அனைத்தும்"
+
+msgid ""
+"If available vertical space is bigger than needed for the child, how much of"
+" it to use for the child. 0.0 means none, 1.0 means all"
+msgstr ""
+"கிடைக்குத் தேவையானதை விட செங்குத்து இடம் பெரியதாக இருந்தால், குழந்தைக்கு "
+"எவ்வளவு பயன்படுத்த வேண்டும். 0.0 என்றால் எதுவுமில்லை, 1.0 என்றால் அனைத்தும்"
+
+msgid ""
+"If set, an underline in the label property indicates that the next character"
+" should be used for the mnemonic accelerator key in the overflow menu"
+msgstr ""
+"அமைக்கப்பட்டால், சிட்டை சொத்தில் ஒரு அடிக்கோடிட்டுக் காட்டுதல் வழிதல் "
+"பட்டியலில் உள்ள நினைவூட்டல் முடுக்கி விசைக்கு அடுத்த எழுத்து பயன்படுத்தப்பட "
+"வேண்டும் என்பதைக் குறிக்கிறது"
+
+msgid ""
+"If set, an underline in the text indicates the next character should be used"
+" for the mnemonic accelerator key"
+msgstr ""
+"அமைக்கப்பட்டால், உரையில் ஒரு அடிக்கோடிட்டுக் காட்டுகிறது அடுத்த எழுத்து "
+"நினைவூட்டல் முடுக்கி விசைக்கு பயன்படுத்தப்பட வேண்டும் என்பதைக் குறிக்கிறது"
+
+msgid ""
+"If set, the label is used to pick a stock item instead of being displayed"
+msgstr ""
+"அமைக்கப்பட்டால், காண்பிக்கப்படுவதற்கு பதிலாக ஒரு பங்கு உருப்படியைத் "
+"தேர்வுசெய்ய சிட்டை பயன்படுத்தப்படுகிறது"
+
+msgid "If set, wrap lines if the text becomes too wide"
+msgstr "அமைக்கப்பட்டால், உரை மிகவும் அகலமாகிவிட்டால் கோடுகளை மடக்கு"
+
+msgid "If the insertion cursor is shown"
+msgstr "செருகும் கர்சர் காட்டப்பட்டால்"
+
+msgid "If the toggle action should be active in or not"
+msgstr "மாற்று நடவடிக்கை செயலில் இருக்க வேண்டுமா இல்லையா"
+
+msgid "If the toggle button is in an \"in between\" state"
+msgstr "மாற்று பொத்தானை ஒரு \"இன் இடையே\" நிலையில் இருந்தால்"
+
+msgid "If the toggle button should be pressed in or not"
+msgstr "மாற்று பொத்தானை அழுத்த வேண்டுமா இல்லையா"
+
+msgid "If the toggle part of the button is displayed"
+msgstr "பொத்தானின் மாற்று பகுதி காண்பிக்கப்பட்டால்"
+
+msgid "If the tooltips of the toolbar should be active or not"
+msgstr "கருவிப்பட்டியின் உதவிக்குறிப்புகள் செயலில் இருக்க வேண்டுமா இல்லையா"
+
+msgid "If this window should be destroyed when the parent is destroyed"
+msgstr "பெற்றோர் அழிக்கும்போது இந்த சாளரம் அழிக்கப்பட வேண்டும் என்றால்"
+
+msgid "If wrap is set, controls how linewrapping is done"
+msgstr ""
+"மடக்கு அமைக்கப்பட்டால், லைன்ஆப்பிராப்பிங் எவ்வாறு செய்யப்படுகிறது என்பதைக் "
+"கட்டுப்படுத்துகிறது"
+
+msgid "Ignore hidden"
+msgstr "மறைக்கப்பட்ட புறக்கணிக்கவும்"
+
+msgid "Image"
+msgstr "படம்"
+
+msgid "Image position"
+msgstr "பட நிலை"
+
+msgid "Image spacing"
+msgstr "பட இடைவெளி"
+
+msgid "Image widget"
+msgstr "பட விட்செட்"
+
+msgid "Image/label border"
+msgstr "படம்/லேபிள் எல்லை"
+
+msgid "Inconsistent"
+msgstr "சீரற்ற"
+
+msgid "Inconsistent state"
+msgstr "சீரற்ற நிலை"
+
+msgid "Indent"
+msgstr "இன்டென்ட்"
+
+msgid "Indent Expanders"
+msgstr "விரிவாக்கிகளை உள்தள்ளுங்கள்"
+
+msgid "Indent set"
+msgstr "உள்தள்ளல் தொகுப்பு"
+
+msgid "Indicates where scroll arrows should be placed"
+msgstr "சுருள் அம்புகளை எங்கு வைக்க வேண்டும் என்பதைக் குறிக்கிறது"
+
+msgid "Indicator Size"
+msgstr "காட்டி அளவு"
+
+msgid "Indicator Spacing"
+msgstr "காட்டி இடைவெளி"
+
+msgid "Indicator size"
+msgstr "காட்டி அளவு"
+
+msgid "Inline completion"
+msgstr "இன்லைன் நிறைவு"
+
+msgid "Inline selection"
+msgstr "இன்லைன் தேர்வு"
+
+msgid "Inner Border"
+msgstr "உள் எல்லை"
+
+msgid "Interior Focus"
+msgstr "உள்துறை கவனம்"
+
+msgid "Internal padding"
+msgstr "உள் திணிப்பு"
+
+msgid "Invert direction slider moves to increase range value"
+msgstr "வரம்பு மதிப்பை அதிகரிக்க திசை ச்லைடர் நகர்கிறது"
+
+msgid "Inverted"
+msgstr "தலைகீழ்"
+
+msgid "Invisible"
+msgstr "கண்ணுக்கு தெரியாத"
+
+msgid "Invisible char set"
+msgstr "கண்ணுக்கு தெரியாத கரி தொகுப்பு"
+
+msgid "Invisible character"
+msgstr "கண்ணுக்கு தெரியாத தன்மை"
+
+msgid "Invisible set"
+msgstr "கண்ணுக்கு தெரியாத தொகுப்பு"
+
+msgid "Is Active"
+msgstr "செயலில் உள்ளது"
+
+msgid "Is Expanded"
+msgstr "விரிவாக்கப்பட்டது"
+
+msgid "Is Expander"
+msgstr "விரிவாக்கமானது"
+
+msgid "Is Showing"
+msgstr "காட்டுகிறது"
+
+msgid "Is Virtual"
+msgstr "மெய்நிகர்"
+
+msgid "Is focus"
+msgstr "கவனம்"
+
+msgid "Is important"
+msgstr "முக்கியமானது"
+
+msgid "Is this curve linear, spline interpolated, or free-form"
+msgstr "இந்த வளைவு நேரியல், ச்ப்லைன் இடைக்கணிப்பு அல்லது இலவச வடிவம்"
+
+msgid "Item Padding"
+msgstr "உருப்படி திணிப்பு"
+
+msgid "Job Count"
+msgstr "வேலை எண்ணிக்கை"
+
+msgid "Job Name"
+msgstr "வேலை பெயர்"
+
+msgid "Justification"
+msgstr "நியாயப்படுத்துதல்"
+
+msgid "Justification set"
+msgstr "நியாயப்படுத்தும் தொகுப்பு"
+
+msgid "Key Theme Name"
+msgstr "முக்கிய கருப்பொருள் பெயர்"
+
+msgid "Keybinding to activate the menu bar"
+msgstr "பட்டியல் பட்டியை செயல்படுத்த keyBinding"
+
+msgid "Keynav Cursor Only"
+msgstr "கெய்னவ் கர்சர் மட்டுமே"
+
+msgid "Keynav Wrap Around"
+msgstr "கெய்னவ் சுற்றி மடக்கு"
+
+msgid "Label"
+msgstr "சிட்டை"
+
+msgid "Label for the tab containing custom widgets."
+msgstr "தனிப்பயன் விட்செட்டுகளைக் கொண்ட தாவலுக்கான சிட்டை."
+
+msgid "Label widget"
+msgstr "சிட்டை விட்செட்"
+
+msgid "Label xalign"
+msgstr "சிட்டை"
+
+msgid "Label yalign"
+msgstr "சிட்டை யாலின்"
+
+msgid "Language"
+msgstr "மொழி"
+
+msgid "Language set"
+msgstr "மொழி தொகுப்பு"
+
+msgid "Largest possible value for the \"position\" property"
+msgstr "\"நிலை\" சொத்துக்கான மிகப்பெரிய மதிப்பு"
+
+msgid "Layout style"
+msgstr "தளவமைப்பு நடை"
+
+msgid "Left Attach"
+msgstr "இடது இணைப்பு"
+
+msgid "Left Margin"
+msgstr "இடது விளிம்பு"
+
+msgid "Left Padding"
+msgstr "இடது திணிப்பு"
+
+msgid "Left attachment"
+msgstr "இடது இணைப்பு"
+
+msgid "Left gravity"
+msgstr "இடது ஈர்ப்பு"
+
+msgid "Left margin"
+msgstr "இடது விளிம்பு"
+
+msgid "Left margin set"
+msgstr "இடது விளிம்பு தொகுப்பு"
+
+msgid "Left, right, or center justification"
+msgstr "இடது, வலது அல்லது மைய நியாயப்படுத்தல்"
+
+msgid "Length of scale's slider"
+msgstr "அளவின் ச்லைடரின் நீளம்"
+
+msgid "Length of step buttons at ends"
+msgstr "முனைகளில் படி பொத்தான்களின் நீளம்"
+
+msgid "Length of the cursor blink cycle, in milliseconds"
+msgstr "கர்சர் ஒளிரும் சுழற்சியின் நீளம், மில்லி விநாடிகளில்"
+
+msgid "Length of the text currently in the buffer"
+msgstr "தற்போது இடையகத்தில் உள்ள உரையின் நீளம்"
+
+msgid "Length of the text currently in the entry"
+msgstr "தற்போது உள்ளீட்டில் உள்ள உரையின் நீளம்"
+
+msgid "Level Indentation"
+msgstr "நிலை உள்தள்ளல்"
+
+msgid "Limit"
+msgstr "வரம்பு"
+
+msgid "Line Wrap"
+msgstr "வரி மடக்கு"
+
+msgid "Line wrap"
+msgstr "வரி மடக்கு"
+
+msgid "Line wrap mode"
+msgstr "வரி மடக்கு முறை"
+
+msgid "List of authors of the program"
+msgstr "திட்டத்தின் ஆசிரியர்களின் பட்டியல்"
+
+msgid "List of currently active GTK modules"
+msgstr "தற்போது செயலில் உள்ள சி.டி.கே தொகுதிகளின் பட்டியல்"
+
+msgid "List of icon names"
+msgstr "படவுரு பெயர்களின் பட்டியல்"
+
+msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
+msgstr ""
+"படவுரு அளவுகளின் பட்டியல் (சி.டி.கே-மெனு = 16,16: சி.டி.கே-பட்டன் = 20,20 "
+"..."
+
+msgid "List of people documenting the program"
+msgstr "நிரலை ஆவணப்படுத்தும் நபர்களின் பட்டியல்"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "திட்டத்திற்கு கலைப்படைப்புகளை வழங்கிய நபர்களின் பட்டியல்"
+
+msgid "List of the GtkPrintBackend backends to use by default"
+msgstr "இயல்பாகவே பயன்படுத்த GTKPrintbackend பின்தளத்தில் பட்டியல்"
+
+msgid "Local Only"
+msgstr "உள்ளக மட்டும்"
+
+msgid "Local only"
+msgstr "உள்ளக மட்டும்"
+
+msgid "Location"
+msgstr "இடம்"
+
+msgid "Logical sort column ID this column sorts on when selected for sorting"
+msgstr ""
+"தருக்க வரிசை நெடுவரிசை ஐடி வரிசையாக்கத் தேர்ந்தெடுக்கும்போது இந்த நெடுவரிசை "
+"வரிசைப்படுத்துகிறது"
+
+msgid "Logo"
+msgstr "சின்னம்"
+
+msgid "Logo Icon Name"
+msgstr "லோகோ படவுரு பெயர்"
+
+msgid "Loop"
+msgstr "லூப்"
+
+msgid "Lower"
+msgstr "கீழ்"
+
+msgid "Lower limit of ruler"
+msgstr "ஆட்சியாளரின் குறைந்த வரம்பு"
+
+msgid "Lower stepper sensitivity"
+msgstr "குறைந்த ச்டெப்பர் உணர்திறன்"
+
+msgid "Make the expanders indented"
+msgstr "விரிவாக்கிகளை உள்தள்ளுங்கள்"
+
+msgid "Manual Capabilites"
+msgstr "கையேடு திறன்கள்"
+
+msgid "Margin"
+msgstr "விளிம்பு"
+
+msgid "Margin Accumulates"
+msgstr "விளிம்பு குவிகிறது"
+
+msgid "Mark name"
+msgstr "குறி பெயர்"
+
+msgid "Marked up text to render"
+msgstr "வழங்க உரை குறிக்கப்பட்டுள்ளது"
+
+msgid "Markup"
+msgstr "மார்க்அப்"
+
+msgid "Markup column"
+msgstr "மார்க்அப் நெடுவரிசை"
+
+msgid "Mask"
+msgstr "மறைப்பு"
+
+msgid "Mask bitmap to use with GdkImage or GdkPixmap"
+msgstr "GDKIMAGE அல்லது GDKPIXMAP உடன் பயன்படுத்த மறைப்பு BITMAP"
+
+msgid "Max Size"
+msgstr "அதிகபட்ச அளவு"
+
+msgid "Maximal Position"
+msgstr "அதிகபட்ச நிலை"
+
+msgid "Maximum Value"
+msgstr "அதிகபட்ச மதிப்பு"
+
+msgid "Maximum Width"
+msgstr "அதிகபட்ச அகலம்"
+
+msgid "Maximum Width In Characters"
+msgstr "எழுத்துக்களில் அதிகபட்ச அகலம்"
+
+msgid "Maximum X"
+msgstr "அதிகபட்ச ஃச்"
+
+msgid "Maximum Y"
+msgstr "அதிகபட்சம் மற்றும்"
+
+msgid "Maximum age of recently used files, in days"
+msgstr ""
+"அண்மைக் காலத்தில் பயன்படுத்தப்பட்ட கோப்புகளின் அதிகபட்ச அகவை, நாட்களில்"
+
+msgid "Maximum allowed width of the column"
+msgstr "நெடுவரிசையின் அதிகபட்சமாக அனுமதிக்கப்பட்ட அகலம்"
+
+msgid "Maximum amount of space an expandable item will be given"
+msgstr "விரிவாக்கக்கூடிய உருப்படி வழங்கப்படும் அதிகபட்ச இடம் வழங்கப்படும்"
+
+msgid "Maximum child expand"
+msgstr "அதிகபட்ச குழந்தை விரிவடைகிறது"
+
+msgid ""
+"Maximum distance allowed between two clicks for them to be considered a "
+"double click (in pixels)"
+msgstr ""
+"இரட்டை கிளிக்கில் (பிக்சல்களில்) கருதப்படுவதற்கு இரண்டு கிளிக்குகளுக்கு "
+"இடையில் அதிகபட்ச தூரம் அனுமதிக்கப்படுகிறது"
+
+msgid "Maximum length"
+msgstr "அதிகபட்ச நீளம்"
+
+msgid "Maximum number of characters for this entry. Zero if no maximum"
+msgstr ""
+"இந்த நுழைவுக்கான அதிகபட்ச எழுத்துக்கள். அதிகபட்சம் இல்லை என்றால் பூச்சியம்"
+
+msgid "Maximum possible X value"
+msgstr "அதிகபட்சம் ஃச் மதிப்பு"
+
+msgid "Maximum possible value for Y"
+msgstr "ஒய் க்கான அதிகபட்ச மதிப்பு"
+
+msgid "Maximum size of the ruler"
+msgstr "ஆட்சியாளரின் அதிகபட்ச அளவு"
+
+msgid ""
+"Maximum time allowed between two clicks for them to be considered a double "
+"click (in milliseconds)"
+msgstr ""
+"இரட்டை கிளிக்கில் (மில்லி விநாடிகளில்) இரண்டு கிளிக்குகளுக்கு இடையில் "
+"அதிகபட்ச நேரம் அனுமதிக்கப்படுகிறது"
+
+msgid "Menu"
+msgstr "பட்டியல்"
+
+msgid "Menu bar accelerator"
+msgstr "பட்டியல் பார் முடுக்கி"
+
+msgid "Menu label"
+msgstr "பட்டி சிட்டை"
+
+msgid "Merged UI definition"
+msgstr "இணைக்கப்பட்ட இடைமுகம் வரையறை"
+
+msgid "Message Buttons"
+msgstr "செய்தி பொத்தான்கள்"
+
+msgid "Message Type"
+msgstr "செய்தி வகை"
+
+msgid "Metric"
+msgstr "மெட்ரிக்"
+
+msgid "Min horizontal bar height"
+msgstr "குறைந்தபட்ச கிடைமட்ட பட்டை உயரம்"
+
+msgid "Min horizontal bar width"
+msgstr "குறைந்தபட்ச கிடைமட்ட பட்டை அகலம்"
+
+msgid "Min vertical bar height"
+msgstr "மணித்துளி செங்குத்து பட்டை உயரம்"
+
+msgid "Min vertical bar width"
+msgstr "மணித்துளி செங்குத்து பட்டை அகலம்"
+
+msgid "Minimal Position"
+msgstr "குறைந்தபட்ச நிலை"
+
+msgid "Minimum Key Length"
+msgstr "குறைந்தபட்ச விசை நீளம்"
+
+msgid "Minimum Slider Length"
+msgstr "குறைந்தபட்ச ச்லைடர் நீளம்"
+
+msgid "Minimum Value"
+msgstr "குறைந்தபட்ச மதிப்பு"
+
+msgid "Minimum Width"
+msgstr "குறைந்தபட்ச அகலம்"
+
+msgid "Minimum X"
+msgstr "குறைந்தபட்ச ஃச்"
+
+msgid "Minimum Y"
+msgstr "குறைந்தபட்ச ஒய்"
+
+msgid "Minimum allowed width of the column"
+msgstr "நெடுவரிசையின் குறைந்தபட்ச அனுமதிக்கப்பட்ட அகலம்"
+
+msgid "Minimum child height"
+msgstr "குறைந்தபட்ச குழந்தை உயரம்"
+
+msgid "Minimum child width"
+msgstr "குறைந்தபட்ச குழந்தை அகலம்"
+
+msgid "Minimum height of buttons inside the box"
+msgstr "பெட்டியின் உள்ளே பொத்தான்களின் குறைந்தபட்ச உயரம்"
+
+msgid "Minimum horizontal height of the progress bar"
+msgstr "முன்னேற்ற பட்டியின் குறைந்தபட்ச கிடைமட்ட உயரம்"
+
+msgid "Minimum length of scrollbar slider"
+msgstr "சுருள் ச்லைடரின் குறைந்தபட்ச நீளம்"
+
+msgid "Minimum length of the search key in order to look up matches"
+msgstr "போட்டிகளைக் காண தேடல் விசையின் குறைந்தபட்ச நீளம்"
+
+msgid "Minimum possible value for X"
+msgstr "ஃச் க்கான குறைந்தபட்ச சாத்தியமான மதிப்பு"
+
+msgid "Minimum possible value for Y"
+msgstr "ஒய் க்கான குறைந்தபட்ச சாத்தியமான மதிப்பு"
+
+msgid ""
+"Minimum time the pointer must stay over a menu item before the submenu "
+"appear"
+msgstr ""
+"துணைமெனு தோன்றுவதற்கு முன்பு சுட்டிக்காட்டி ஒரு பட்டியல் உருப்படியின் மீது "
+"இருக்க வேண்டும்"
+
+msgid "Minimum width of buttons inside the box"
+msgstr "பெட்டியின் உள்ளே பொத்தான்களின் குறைந்தபட்ச அகலம்"
+
+msgid "Mnemonic key"
+msgstr "நினைவூட்டல் விசை"
+
+msgid "Mnemonic widget"
+msgstr "நினைவூட்டல் விட்செட்"
+
+msgid "Modal"
+msgstr "மோடல்"
+
+msgid "Mode"
+msgstr "பயன்முறை"
+
+msgid "Model"
+msgstr "மாதிரியுரு"
+
+msgid "Model column to search through during interactive search"
+msgstr "ஊடாடும் தேடலின் போது தேட மாதிரி நெடுவரிசை"
+
+msgid "Model column used to retrieve the icon pixbuf from"
+msgstr "படவுரு பிக்ச்புஃப் மீட்டெடுக்க பயன்படுத்தப்படும் மாதிரி நெடுவரிசை"
+
+msgid "Model column used to retrieve the text from"
+msgstr "உரையை மீட்டெடுக்க பயன்படுத்தப்படும் மாதிரி நெடுவரிசை"
+
+msgid "Model column used to retrieve the text if using Pango markup"
+msgstr ""
+"பாங்கோ மார்க்அப்பைப் பயன்படுத்தினால் உரையை மீட்டெடுக்க மாதிரி நெடுவரிசை "
+"பயன்படுத்தப்படுகிறது"
+
+msgid "Monitor"
+msgstr "கண்காணிக்கவும்"
+
+msgid "Month"
+msgstr "மாதம்"
+
+msgid "Name"
+msgstr "பெயர்"
+
+msgid "Name of a icon theme to fall back to"
+msgstr "மீண்டும் விழ ஒரு படவுரு கருப்பொருளின் பெயர்"
+
+msgid "Name of default font to use"
+msgstr "பயன்படுத்த இயல்புநிலை எழுத்துருவின் பெயர்"
+
+msgid "Name of file system backend to use"
+msgstr "பயன்படுத்த கோப்பு முறைமை பின்தளத்தில் பெயர்"
+
+msgid "Name of icon theme to use"
+msgstr "பயன்படுத்த படவுரு கருப்பொருளின் பெயர்"
+
+msgid "Name of key theme RC file to load"
+msgstr "ஏற்ற முக்கிய கருப்பொருள் ஆர்.சி கோப்பின் பெயர்"
+
+msgid "Name of the GtkFileChooser backend to use by default"
+msgstr "இயல்பாகவே பயன்படுத்த GtkfileChooser பின்தளத்தில் பெயர்"
+
+msgid "Name of the cursor theme to use, or NULL to use the default theme"
+msgstr ""
+"பயன்படுத்த கர்சர் கருப்பொருளின் பெயர், அல்லது இயல்புநிலை கருப்பொருளைப் "
+"பயன்படுத்த சுழியம்"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr ""
+"எழுத்துரு குடும்பத்தின் பெயர், எ.கா. சான்ச், எல்வெடிகா, டைம்ச், மோனோச்பேச்"
+
+msgid "Name of the printer"
+msgstr "அச்சுப்பொறியின் பெயர்"
+
+msgid "Name of the themed icon for this window"
+msgstr "இந்த சாளரத்திற்கான கருப்பொருள் ஐகானின் பெயர்"
+
+msgid "Name of theme RC file to load"
+msgstr "ஏற்ற கருப்பொருள் ஆர்.சி கோப்பின் பெயர்"
+
+msgid "Name used to refer to the text tag. NULL for anonymous tags"
+msgstr ""
+"உரை குறிச்சொல்லைக் குறிக்கப் பயன்படுத்தப்படுகிறது. அநாமதேய குறிச்சொற்களுக்கு"
+" சுழியம்"
+
+msgid "No Month Change"
+msgstr "மாத மாற்றம் இல்லை"
+
+msgid "No show all"
+msgstr "எல்லாவற்றையும் காட்டவில்லை"
+
+msgid "Number of Channels"
+msgstr "சேனல்களின் எண்ணிக்கை"
+
+msgid "Number of Pages"
+msgstr "பக்கங்களின் எண்ணிக்கை"
+
+msgid "Number of Pages To Print"
+msgstr "அச்சிட வேண்டிய பக்கங்களின் எண்ணிக்கை"
+
+msgid "Number of characters to leave space for in the entry"
+msgstr "உள்ளீட்டில் இடத்தை விட்டு வெளியேற எழுத்துக்களின் எண்ணிக்கை"
+
+msgid "Number of columns"
+msgstr "நெடுவரிசைகளின் எண்ணிக்கை"
+
+msgid "Number of columns to display"
+msgstr "காண்பிக்க வேண்டிய நெடுவரிசைகளின் எண்ணிக்கை"
+
+msgid "Number of jobs queued in the printer"
+msgstr "அச்சுப்பொறியில் வரிசைப்படுத்தப்பட்ட வேலைகளின் எண்ணிக்கை"
+
+msgid "Number of pixels around the content pages."
+msgstr "உள்ளடக்க பக்கங்களைச் சுற்றியுள்ள பிக்சல்களின் எண்ணிக்கை."
+
+msgid "Number of pixels around the header."
+msgstr "தலைப்பைச் சுற்றியுள்ள பிக்சல்களின் எண்ணிக்கை."
+
+msgid "Number of pixels between the scrollbars and the scrolled window"
+msgstr ""
+"சுருள் பார்கள் மற்றும் உருட்டப்பட்ட சாளரத்திற்கு இடையில் பிக்சல்களின் "
+"எண்ணிக்கை"
+
+msgid "Number of pixels of the entry scrolled off the screen to the left"
+msgstr ""
+"நுழைவின் பிக்சல்களின் எண்ணிக்கை திரையில் இருந்து இடதுபுறமாக உருட்டப்பட்டது"
+
+msgid "Number of pixels the cursor can move before dragging"
+msgstr "இழுப்பதற்கு முன் கர்சர் நகரக்கூடிய பிக்சல்களின் எண்ணிக்கை"
+
+msgid "Number of recently used files"
+msgstr "அண்மைக் காலத்தில் பயன்படுத்தப்பட்ட கோப்புகளின் எண்ணிக்கை"
+
+msgid "Numeric"
+msgstr "எண் வரிசை"
+
+msgid "OK Button"
+msgstr "சரி பொத்தான்"
+
+msgid "Obey child"
+msgstr "குழந்தைக்கு கீழ்ப்படியுங்கள்"
+
+msgid "Obsolete property, ignored"
+msgstr "வழக்கற்றுப் போன சொத்து, புறக்கணிக்கப்பட்டது"
+
+msgid "Odd Row Color"
+msgstr "ஒற்றைப்படை வரிசை நிறம்"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr ""
+"அடிப்படைக்கு மேலே உரையின் ஆஃப்செட் (உயர்வு எதிர்மறையாக இருந்தால் "
+"அடிப்படைக்கு கீழே)"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative) "
+"in Pango units"
+msgstr ""
+"பாங்கோ அலகுகளில் அடிப்படைக்கு மேலே உள்ள உரையை (அடிப்படை உயர்வு என்றால் "
+"அடிப்படைக்கு கீழே) ஆஃப்செட்"
+
+msgid "Opacity for Window"
+msgstr "சாளரத்திற்கான ஒளிபுகாநிலை"
+
+msgid "Opacity of the selection box"
+msgstr "தேர்வு பெட்டியின் ஒளிபுகாநிலை"
+
+msgid "Options specifying the horizontal behaviour of the child"
+msgstr "குழந்தையின் கிடைமட்ட நடத்தையைக் குறிப்பிடும் விருப்பங்கள்"
+
+msgid "Options specifying the vertical behaviour of the child"
+msgstr "குழந்தையின் செங்குத்து நடத்தையைக் குறிப்பிடும் விருப்பங்கள்"
+
+msgid "Orientation"
+msgstr "நோக்குநிலை"
+
+msgid "Orientation and growth direction of the progress bar"
+msgstr "முன்னேற்றப் பட்டியின் நோக்குநிலை மற்றும் வளர்ச்சி திசை"
+
+msgid ""
+"Override for height request of the widget, or -1 if natural request should "
+"be used"
+msgstr ""
+"விட்செட்டின் உயரக் கோரிக்கைக்கு மேலெழுதவும், அல்லது -1 இயற்கையான "
+"கோரிக்கையைப் பயன்படுத்த வேண்டும்"
+
+msgid ""
+"Override for width request of the widget, or -1 if natural request should be"
+" used"
+msgstr ""
+"விட்செட்டின் அகல கோரிக்கைக்கு மேலெழுதவும், அல்லது -1 இயற்கையான கோரிக்கையைப் "
+"பயன்படுத்த வேண்டும்"
+
+msgid "Overwrite mode"
+msgstr "மேலெழுதும் பயன்முறை"
+
+msgid "Pack direction"
+msgstr "பேக் திசை"
+
+msgid "Pack type"
+msgstr "பேக் வகை"
+
+msgid "Padding"
+msgstr "திணிப்பு"
+
+msgid "Padding around icon view items"
+msgstr "படவுரு காட்சி உருப்படிகளைச் சுற்றி திணிப்பு"
+
+msgid "Page"
+msgstr "பக்கம்"
+
+msgid "Page Increment"
+msgstr "பக்க அதிகரிப்பு"
+
+msgid "Page Setup"
+msgstr "பக்கம் அமைப்பு"
+
+msgid "Page Size"
+msgstr "பக்க அளவு"
+
+msgid "Page complete"
+msgstr "பக்கம் முடிந்தது"
+
+msgid "Page title"
+msgstr "பக்க தலைப்பு"
+
+msgid "Page type"
+msgstr "பக்க வகை"
+
+msgid "Palette to use in the color selector"
+msgstr "வண்ண தேர்வாளரில் பயன்படுத்த தட்டு"
+
+msgid "Paragraph background color"
+msgstr "பத்தி பின்னணி நிறம்"
+
+msgid "Paragraph background color as a (possibly unallocated) GdkColor"
+msgstr "பத்தி பின்னணி வண்ணம் ஒரு (ஒதுக்கப்படாத) gdkcolor ஆக"
+
+msgid "Paragraph background color as a string"
+msgstr "பத்தி பின்னணி வண்ணம் ஒரு சரமாக"
+
+msgid "Paragraph background color name"
+msgstr "பத்தி பின்னணி வண்ண பெயர்"
+
+msgid "Paragraph background set"
+msgstr "பத்தி பின்னணி தொகுப்பு"
+
+msgid "Parent"
+msgstr "பெற்றோர்"
+
+msgid "Parent widget"
+msgstr "பெற்றோர் விட்செட்"
+
+msgid "Password Hint Timeout"
+msgstr "கடவுச்சொல் குறிப்பு நேரம் முடிந்தது"
+
+msgid "Paste target list"
+msgstr "இலக்கு பட்டியல் ஒட்டவும்"
+
+msgid "Pattern"
+msgstr "முறை"
+
+msgid "Paused Printer"
+msgstr "இடைநிறுத்தப்பட்ட அச்சுப்பொறி"
+
+msgid "Pixbuf"
+msgstr "பிக்ச்ப்ஃப்"
+
+msgid "Pixbuf Expander Closed"
+msgstr "பிக்ச்புஃப் விரிவாக்கம் மூடப்பட்டது"
+
+msgid "Pixbuf Expander Open"
+msgstr "பிக்ச்புஃப் விரிவாக்க திறந்த"
+
+msgid "Pixbuf Object"
+msgstr "பிக்ச்புஃப் பொருள்"
+
+msgid "Pixbuf column"
+msgstr "பிக்ச்புஃப் நெடுவரிசை"
+
+msgid "Pixbuf for closed expander"
+msgstr "மூடிய விரிவாக்கத்திற்கான பிக்ச்ப்ஃப்"
+
+msgid "Pixbuf for open expander"
+msgstr "திறந்த விரிவாக்கத்திற்கான பிக்ச்ப்ஃப்"
+
+msgid "Pixel size"
+msgstr "படப்புள்ளி அளவு"
+
+msgid "Pixel size to use for named icon"
+msgstr "பெயரிடப்பட்ட ஐகானுக்கு பயன்படுத்த படப்புள்ளி அளவு"
+
+msgid "Pixels"
+msgstr "படப்புள்ளிகள்"
+
+msgid "Pixels Above Lines"
+msgstr "கோடுகளுக்கு மேலே படப்புள்ளிகள்"
+
+msgid "Pixels Below Lines"
+msgstr "கோடுகளுக்குக் கீழே படப்புள்ளிகள்"
+
+msgid "Pixels Inside Wrap"
+msgstr "மடக்கு உள்ளே படப்புள்ளிகள்"
+
+msgid "Pixels above lines"
+msgstr "கோடுகளுக்கு மேலே படப்புள்ளிகள்"
+
+msgid "Pixels above lines set"
+msgstr "கோடுகள் அமைக்கப்பட்ட படப்புள்ளிகள்"
+
+msgid "Pixels below lines"
+msgstr "கோடுகளுக்குக் கீழே படப்புள்ளிகள்"
+
+msgid "Pixels below lines set"
+msgstr "கோடுகள் கீழே உள்ள படப்புள்ளிகள்"
+
+msgid "Pixels inside wrap"
+msgstr "மடக்கு உள்ளே படப்புள்ளிகள்"
+
+msgid "Pixels inside wrap set"
+msgstr "மடக்கு செட்டுக்குள் படப்புள்ளிகள்"
+
+msgid "Pixels of blank space above paragraphs"
+msgstr "பத்திகளுக்கு மேலே வெற்று இடத்தின் படப்புள்ளிகள்"
+
+msgid "Pixels of blank space below paragraphs"
+msgstr "பத்திகளுக்கு கீழே வெற்று இடத்தின் படப்புள்ளிகள்"
+
+msgid "Pixels of blank space between wrapped lines in a paragraph"
+msgstr ""
+"ஒரு பத்தியில் போர்த்தப்பட்ட கோடுகளுக்கு இடையில் வெற்று இடைவெளியின் "
+"படப்புள்ளிகள்"
+
+msgid "Pixmap"
+msgstr "பிக்ச்மேப்"
+
+msgid "Place scrollbars within the scrolled window's bevel"
+msgstr "உருட்டப்பட்ட சாளர பெவலுக்குள் உருள் வைக்கவும்"
+
+msgid "Popup completion"
+msgstr "பாப்அப் நிறைவு"
+
+msgid "Popup set width"
+msgstr "பாப்அப் செட் அகலம்"
+
+msgid "Popup shown"
+msgstr "பாப் அப் காட்டப்பட்டுள்ளது"
+
+msgid "Popup single match"
+msgstr "பாப்அப் ஒற்றை போட்டி"
+
+msgid "Position"
+msgstr "நிலை"
+
+msgid "Position Set"
+msgstr "நிலை தொகுப்பு"
+
+msgid "Position of mark on the ruler"
+msgstr "ஆட்சியாளரின் மார்க் நிலை"
+
+msgid ""
+"Position of paned separator in pixels (0 means all the way to the left/top)"
+msgstr ""
+"பிக்சல்களில் பான் பிரிப்பானின் நிலை (0 என்பது இடது/மேல் செல்லும் வழியைக் "
+"குறிக்கிறது)"
+
+msgid "Position of the handle relative to the child widget"
+msgstr "குழந்தை விட்செட்டுடன் தொடர்புடைய கைப்பிடியின் நிலை"
+
+msgid "Preview Widget Active"
+msgstr "முன்னோட்ட விட்செட் செயலில்"
+
+msgid "Preview text"
+msgstr "உரை முன்னோட்டம்"
+
+msgid "Preview widget"
+msgstr "முன்னோட்டம் விட்செட்"
+
+msgid "Primary GIcon"
+msgstr "முதன்மை கிகான்"
+
+msgid "Primary icon activatable"
+msgstr "முதன்மை படவுரு செயல்படுத்தக்கூடியது"
+
+msgid "Primary icon name"
+msgstr "முதன்மை படவுரு பெயர்"
+
+msgid "Primary icon sensitive"
+msgstr "முதன்மை படவுரு உணர்திறன்"
+
+msgid "Primary icon tooltip markup"
+msgstr "முதன்மை படவுரு உதவிக்குறிப்பு மார்க்அப்"
+
+msgid "Primary icon tooltip text"
+msgstr "முதன்மை படவுரு உதவிக்குறிப்பு உரை"
+
+msgid "Primary pixbuf"
+msgstr "முதன்மை பிக்ச்ப்ஃப்"
+
+msgid "Primary pixbuf for the entry"
+msgstr "நுழைவுக்கான முதன்மை PIXBUF"
+
+msgid "Primary stock ID"
+msgstr "முதன்மை பங்கு ஐடி"
+
+msgid "Primary storage type"
+msgstr "முதன்மை சேமிப்பக வகை"
+
+msgid "Print Settings"
+msgstr "அமைப்புகளை அச்சிடுக"
+
+msgid "Printer"
+msgstr "அச்சுப்பொறி"
+
+msgid "Printer settings"
+msgstr "அச்சுப்பொறி அமைப்புகள்"
+
+msgid "Printer to print the job to"
+msgstr "வேலையை அச்சிட அச்சுப்பொறி"
+
+msgid "Program name"
+msgstr "நிரல் பெயர்"
+
+msgid "Program version"
+msgstr "நிரல் பதிப்பு"
+
+msgid "Progress Border"
+msgstr "முன்னேற்ற எல்லை"
+
+msgid "Progress Fraction"
+msgstr "முன்னேற்ற பின்னம்"
+
+msgid "Progress Pulse Step"
+msgstr "முன்னேற்ற துடிப்பு படி"
+
+msgid "Pulse"
+msgstr "நாடி"
+
+msgid "Pulse Step"
+msgstr "துடிப்பு படி"
+
+msgid "Radio state"
+msgstr "வானொலி நிலை"
+
+msgid "Ratio"
+msgstr "விகிதம்"
+
+msgid "Reads the current value, or sets a new value"
+msgstr "தற்போதைய மதிப்பைப் படியுங்கள் அல்லது புதிய மதிப்பை அமைக்கவும்"
+
+msgid "Receives default"
+msgstr "இயல்புநிலையைப் பெறுகிறது"
+
+msgid "Recent Files Limit"
+msgstr "அண்மைக் கால கோப்புகள் வரம்பு"
+
+msgid "Recent Files Max Age"
+msgstr "அண்மைக் கால கோப்புகள் அதிகபட்ச அகவை"
+
+msgid "Recent Manager"
+msgstr "அண்மைக் கால மேலாளர்"
+
+msgid "Related Action"
+msgstr "தொடர்புடைய செயல்"
+
+msgid "Render detail to pass to the theme engine"
+msgstr "கருப்பொருள் எஞ்சினுக்கு அனுப்ப விவரம் வழங்கவும்"
+
+msgid "Reorderable"
+msgstr "மறுவரிசைப்படுத்தக்கூடிய"
+
+msgid "Repeat timeout"
+msgstr "நேரம் முடிந்தது"
+
+msgid "Repeat value for timeouts, when button is pressed"
+msgstr "பொத்தானை அழுத்தும்போது, ​​காலக்கெடுவுக்கு மதிப்பை மீண்டும் செய்யவும்"
+
+msgid "Reserve Toggle Size"
+msgstr "இருப்பு மாற்று அளவு"
+
+msgid "Resizable"
+msgstr "மறுபரிசீலனை செய்யக்கூடியது"
+
+msgid "Resize"
+msgstr "மறுஅளவிடுங்கள்"
+
+msgid "Resize mode"
+msgstr "மறுஅளவிடுதல் பயன்முறை"
+
+msgid "Resize mode of the column"
+msgstr "நெடுவரிசையின் மறுஅளவிடுதல் முறை"
+
+msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
+msgstr ""
+"XFT க்கான தீர்மானம், 1024 * புள்ளிகள்/அங்குலத்தில். -1 இயல்புநிலை மதிப்பைப் "
+"பயன்படுத்த"
+
+msgid "Restrict to Fill Level"
+msgstr "மட்டத்தை நிரப்ப கட்டுப்படுத்துங்கள்"
+
+msgid "Right Attach"
+msgstr "வலது இணைக்கவும்"
+
+msgid "Right Justified"
+msgstr "சரியான நியாயமானது"
+
+msgid "Right Margin"
+msgstr "வலது விளிம்பு"
+
+msgid "Right Padding"
+msgstr "வலது திணிப்பு"
+
+msgid "Right attachment"
+msgstr "சரியான இணைப்பு"
+
+msgid "Right margin"
+msgstr "வலது விளிம்பு"
+
+msgid "Right margin set"
+msgstr "வலது விளிம்பு தொகுப்பு"
+
+msgid "Rise"
+msgstr "எழுச்சி"
+
+msgid "Rise set"
+msgstr "உயர்வு தொகுப்பு"
+
+msgid "Row Ending details"
+msgstr "வரிசை முடிவு விவரங்கள்"
+
+msgid "Row Spacing"
+msgstr "வரிசை இடைவெளி"
+
+msgid "Row has children"
+msgstr "வரிசையில் குழந்தைகள் உள்ளனர்"
+
+msgid "Row is an expander row, and is expanded"
+msgstr "வரிசை ஒரு விரிவாக்க வரிசை, மற்றும் விரிவாக்கப்படுகிறது"
+
+msgid "Row spacing"
+msgstr "வரிசை இடைவெளி"
+
+msgid "Row span column"
+msgstr "வரிசை இடைவெளி நெடுவரிசை"
+
+msgid "Rows"
+msgstr "வரிசைகள்"
+
+msgid "Rowstride"
+msgstr "ரவுச்ட்ரைடு"
+
+msgid "Rubber Banding"
+msgstr "ரப்பர் பேண்டிங்"
+
+msgid "Rules Hint"
+msgstr "விதிகள் குறிப்பு"
+
+msgid "Sans 12"
+msgstr "சான்ச் 12"
+
+msgid "Screen"
+msgstr "திரை"
+
+msgid "Scroll arrow spacing"
+msgstr "அம்பு இடைவெளி உருள்"
+
+msgid "Scroll offset"
+msgstr "உருட்டல் ஆஃப்செட்"
+
+msgid "Scrollable"
+msgstr "கீறப்பட்டது"
+
+msgid "Scrollbar spacing"
+msgstr "சுருள் இடைவெளி"
+
+msgid "Scrollbars within bevel"
+msgstr "பெவலுக்குள் சுருள் பார்கள்"
+
+msgid "Scrolled Window Placement"
+msgstr "உருட்டப்பட்ட சாளர வேலை வாய்ப்பு"
+
+msgid "Search Column"
+msgstr "நெடுவரிசையைத் தேடுங்கள்"
+
+msgid "Secondary"
+msgstr "இரண்டாம் நிலை"
+
+msgid "Secondary GIcon"
+msgstr "இரண்டாம் நிலை கிகான்"
+
+msgid "Secondary Text"
+msgstr "இரண்டாம் நிலை உரை"
+
+msgid "Secondary backward stepper"
+msgstr "இரண்டாம் நிலை பின்தங்கிய ச்டெப்பர்"
+
+msgid "Secondary cursor color"
+msgstr "இரண்டாம் நிலை கர்சர் நிறம்"
+
+msgid "Secondary forward stepper"
+msgstr "இரண்டாம் நிலை முன்னோக்கி ச்டெப்பர்"
+
+msgid "Secondary icon activatable"
+msgstr "இரண்டாம் நிலை படவுரு செயல்படுத்தக்கூடியது"
+
+msgid "Secondary icon name"
+msgstr "இரண்டாம் நிலை படவுரு பெயர்"
+
+msgid "Secondary icon sensitive"
+msgstr "இரண்டாம் நிலை படவுரு உணர்திறன்"
+
+msgid "Secondary icon tooltip markup"
+msgstr "இரண்டாம் நிலை படவுரு உதவிக்குறிப்பு மார்க்அப்"
+
+msgid "Secondary icon tooltip text"
+msgstr "இரண்டாம் நிலை படவுரு உதவிக்குறிப்பு உரை"
+
+msgid "Secondary pixbuf"
+msgstr "இரண்டாம் நிலை பிக்ச்ப்ஃப்"
+
+msgid "Secondary pixbuf for the entry"
+msgstr "நுழைவுக்கான இரண்டாம் நிலை PIXBUF"
+
+msgid "Secondary stock ID"
+msgstr "இரண்டாம் நிலை பங்கு ஐடி"
+
+msgid "Secondary storage type"
+msgstr "இரண்டாம் நிலை சேமிப்பு வகை"
+
+msgid "Select Multiple"
+msgstr "பலவற்றைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select on focus"
+msgstr "கவனம் செலுத்துங்கள்"
+
+msgid "Selectable"
+msgstr "தேர்ந்தெடுக்கக்கூடியது"
+
+msgid "Selected Printer"
+msgstr "தேர்ந்தெடுக்கப்பட்ட அச்சுப்பொறி"
+
+msgid "Selection Bound"
+msgstr "தேர்வு பிணைக்கப்பட்டுள்ளது"
+
+msgid "Selection Box Alpha"
+msgstr "தேர்வு பெட்டி ஆல்பா"
+
+msgid "Selection Box Color"
+msgstr "தேர்வு பெட்டி நிறம்"
+
+msgid "Selection mode"
+msgstr "தேர்வு முறை"
+
+msgid "Sensitive"
+msgstr "உணர்திறன்"
+
+msgid "Separator Height"
+msgstr "பிரிப்பான் உயரம்"
+
+msgid "Separator Width"
+msgstr "பிரிப்பான் அகலம்"
+
+msgid "Set a hint to the theme engine to draw rows in alternating colors"
+msgstr ""
+"மாற்று வண்ணங்களில் வரிசைகளை வரைய கருப்பொருள் எஞ்சினுக்கு ஒரு குறிப்பை "
+"அமைக்கவும்"
+
+msgid "Set the column for the expander column"
+msgstr "விரிவாக்க நெடுவரிசைக்கு நெடுவரிசையை அமைக்கவும்"
+
+msgid ""
+"Set this to positive values to indicate that some progress is made, but you "
+"don't know how much."
+msgstr ""
+"சில முன்னேற்றங்கள் செய்யப்பட்டன என்பதைக் குறிக்க இதை நேர்மறையான மதிப்புகளாக "
+"அமைக்கவும், ஆனால் எவ்வளவு என்று உங்களுக்குத் தெரியாது."
+
+msgid "Sets the accelerator path of the menu item"
+msgstr "பட்டியல் உருப்படியின் முடுக்கி பாதையை அமைக்கிறது"
+
+msgid ""
+"Sets whether the menu item appears justified at the right side of a menu bar"
+msgstr ""
+"பட்டியல் பட்டியின் வலது பக்கத்தில் பட்டியல் உருப்படி நியாயப்படுத்தப்பட்டதா "
+"என்பதை அமைக்கிறது"
+
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgid "Shadow Type"
+msgstr "நிழல் வகை"
+
+msgid "Shadow type"
+msgstr "நிழல் வகை"
+
+msgid "Short label"
+msgstr "குறுகிய சிட்டை"
+
+msgid "Show Arrow"
+msgstr "அம்புக்குறியைக் காட்டு"
+
+msgid "Show Border"
+msgstr "எல்லையைக் காட்டு"
+
+msgid "Show Day Names"
+msgstr "நாள் பெயர்களைக் காட்டு"
+
+msgid "Show Details"
+msgstr "விவரங்களைக் காட்டு"
+
+msgid "Show Dialog"
+msgstr "உரையாடலைக் காட்டு"
+
+msgid "Show Expanders"
+msgstr "விரிவாக்கிகளைக் காட்டு"
+
+msgid "Show Fill Level"
+msgstr "நிரப்பு அளவைக் காட்டு"
+
+msgid "Show Heading"
+msgstr "தலைப்பைக் காட்டு"
+
+msgid "Show Hidden"
+msgstr "மறைக்கப்பட்டதைக் காட்டு"
+
+msgid "Show Icons"
+msgstr "ஐகான்களைக் காட்டு"
+
+msgid "Show Not Found"
+msgstr "கண்டுபிடிக்கப்படவில்லை"
+
+msgid "Show Numbers"
+msgstr "எண்களைக் காட்டு"
+
+msgid "Show Private"
+msgstr "தனிப்பட்டதைக் காட்டு"
+
+msgid "Show Tabs"
+msgstr "தாவல்களைக் காட்டு"
+
+msgid "Show Tooltips"
+msgstr "உதவிக்குறிப்புகளைக் காட்டு"
+
+msgid "Show Week Numbers"
+msgstr "வார எண்களைக் காட்டு"
+
+msgid "Show button images"
+msgstr "பொத்தான் படங்களைக் காட்டு"
+
+msgid "Show file operations"
+msgstr "கோப்பு செயல்பாடுகளைக் காட்டு"
+
+msgid "Show menu images"
+msgstr "பட்டியல் படங்களைக் காட்டு"
+
+msgid "Show size"
+msgstr "அளவைக் காட்டு"
+
+msgid "Show style"
+msgstr "பாணியைக் காட்டு"
+
+msgid "Show text"
+msgstr "உரையைக் காட்டு"
+
+msgid "Show the 'Input Methods' menu"
+msgstr "'உள்ளீட்டு முறைகள்' மெனுவைக் காட்டு"
+
+msgid "Show the 'Insert Unicode Control Character' menu"
+msgstr "'யூனிகோட் கட்டுப்பாட்டு எழுத்தை செருகவும்' மெனுவைக் காட்டு"
+
+msgid "Show the column header buttons"
+msgstr "நெடுவரிசை தலைப்பு பொத்தான்களைக் காட்டு"
+
+msgid "Shrink"
+msgstr "சுருங்கவும்"
+
+msgid ""
+"Side of the handlebox that's lined up with the docking point to dock the "
+"handlebox"
+msgstr "ஏண்டில்பாக்சின் பக்கம்"
+
+msgid "Sidebar image"
+msgstr "பக்கப்பட்டி படம்"
+
+msgid "Sidebar image for the assistant page"
+msgstr "உதவி பக்கத்திற்கான பக்கப்பட்டி படம்"
+
+msgid "Single Line Mode"
+msgstr "ஒற்றை வரி பயன்முறை"
+
+msgid "Single Paragraph Mode"
+msgstr "ஒற்றை பத்தி பயன்முறை"
+
+msgid "Size"
+msgstr "அளவு"
+
+msgid "Size of areas outside the widget's allocation to draw"
+msgstr "விட்செட்டின் ஒதுக்கீட்டிற்கு வெளியே உள்ள பகுதிகளின் அளவு"
+
+msgid "Size of check or radio indicator"
+msgstr "காசோலை அல்லது வானொலி காட்டி அளவு"
+
+msgid "Size of dropdown indicator"
+msgstr "கீழ்தோன்றும் காட்டி அளவு"
+
+msgid "Size of icons in this toolbar"
+msgstr "இந்த கருவிப்பட்டியில் ஐகான்களின் அளவு"
+
+msgid "Size of spacers"
+msgstr "ச்பேசர்களின் அளவு"
+
+msgid "Size of tab curvature"
+msgstr "தாவல் வளைவின் அளவு"
+
+msgid "Size of tab overlap area"
+msgstr "தாவல் ஒன்றுடன் ஒன்று பரப்பளவு"
+
+msgid "Size of the expander arrow"
+msgstr "விரிவாக்க அம்புக்குறியின் அளவு"
+
+msgid "Size to use for cursors, or 0 to use the default size"
+msgstr ""
+"கர்சர்களுக்கு பயன்படுத்த வேண்டிய அளவு, அல்லது இயல்புநிலை அளவைப் பயன்படுத்த 0"
+
+msgid "Sizing"
+msgstr "அளவிடுதல்"
+
+msgid "Skip pager"
+msgstr "பேசரைத் தவிர்க்கவும்"
+
+msgid "Skip taskbar"
+msgstr "பணிப்பட்டியைத் தவிர்க்கவும்"
+
+msgid "Slider Length"
+msgstr "ச்லைடர் நீளம்"
+
+msgid "Slider Width"
+msgstr "ச்லைடர் அகலம்"
+
+msgid "Smallest possible value for the \"position\" property"
+msgstr "\"நிலை\" சொத்துக்கான மிகச்சிறிய மதிப்பு"
+
+msgid "Snap edge"
+msgstr "ச்னாப் எட்ச்"
+
+msgid "Snap edge set"
+msgstr "ச்னாப் எட்ச் செட்"
+
+msgid "Snap to Ticks"
+msgstr "உண்ணி"
+
+msgid "Socket Window"
+msgstr "சாக்கெட் சாளரம்"
+
+msgid "Sort Type"
+msgstr "வரிசை வகை"
+
+msgid "Sort column ID"
+msgstr "நெடுவரிசை ஐடியை வரிசைப்படுத்துங்கள்"
+
+msgid "Sort direction the sort indicator should indicate"
+msgstr "வரிசைப்படுத்தும் திசை வரிசை காட்டி குறிக்க வேண்டும்"
+
+msgid "Sort indicator"
+msgstr "காட்டி வரிசைப்படுத்தவும்"
+
+msgid "Sort order"
+msgstr "வரிசைப்படுத்தும் முறை"
+
+msgid "Sound Theme Name"
+msgstr "ஒலி கருப்பொருள் பெயர்"
+
+msgid "Source option"
+msgstr "மூல விருப்பம்"
+
+msgid "Space between value text and the slider/trough area"
+msgstr "மதிப்பு உரை மற்றும் ச்லைடர்/தொட்டி பகுதிக்கு இடையிலான இடைவெளி"
+
+msgid "Space style"
+msgstr "விண்வெளி நடை"
+
+msgid "Space to put between the label and the child"
+msgstr "லேபிளுக்கும் குழந்தைக்கும் இடையில் வைக்க இடம்"
+
+msgid "Space which is inserted at the edges of the icon view"
+msgstr "படவுரு பார்வையின் விளிம்புகளில் செருகப்பட்ட இடம்"
+
+msgid "Space which is inserted between cells"
+msgstr "கலங்களுக்கு இடையில் செருகப்பட்ட இடம்"
+
+msgid "Space which is inserted between cells of an item"
+msgstr "ஒரு பொருளின் கலங்களுக்கு இடையில் செருகப்பட்ட இடம்"
+
+msgid "Space which is inserted between grid columns"
+msgstr "கட்டம் நெடுவரிசைகளுக்கு இடையில் செருகப்பட்ட இடம்"
+
+msgid "Space which is inserted between grid rows"
+msgstr "கட்டம் வரிசைகளுக்கு இடையில் செருகப்பட்ட இடம்"
+
+msgid "Spacer size"
+msgstr "ச்பேசர் அளவு"
+
+msgid "Spacing"
+msgstr "இடைவெளி"
+
+msgid "Spacing around check or radio indicator"
+msgstr "காசோலை அல்லது வானொலி காட்டி சுற்றியுள்ள இடைவெளி"
+
+msgid "Spacing around expander arrow"
+msgstr "விரிவாக்க அம்புக்குறியைச் சுற்றி இடைவெளி"
+
+msgid "Spacing around indicator"
+msgstr "காட்டி சுற்றி இடைவெளி"
+
+msgid "Spacing between buttons"
+msgstr "பொத்தான்களுக்கு இடையில் இடைவெளி"
+
+msgid "Spacing between elements of the area"
+msgstr "இப்பகுதியின் கூறுகளுக்கு இடையில் இடைவெளி"
+
+msgid "Spacing between elements of the main dialog area"
+msgstr "முதன்மையான உரையாடல் பகுதியின் கூறுகளுக்கு இடையில் இடைவெளி"
+
+msgid "Spacing between step buttons and thumb"
+msgstr "படி பொத்தான்கள் மற்றும் கட்டைவிரலுக்கு இடையில் இடைவெளி"
+
+msgid "Spacing between thumb/steppers and outer trough bevel"
+msgstr "கட்டைவிரல்/ச்டெப்பர்கள் மற்றும் வெளிப்புற தொட்டி பெவல் இடையே இடைவெளி"
+
+msgid "Spacing in pixels between the icon and label"
+msgstr "படவுரு மற்றும் லேபிளுக்கு இடையில் பிக்சல்களில் இடைவெளி"
+
+msgid "Spacing in pixels between the image and label"
+msgstr "படத்திற்கும் லேபிளுக்கும் இடையில் பிக்சல்களில் இடைவெளி"
+
+msgid "Specifies the visual style of the bar in percentage mode (Deprecated)"
+msgstr ""
+"பட்டியின் காட்சி பாணியை சதவீத பயன்முறையில் குறிப்பிடுகிறது (நீக்கப்பட்டது)"
+
+msgid "Specify how resize events are handled"
+msgstr ""
+"மறுஅளவிடுதல் நிகழ்வுகள் எவ்வாறு கையாளப்படுகின்றன என்பதைக் குறிப்பிடவும்"
+
+msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
+msgstr ""
+"எல்லா வரிசைகளும் ஒரே உயரத்தைக் கொண்டுள்ளன என்று கருதி gtktreeview ஐ "
+"வேகப்படுத்துகிறது"
+
+msgid "Split Cursor"
+msgstr "கர்சரைப் பிரிக்கவும்"
+
+msgid "Start timeout"
+msgstr "தொடக்க நேரம் முடிந்தது"
+
+msgid "Starting value for timeouts, when button is pressed"
+msgstr "பொத்தானை அழுத்தும்போது, ​​காலக்கெடுவுக்கான தொடக்க மதிப்பு"
+
+msgid "Startup ID"
+msgstr "தொடக்க ஐடி"
+
+msgid "State Hint"
+msgstr "மாநில குறிப்பு"
+
+msgid "State Message"
+msgstr "மாநில செய்தி"
+
+msgid "Status"
+msgstr "நிலை"
+
+msgid "Status String"
+msgstr "நிலை சரம்"
+
+msgid "Step Increment"
+msgstr "படி அதிகரிப்பு"
+
+msgid "Stepper Size"
+msgstr "ச்டெப்பர் அளவு"
+
+msgid "Stepper Spacing"
+msgstr "ச்டெப்பர் இடைவெளி"
+
+msgid "Stock ID"
+msgstr "பங்கு ஐடி"
+
+msgid "Stock ID for a stock image to display"
+msgstr "பங்கு படம் காண்பிக்க பங்கு ஐடி"
+
+msgid "Stock ID for primary icon"
+msgstr "முதன்மை ஐகானுக்கான பங்கு ஐடி"
+
+msgid "Stock ID for secondary icon"
+msgstr "இரண்டாம் நிலை ஐகானுக்கான பங்கு ஐடி"
+
+msgid "Stock Icon"
+msgstr "பங்கு படவுரு"
+
+msgid "Stock Id"
+msgstr "பங்கு ஐடி"
+
+msgid "Storage type"
+msgstr "சேமிப்பக வகை"
+
+msgid "Strikethrough"
+msgstr "ச்ட்ரைகெத்ரோ"
+
+msgid "Strikethrough set"
+msgstr "ச்ட்ரைகெத்ரோ செட்"
+
+msgid "String giving the current state of the printer"
+msgstr "அச்சுப்பொறியின் தற்போதைய நிலையை வழங்கும் சரம்"
+
+msgid "Style"
+msgstr "சூல் தண்டு"
+
+msgid "Style of bevel around the contents"
+msgstr "உள்ளடக்கங்களைச் சுற்றி பெவலின் பாணி"
+
+msgid "Style of bevel around the menubar"
+msgstr "மெனுபரைச் சுற்றி பெவலின் பாணி"
+
+msgid "Style of bevel around the spin button"
+msgstr "சுழல் பொத்தானைச் சுற்றி பெவலின் பாணி"
+
+msgid "Style of bevel around the statusbar text"
+msgstr "StatusBar உரையைச் சுற்றி பெவலின் பாணி"
+
+msgid "Style of bevel around the toolbar"
+msgstr "கருவிப்பட்டியைச் சுற்றி பெவலின் பாணி"
+
+msgid "Style of underline for this text"
+msgstr "இந்த உரைக்கான அடிக்கோடிட்ட பாணி"
+
+msgid "Submenu"
+msgstr "துணைமெனு"
+
+msgid "Support Selection"
+msgstr "உதவி தேர்வு"
+
+msgid "Symbolic size to use for stock icon, icon set or named icon"
+msgstr ""
+"பங்கு படவுரு, படவுரு செட் அல்லது பெயரிடப்பட்ட ஐகானுக்கு பயன்படுத்த "
+"குறியீட்டு அளவு"
+
+msgid "TRUE if a progress dialog is shown while printing."
+msgstr "அச்சிடும் போது முன்னேற்ற உரையாடல் காட்டப்பட்டால் உண்மை."
+
+msgid "TRUE if page setup combos are embedded in GtkPrintDialog"
+msgstr "பக்க அமைவு காம்போக்கள் Gtkprintdialog இல் உட்பொதிக்கப்பட்டால் உண்மை"
+
+msgid "TRUE if page setup combos are embedded in GtkPrintUnixDialog"
+msgstr ""
+"Gtkprintunixdialog இல் பக்க அமைவு காம்போக்கள் பதிக்கப்பட்டிருந்தால் உண்மை"
+
+msgid "TRUE if print process may run asynchronous."
+msgstr "அச்சு செயல்முறை ஒத்திசைவற்றதாக இயங்கக்கூடும் என்றால் உண்மை."
+
+msgid "TRUE if the Position property should be used"
+msgstr "நிலை சொத்து பயன்படுத்தப்பட வேண்டும் என்றால் உண்மை"
+
+msgid ""
+"TRUE if the origin of the context should be at the corner of the page and "
+"not the corner of the imageable area"
+msgstr "சூழலின் தோற்றம் பக்கத்தின் மூலையில் இருக்க வேண்டும் என்றால் உண்மை"
+
+msgid ""
+"TRUE if the print job will continue to emit status-changed signals after the"
+" print data has been sent to the printer or print server."
+msgstr ""
+"அச்சுப்பொறி அல்லது அச்சு சேவையகத்திற்கு அச்சு தரவு அனுப்பப்பட்ட பிறகு அச்சு "
+"வேலை தொடர்ந்து நிலைமைப்படுத்தப்பட்ட சமிக்ஞைகளை வெளியிடுகிறது என்றால் உண்மை."
+
+msgid ""
+"TRUE if the print operation will continue to report on the print job status "
+"after the print data has been sent to the printer or print server."
+msgstr ""
+"அச்சு தரவு அச்சுப்பொறி அல்லது அச்சு சேவையகத்திற்கு அனுப்பப்பட்ட பின்னர் "
+"அச்சு செயல்பாடு அச்சு வேலை நிலையைப் பற்றி தொடர்ந்து புகாரளிக்கும் என்றால் "
+"உண்மை."
+
+msgid "TRUE if the print operation will support print of selection."
+msgstr "அச்சு செயல்பாடு தேர்வின் அச்சிடலை ஆதரிக்கும் என்றால் உண்மை."
+
+msgid "TRUE if the window should be brought to the user's attention."
+msgstr "சாளரத்தை பயனரின் கவனத்திற்கு கொண்டு வர வேண்டும் என்றால் உண்மை."
+
+msgid "TRUE if the window should not be in the pager."
+msgstr "சாளரம் பேசரில் இருக்கக்கூடாது என்றால் உண்மை."
+
+msgid "TRUE if the window should not be in the task bar."
+msgstr "சாளரம் பணிப்பட்டியில் இருக்கக்கூடாது என்றால் உண்மை."
+
+msgid "TRUE if the window should receive the input focus when mapped."
+msgstr ""
+"வரைபடமாக்கும்போது சாளரம் உள்ளீட்டு மையத்தைப் பெற வேண்டும் என்றால் உண்மை."
+
+msgid "TRUE if the window should receive the input focus."
+msgstr "சாளரம் உள்ளீட்டு மையத்தைப் பெற வேண்டும் என்றால் உண்மை."
+
+msgid "TRUE if this printer can accept PDF"
+msgstr "இந்த அச்சுப்பொறி PDF ஐ ஏற்க முடியும் என்றால் உண்மை"
+
+msgid "TRUE if this printer can accept PostScript"
+msgstr "இந்த அச்சுப்பொறி போச்ட்ச்கிரிப்டை ஏற்க முடியும் என்றால் உண்மை"
+
+msgid "TRUE if this printer is accepting new jobs"
+msgstr "இந்த அச்சுப்பொறி புதிய வேலைகளை ஏற்றுக்கொண்டால் உண்மை"
+
+msgid "TRUE if this printer is paused"
+msgstr "இந்த அச்சுப்பொறி இடைநிறுத்தப்பட்டால் உண்மை"
+
+msgid "Tab Border"
+msgstr "தாவல் எல்லை"
+
+msgid "Tab Position"
+msgstr "தாவல் நிலை"
+
+msgid "Tab curvature"
+msgstr "தாவல் வளைவு"
+
+msgid "Tab detachable"
+msgstr "தாவல் பிரிக்கக்கூடியது"
+
+msgid "Tab expand"
+msgstr "தாவல் விரிவாக்கம்"
+
+msgid "Tab fill"
+msgstr "தாவல் நிரப்பு"
+
+msgid "Tab label"
+msgstr "தாவல் சிட்டை"
+
+msgid "Tab overlap"
+msgstr "தாவல் ஒன்றுடன் ஒன்று"
+
+msgid "Tab pack type"
+msgstr "தாவல் பேக் வகை"
+
+msgid "Tab reorderable"
+msgstr "தாவல் மறுவரிசைப்படுத்தக்கூடியது"
+
+msgid "Tabs"
+msgstr "தாவல்கள்"
+
+msgid "Tabs set"
+msgstr "தாவல்கள் அமைக்கப்பட்டன"
+
+msgid "Tag Table"
+msgstr "குறிச்சொல் அட்டவணை"
+
+msgid "Tag name"
+msgstr "குறிச்சொல் பெயர்"
+
+msgid "Take Focus"
+msgstr "கவனம் செலுத்துங்கள்"
+
+msgid "Tearoff State"
+msgstr "கண்ணீர் நிலை"
+
+msgid "Tearoff Title"
+msgstr "கண்ணீர் தலைப்பு"
+
+msgid "Text"
+msgstr "உரை"
+
+msgid "Text Buffer"
+msgstr "உரை இடையக"
+
+msgid "Text Column"
+msgstr "உரை நெடுவரிசை"
+
+msgid "Text Tag Table"
+msgstr "உரை குறிச்சொல் அட்டவணை"
+
+msgid "Text buffer object which actually stores entry text"
+msgstr "நுழைவு உரையை உண்மையில் சேமிக்கும் உரை இடையக பொருள்"
+
+msgid "Text column"
+msgstr "உரை நெடுவரிசை"
+
+msgid "Text direction"
+msgstr "உரை திசை"
+
+msgid "Text direction, e.g. right-to-left or left-to-right"
+msgstr "உரை திசை, எ.கா. வலதுபுறம் அல்லது இடமிருந்து வலமாக"
+
+msgid "Text length"
+msgstr "உரை நீளம்"
+
+msgid "Text of the expander's label"
+msgstr "விரிவாக்கியின் லேபிளின் உரை"
+
+msgid "Text of the frame's label"
+msgstr "சட்டத்தின் லேபிளின் உரை"
+
+msgid ""
+"Text of the label widget inside the button, if the button contains a label "
+"widget"
+msgstr ""
+"பொத்தானின் உள்ளே சிட்டை விட்செட்டின் உரை, பொத்தானில் ஒரு சிட்டை விட்செட் "
+"இருந்தால்"
+
+msgid "Text on the progress bar"
+msgstr "முன்னேற்றப் பட்டியில் உரை"
+
+msgid "Text to be displayed in the progress bar"
+msgstr "முன்னேற்றப் பட்டியில் உரை காட்டப்பட வேண்டும்"
+
+msgid "Text to render"
+msgstr "வழங்க உரை"
+
+msgid "Text to show in the item."
+msgstr "உருப்படியில் காண்பிக்க உரை."
+
+msgid "Text x alignment"
+msgstr "உரை ஃச் சீரமைப்பு"
+
+msgid "Text y alignment"
+msgstr "உரை ஒய் சீரமைப்பு"
+
+msgid "The Accel Group to use for stock accelerator keys"
+msgstr "பங்கு முடுக்கி விசைகளுக்கு பயன்படுத்த முடிமுறைக் குழு"
+
+msgid "The GIcon being displayed"
+msgstr "கிகான் காட்டப்படும்"
+
+msgid "The GdkFont that is currently selected"
+msgstr "தற்போது தேர்ந்தெடுக்கப்பட்ட GDKFONT"
+
+msgid ""
+"The GtkActionGroup this GtkAction is associated with, or NULL (for internal "
+"use)."
+msgstr ""
+"GTKACTIONGROUP இந்த GTKACTION உடன் தொடர்புடையது அல்லது NULL (உள் "
+"பயன்பாட்டிற்கு)."
+
+msgid "The GtkAdjustment connected to the progress bar (Deprecated)"
+msgstr "முன்னேற்றப் பட்டியுடன் இணைக்கப்பட்ட gtkadjustment (நீக்கப்பட்டது)"
+
+msgid "The GtkAdjustment for the horizontal position"
+msgstr "கிடைமட்ட நிலைக்கு Gtkadjustment"
+
+msgid "The GtkAdjustment for the vertical position"
+msgstr "செங்குத்து நிலைக்கான Gtkadjustment"
+
+msgid "The GtkAdjustment that contains the current value of this range object"
+msgstr "இந்த வரம்பு பொருளின் தற்போதைய மதிப்பைக் கொண்ட gtkadjustment"
+
+msgid ""
+"The GtkAdjustment that contains the current value of this scale button "
+"object"
+msgstr "இந்த அளவிலான பொத்தான் பொருளின் தற்போதைய மதிப்பைக் கொண்ட gtkadjustment"
+
+msgid ""
+"The GtkAdjustment that determines the values of the horizontal position for "
+"this viewport"
+msgstr ""
+"இந்த காட்சிக்கு கிடைமட்ட நிலையின் மதிப்புகளை தீர்மானிக்கும் gtkadjustment"
+
+msgid ""
+"The GtkAdjustment that determines the values of the vertical position for "
+"this viewport"
+msgstr ""
+"இந்த காட்சியகத்திற்கான செங்குத்து நிலையின் மதிப்புகளை தீர்மானிக்கும் "
+"gtkadjustment"
+
+msgid "The GtkIconSize value that specifies the size of the rendered icon"
+msgstr "வழங்கப்பட்ட ஐகானின் அளவைக் குறிப்பிடும் gtkiconsize மதிப்பு"
+
+msgid "The GtkPageSetup to use"
+msgstr "பயன்படுத்த gtkpageSetup"
+
+msgid "The GtkPageSetup used by default"
+msgstr "இயல்புநிலையாகப் பயன்படுத்தப்படும் GTKPageSetup"
+
+msgid "The GtkPrintSettings used for initializing the dialog"
+msgstr "உரையாடலைத் தொடங்க பயன்படுத்தப்படும் GTKPrintSettings"
+
+msgid "The GtkPrinter which is selected"
+msgstr "தேர்ந்தெடுக்கப்பட்ட GTKPRINTER"
+
+msgid "The OK button of the dialog."
+msgstr "உரையாடலின் சரி பொத்தான்."
+
+msgid "The PrinterOption backing this widget"
+msgstr "இந்த விட்செட்டை ஆதரிக்கும் அச்சுப்பொறி"
+
+msgid "The RecentManager object to use"
+msgstr "பயன்படுத்த அண்மைக் கால மேலாளர் பொருள்"
+
+msgid "The URI bound to this button"
+msgstr "இந்த பொத்தானைக் கட்டுப்படுத்த யூரி"
+
+msgid "The URL for the link to the website of the program"
+msgstr "திட்டத்தின் வலைத்தளத்திற்கான இணைப்பிற்கான முகவரி"
+
+msgid "The accel group holding accelerators for the menu"
+msgstr "மெனுவுக்கான முடுக்கப்பட்ட முடுக்கிகள்"
+
+msgid "The acceleration rate when you hold down a button"
+msgstr "நீங்கள் ஒரு பொத்தானை அழுத்தும்போது முடுக்கம் விகிதம்"
+
+msgid "The action this activatable will activate and receive updates from"
+msgstr ""
+"இந்த செயல்படுத்தக்கூடிய செயல் புதுப்பிப்புகளை செயல்படுத்துகிறது மற்றும் "
+"பெறும்"
+
+msgid "The adjustment that holds the value of the spinbutton"
+msgstr "ச்பின்பட்டனின் மதிப்பைக் கொண்ட சரிசெய்தல்"
+
+msgid "The adjustment that holds the value of the spinbutton."
+msgstr "ச்பின்பட்டனின் மதிப்பைக் கொண்ட சரிசெய்தல்."
+
+msgid ""
+"The alignment of the lines in the text of the label relative to each other. "
+"This does NOT affect the alignment of the label within its allocation. See "
+"GtkMisc::xalign for that"
+msgstr ""
+"ஒருவருக்கொருவர் தொடர்புடைய லேபிளின் உரையில் வரிகளின் சீரமைப்பு. இது லேபிளின்"
+" ஒதுக்கீட்டிற்குள் சீரமைப்பதை பாதிக்காது. அதற்காக gtkmisc :: xalign ஐப் "
+"பார்க்கவும்"
+
+msgid "The amount of space between children"
+msgstr "குழந்தைகளுக்கு இடையிலான இடைவெளியின் அளவு"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "தொடர்ச்சியாக இரண்டு நெடுவரிசைகளுக்கு இடையிலான இடைவெளியின் அளவு"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "தொடர்ச்சியாக இரண்டு வரிசைகளுக்கு இடையிலான இடைவெளியின் அளவு"
+
+msgid ""
+"The amount of space to add on the left and right of the widget, in pixels"
+msgstr ""
+"விட்செட்டின் இடது மற்றும் வலதுபுறத்தில், பிக்சல்களில் சேர்க்க வேண்டிய "
+"இடத்தின் அளவு"
+
+msgid ""
+"The amount of space to add on the top and bottom of the widget, in pixels"
+msgstr ""
+"விட்செட்டின் மேல் மற்றும் கீழ், பிக்சல்களில் சேர்க்க வேண்டிய இடத்தின் அளவு"
+
+msgid "The border relief style"
+msgstr "எல்லை நிவாரண பாணி"
+
+msgid "The buffer which is displayed"
+msgstr "காட்டப்படும் இடையக"
+
+msgid "The buttons shown in the message dialog"
+msgstr "செய்தி உரையாடலில் காட்டப்பட்டுள்ள பொத்தான்கள்"
+
+msgid "The cancel button of the dialog."
+msgstr "உரையாடலின் ரத்து பொத்தானை."
+
+msgid "The character to use when masking entry contents (in \"password mode\")"
+msgstr ""
+"நுழைவு உள்ளடக்கங்களை மறைக்கும்போது பயன்படுத்த வேண்டிய எழுத்து (\"கடவுச்சொல் "
+"பயன்முறையில்\")"
+
+msgid "The child pack direction of the menubar"
+msgstr "மெனுபரின் குழந்தை பேக் திசை"
+
+msgid "The closure to be monitored for accelerator changes"
+msgstr "முடுக்கி மாற்றங்களுக்காக கண்காணிக்கப்பட வேண்டிய மூடல்"
+
+msgid "The color selection embedded in the dialog."
+msgstr "உரையாடலில் உட்பொதிக்கப்பட்ட வண்ணத் தேர்வு."
+
+msgid "The colorspace in which the samples are interpreted"
+msgstr "மாதிரிகள் விளக்கப்படும் வண்ணங்கள்"
+
+msgid "The column in the model containing the tooltip texts for the items"
+msgstr ""
+"உருப்படிகளுக்கான உதவிக்குறிப்பு நூல்களைக் கொண்ட மாதிரியில் உள்ள நெடுவரிசை"
+
+msgid "The column in the model containing the tooltip texts for the rows"
+msgstr ""
+"வரிசைகளுக்கான உதவிக்குறிப்பு நூல்களைக் கொண்ட மாதிரியில் உள்ள நெடுவரிசை"
+
+msgid "The column number to attach the left side of the child to"
+msgstr "குழந்தையின் இடது பக்கத்தை இணைக்க நெடுவரிசை எண்"
+
+msgid "The column number to attach the right side of a child widget to"
+msgstr "குழந்தை விட்செட்டின் வலது பக்கத்தை இணைக்க நெடுவரிசை எண்"
+
+msgid "The column number to attach the right side of the child to"
+msgstr "குழந்தையின் வலது பக்கத்தை இணைக்க நெடுவரிசை எண்"
+
+msgid "The column of the model containing the strings."
+msgstr "சரங்களைக் கொண்ட மாதிரியின் நெடுவரிசை."
+
+msgid "The contents of the buffer"
+msgstr "இடையகத்தின் உள்ளடக்கங்கள்"
+
+msgid "The contents of the entry"
+msgstr "நுழைவின் உள்ளடக்கங்கள்"
+
+msgid "The contents of the tooltip for this tray icon"
+msgstr "இந்த தட்டு ஐகானுக்கான உதவிக்குறிப்பின் உள்ளடக்கங்கள்"
+
+msgid "The contents of the tooltip for this widget"
+msgstr "இந்த விட்செட்டுக்கான உதவிக்குறிப்பின் உள்ளடக்கங்கள்"
+
+msgid "The contents of the tooltip on the primary icon"
+msgstr "முதன்மை ஐகானில் உதவிக்குறிப்பின் உள்ளடக்கங்கள்"
+
+msgid "The contents of the tooltip on the secondary icon"
+msgstr "இரண்டாம் நிலை ஐகானில் உதவிக்குறிப்பின் உள்ளடக்கங்கள்"
+
+msgid "The current color"
+msgstr "தற்போதைய நிறம்"
+
+msgid "The current filter for selecting which files are displayed"
+msgstr ""
+"எந்த கோப்புகள் காண்பிக்கப்படுகின்றன என்பதைத் தேர்ந்தெடுப்பதற்கான தற்போதைய "
+"வடிகட்டி"
+
+msgid "The current filter for selecting which resources are displayed"
+msgstr ""
+"எந்த வளங்கள் காட்டப்படுகின்றன என்பதைத் தேர்ந்தெடுப்பதற்கான தற்போதைய வடிகட்டி"
+
+msgid "The current fraction of the task that's been completed"
+msgstr "முடிக்கப்பட்ட பணியின் தற்போதைய பின்னம்"
+
+msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr ""
+"தற்போதைய ஒளிபுகா மதிப்பு (0 முழுமையாக வெளிப்படையானது, 65535 முழுமையாக "
+"ஒளிபுகா)"
+
+msgid "The current page in the document"
+msgstr "ஆவணத்தில் தற்போதைய பக்கம்"
+
+msgid "The current position of the insertion cursor in chars"
+msgstr "எழுத்தில் செருகும் கர்சரின் தற்போதைய நிலை"
+
+msgid "The current value"
+msgstr "தற்போதைய மதிப்பு"
+
+msgid "The currently selected filename"
+msgstr "தற்போது தேர்ந்தெடுக்கப்பட்ட கோப்பு பெயர்"
+
+msgid "The currently selected menu item"
+msgstr "தற்போது தேர்ந்தெடுக்கப்பட்ட பட்டியல் உருப்படி"
+
+msgid "The default display for GDK"
+msgstr "GDK க்கான இயல்புநிலை காட்சி"
+
+msgid "The default font options for the screen"
+msgstr "திரைக்கான இயல்புநிலை எழுத்துரு விருப்பங்கள்"
+
+msgid ""
+"The default height of the window, used when initially showing the window"
+msgstr ""
+"சாளரத்தின் இயல்புநிலை உயரம், ஆரம்பத்தில் சாளரத்தைக் காண்பிக்கும் போது "
+"பயன்படுத்தப்படுகிறது"
+
+msgid ""
+"The default width of the window, used when initially showing the window"
+msgstr ""
+"சாளரத்தின் இயல்புநிலை அகலம், ஆரம்பத்தில் சாளரத்தைக் காண்பிக்கும் போது "
+"பயன்படுத்தப்படுகிறது"
+
+msgid "The desired maximum width of the label, in characters"
+msgstr "எழுத்துக்களில், லேபிளின் அதிகபட்ச அகலம்"
+
+msgid "The desired width of the button widget, in characters."
+msgstr "எழுத்துக்களில், பொத்தான் விட்செட்டின் விரும்பிய அகலம்."
+
+msgid "The desired width of the label, in characters"
+msgstr "எழுத்துக்களில், லேபிளின் விரும்பிய அகலம்"
+
+msgid "The dialog has a separator bar above its buttons"
+msgstr "உரையாடலில் அதன் பொத்தான்களுக்கு மேலே ஒரு பிரிப்பான் பட்டி உள்ளது"
+
+msgid "The direction the arrow should point"
+msgstr "அம்பு சுட்டிக்காட்ட வேண்டிய திசை"
+
+msgid ""
+"The directions in which the size group affects the requested sizes of its "
+"component widgets"
+msgstr ""
+"அளவு குழு அதன் கூறு விட்செட்டுகளின் கோரப்பட்ட அளவுகளை பாதிக்கும் திசைகள்"
+
+msgid "The dropdown menu"
+msgstr "கீழ்தோன்றும் பட்டியல்"
+
+msgid "The event mask that decides what kind of GdkEvents this widget gets"
+msgstr "இந்த விட்செட்டைப் பெறுகிறது என்பதை தீர்மானிக்கும் நிகழ்வு முகமூடி"
+
+msgid "The file chooser dialog to use."
+msgstr "பயன்படுத்த கோப்பு தேர்வு உரையாடல்."
+
+msgid "The fill level."
+msgstr "நிரப்பு நிலை."
+
+msgid "The fixed height"
+msgstr "நிலையான உயரம்"
+
+msgid "The fixed width"
+msgstr "நிலையான அகலம்"
+
+msgid ""
+"The fraction of total entry width to move the progress bouncing block for "
+"each call to gtk_entry_progress_pulse()"
+msgstr "GTK_entry_progress_pulse ()"
+
+msgid "The fraction of total progress to move the bouncing block when pulsed"
+msgstr ""
+"துடிக்கும் போது துள்ளல் தொகுதியை நகர்த்துவதற்கான மொத்த முன்னேற்றத்தின் "
+"பின்னம்"
+
+msgid "The fraction of total work that has been completed"
+msgstr "முடிக்கப்பட்ட மொத்த வேலைகளின் பின்னம்"
+
+msgid "The full path to the file to be used to store and read the list"
+msgstr ""
+"கோப்பின் முழு பாதை பட்டியலை சேமிக்கவும் படிக்கவும் பயன்படுத்தப்பட வேண்டும்"
+
+msgid "The hardware keycode of the accelerator"
+msgstr "முடுக்கியின் வன்பொருள் விசை குறியீடு"
+
+msgid "The height of separators if \"wide-separators\" is TRUE"
+msgstr "\"பரந்த-பிரிப்பான்கள்\" உண்மை என்றால் பிரிப்பான்களின் உயரம்"
+
+msgid "The height of the layout"
+msgstr "தளவமைப்பின் உயரம்"
+
+msgid "The help button of the dialog."
+msgstr "உரையாடலின் உதவி பொத்தானை."
+
+msgid "The horizontal alignment of the label"
+msgstr "லேபிளின் கிடைமட்ட சீரமைப்பு"
+
+msgid ""
+"The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL "
+"layouts."
+msgstr ""
+"கிடைமட்ட சீரமைப்பு, 0 (இடது) முதல் 1 (வலது) வரை. ஆர்.டி.எல் தளவமைப்புகளுக்கு"
+" தலைகீழ்."
+
+msgid ""
+"The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL "
+"layouts."
+msgstr ""
+"கிடைமட்ட உரை சீரமைப்பு, 0 (இடது) முதல் 1 (வலது) வரை. ஆர்.டி.எல் "
+"தளவமைப்புகளுக்கு தலைகீழ்."
+
+msgid "The icon name to use for the printer"
+msgstr "அச்சுப்பொறிக்கு பயன்படுத்த படவுரு பெயர்"
+
+msgid "The icon size"
+msgstr "படவுரு அளவு"
+
+msgid "The image"
+msgstr "படம்"
+
+msgid "The inconsistent state of the button"
+msgstr "பொத்தானின் சீரற்ற நிலை"
+
+msgid "The increment used for each iteration in activity mode (Deprecated)"
+msgstr ""
+"செயல்பாட்டு பயன்முறையில் ஒவ்வொரு மறு செய்கைக்கும் பயன்படுத்தப்படும் "
+"அதிகரிப்பு (நீக்கப்பட்டது)"
+
+msgid "The index of the child in the parent"
+msgstr "பெற்றோரில் குழந்தையின் குறியீடு"
+
+msgid "The index of the current page"
+msgstr "தற்போதைய பக்கத்தின் அட்டவணை"
+
+msgid "The initial position of the window"
+msgstr "சாளரத்தின் ஆரம்ப நிலை"
+
+msgid "The item which is currently active"
+msgstr "தற்போது செயலில் உள்ள உருப்படி"
+
+msgid "The keyval of the accelerator"
+msgstr "முடுக்கியின் விசை"
+
+msgid ""
+"The label for the link to the website of the program. If this is not set, it"
+" defaults to the URL"
+msgstr ""
+"நிரலின் வலைத்தளத்திற்கான இணைப்பிற்கான சிட்டை. இது அமைக்கப்படாவிட்டால், அது "
+"முகவரி க்கு இயல்புநிலையாகிறது"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr ""
+"இந்த செயலை செயல்படுத்தும் பட்டியல் உருப்படிகள் மற்றும் பொத்தான்களுக்கு "
+"பயன்படுத்தப்படும் சிட்டை."
+
+msgid ""
+"The language this text is in, as an ISO code. Pango can use this as a hint "
+"when rendering the text. If not set, an appropriate default will be used."
+msgstr ""
+"இந்த உரை ஒரு ஐஎச்ஓ குறியீடாக உள்ளது. உரையை வழங்கும்போது பாங்கோ இதை ஒரு "
+"குறிப்பாக பயன்படுத்தலாம். அமைக்காவிட்டால், பொருத்தமான இயல்புநிலை "
+"பயன்படுத்தப்படும்."
+
+msgid ""
+"The language this text is in, as an ISO code. Pango can use this as a hint "
+"when rendering the text. If you don't understand this parameter, you "
+"probably don't need it"
+msgstr ""
+"இந்த உரை ஒரு ஐஎச்ஓ குறியீடாக உள்ளது. உரையை வழங்கும்போது பாங்கோ இதை ஒரு "
+"குறிப்பாக பயன்படுத்தலாம். இந்த அளவுரு உங்களுக்கு புரியவில்லை என்றால், "
+"உங்களுக்கு அது தேவையில்லை"
+
+msgid "The length of horizontal scroll arrows"
+msgstr "கிடைமட்ட சுருள் அம்புகளின் நீளம்"
+
+msgid "The length of vertical scroll arrows"
+msgstr "செங்குத்து சுருள் அம்புகளின் நீளம்"
+
+msgid ""
+"The list of targets this buffer supports for clipboard copying and DND "
+"source"
+msgstr ""
+"இலக்குகளின் பட்டியல் கிளிப்போர்டு நகலெடுக்கும் மற்றும் டி.என்.டி "
+"மூலத்திற்கான இந்த இடையக ஆதரிக்கிறது"
+
+msgid ""
+"The list of targets this buffer supports for clipboard pasting and DND "
+"destination"
+msgstr ""
+"இலக்குகளின் பட்டியல் இந்த இடையக கிளிப்போர்டு ஒட்டுதல் மற்றும் டி.என்.டி "
+"இலக்குக்கு ஆதரிக்கிறது"
+
+msgid "The location of the printer"
+msgstr "அச்சுப்பொறியின் இருப்பிடம்"
+
+msgid "The mask that decides what kind of extension events this widget gets"
+msgstr ""
+"இந்த விட்செட்டில் எந்த வகையான நீட்டிப்பு நிகழ்வுகள் கிடைக்கின்றன என்பதை "
+"தீர்மானிக்கும் முகமூடி"
+
+msgid "The maximum number of items to be displayed"
+msgstr "காண்பிக்கப்பட வேண்டிய அதிகபட்ச உருப்படிகள்"
+
+msgid ""
+"The maximum number of items to be returned by gtk_recent_manager_get_items()"
+msgstr ""
+"GTK_RECENT_MANAGER_GET_ITEMS () ஆல் திருப்பித் தர வேண்டிய அதிகபட்ச "
+"உருப்படிகளின் எண்ணிக்கை"
+
+msgid "The maximum value of the adjustment"
+msgstr "சரிசெய்தலின் அதிகபட்ச மதிப்பு"
+
+msgid "The menu of options"
+msgstr "விருப்பங்களின் பட்டியல்"
+
+msgid "The metric used for the ruler"
+msgstr "ஆட்சியாளருக்கு பயன்படுத்தப்படும் மெட்ரிக்"
+
+msgid "The minimum desired width of the menu item in characters"
+msgstr "எழுத்துக்களில் பட்டியல் உருப்படியின் குறைந்தபட்ச விரும்பிய அகலம்"
+
+msgid "The minimum horizontal width of the progress bar"
+msgstr "முன்னேற்ற பட்டியின் குறைந்தபட்ச கிடைமட்ட அகலம்"
+
+msgid "The minimum size of the arrow in the combo box"
+msgstr "காம்போ பெட்டியில் அம்புக்குறியின் குறைந்தபட்ச அளவு"
+
+msgid "The minimum value of the adjustment"
+msgstr "சரிசெய்தலின் குறைந்தபட்ச மதிப்பு"
+
+msgid "The minimum vertical height of the progress bar"
+msgstr "முன்னேற்ற பட்டியின் குறைந்தபட்ச செங்குத்து உயரம்"
+
+msgid "The minimum vertical width of the progress bar"
+msgstr "முன்னேற்ற பட்டியின் குறைந்தபட்ச செங்குத்து அகலம்"
+
+msgid "The mnemonic accelerator key for this label"
+msgstr "இந்த லேபிளிற்கான நினைவூட்டல் முடுக்கி விசை"
+
+msgid "The model containing the possible values for the combo box"
+msgstr "காம்போ பெட்டிக்கான சாத்தியமான மதிப்புகளைக் கொண்ட மாதிரி"
+
+msgid "The model for cell view"
+msgstr "செல் பார்வைக்கான மாதிரி"
+
+msgid "The model for the TreeModelSort to sort"
+msgstr "TREEMODELSORT க்கான மாதிரி வரிசைப்படுத்த வேண்டும்"
+
+msgid "The model for the combo box"
+msgstr "காம்போ பெட்டிக்கான மாதிரி"
+
+msgid "The model for the icon view"
+msgstr "படவுரு பார்வைக்கான மாதிரி"
+
+msgid "The model for the tree view"
+msgstr "மரக் காட்சிக்கான மாதிரி"
+
+msgid "The model to find matches in"
+msgstr "போட்டிகளைக் கண்டுபிடிக்க மாதிரி"
+
+msgid "The modifier mask of the accelerator"
+msgstr "முடுக்கியின் மாற்றியமைக்கும் முகமூடி"
+
+msgid "The monitor the menu will be popped up on"
+msgstr "மானிட்டர் பட்டியல் பாப் செய்யப்படும்"
+
+msgid "The name of the icon from the icon theme"
+msgstr "படவுரு கருப்பொருளிலிருந்து ஐகானின் பெயர்"
+
+msgid ""
+"The name of the program. If this is not set, it defaults to "
+"g_get_application_name()"
+msgstr ""
+"நிரலின் பெயர். இது அமைக்கப்படாவிட்டால், அது g_get_application_name () க்கு "
+"இயல்புநிலையாகும்"
+
+msgid "The name of the selected font"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துருவின் பெயர்"
+
+msgid "The name of the themed icon displayed on the item"
+msgstr "உருப்படியில் காட்டப்படும் கருப்பொருள் ஐகானின் பெயர்"
+
+msgid "The name of the widget"
+msgstr "விட்செட்டின் பெயர்"
+
+msgid "The number of bits per sample"
+msgstr "ஒரு மாதிரிக்கு பிட்களின் எண்ணிக்கை"
+
+msgid ""
+"The number of blocks which can fit in the progress bar area in activity mode"
+" (Deprecated)"
+msgstr ""
+"செயல்பாட்டு பயன்முறையில் முன்னேற்றப் பட்டியில் பொருந்தக்கூடிய தொகுதிகளின் "
+"எண்ணிக்கை (நீக்கப்பட்டது)"
+
+msgid ""
+"The number of bytes between the start of a row and the start of the next row"
+msgstr ""
+"ஒரு வரிசையின் தொடக்கத்திற்கும் அடுத்த வரிசையின் தொடக்கத்திற்கும் இடையிலான "
+"பைட்டுகளின் எண்ணிக்கை"
+
+msgid "The number of columns in the table"
+msgstr "அட்டவணையில் உள்ள நெடுவரிசைகளின் எண்ணிக்கை"
+
+msgid "The number of columns of the pixbuf"
+msgstr "PIXBUF இன் நெடுவரிசைகளின் எண்ணிக்கை"
+
+msgid "The number of decimal places that are displayed in the value"
+msgstr "மதிப்பில் காட்டப்படும் தசம இடங்களின் எண்ணிக்கை"
+
+msgid "The number of decimal places to display"
+msgstr "காண்பிக்க தசம இடங்களின் எண்ணிக்கை"
+
+msgid ""
+"The number of discrete blocks in a progress bar (when shown in the discrete "
+"style)"
+msgstr ""
+"முன்னேற்றப் பட்டியில் தனித்துவமான தொகுதிகளின் எண்ணிக்கை (தனித்துவமான "
+"பாணியில் காட்டப்படும் போது)"
+
+msgid "The number of pages in the document."
+msgstr "ஆவணத்தில் உள்ள பக்கங்களின் எண்ணிக்கை."
+
+msgid "The number of pages that will be printed."
+msgstr "அச்சிடப்படும் பக்கங்களின் எண்ணிக்கை."
+
+msgid "The number of rows in the table"
+msgstr "அட்டவணையில் வரிசைகளின் எண்ணிக்கை"
+
+msgid "The number of rows of the pixbuf"
+msgstr "பிக்ச்புஃப் வரிசைகளின் எண்ணிக்கை"
+
+msgid "The number of samples per pixel"
+msgstr "பிக்சலுக்கு மாதிரிகளின் எண்ணிக்கை"
+
+msgid "The opacity of the window, from 0 to 1"
+msgstr "சாளரத்தின் ஒளிபுகாநிலை, 0 முதல் 1 வரை"
+
+msgid "The orientation of the orientable"
+msgstr "நோக்குநிலையின் நோக்குநிலை"
+
+msgid "The orientation of the tray"
+msgstr "தட்டின் நோக்குநிலை"
+
+msgid "The pack direction of the menubar"
+msgstr "மெனுபரின் பேக் திசை"
+
+msgid "The padding to insert at the bottom of the widget."
+msgstr "விட்செட்டின் அடிப்பகுதியில் செருக திணிப்பு."
+
+msgid "The padding to insert at the left of the widget."
+msgstr "விட்செட்டின் இடதுபுறத்தில் செருக திணிப்பு."
+
+msgid "The padding to insert at the right of the widget."
+msgstr "விட்செட்டின் வலதுபுறத்தில் செருக திணிப்பு."
+
+msgid "The padding to insert at the top of the widget."
+msgstr "விட்செட்டின் மேற்புறத்தில் செருக திணிப்பு."
+
+msgid "The page increment of the adjustment"
+msgstr "சரிசெய்தலின் பக்க அதிகரிப்பு"
+
+msgid "The page size of the adjustment"
+msgstr "சரிசெய்தலின் பக்க அளவு"
+
+msgid "The parent widget of this widget. Must be a Container widget"
+msgstr ""
+"இந்த விட்செட்டின் பெற்றோர் விட்செட். ஒரு கொள்கலன் விட்செட்டாக இருக்க "
+"வேண்டும்"
+
+msgid "The parent window"
+msgstr "பெற்றோர் சாளரம்"
+
+msgid "The pixbuf to render"
+msgstr "வழங்க பிக்ச்புஃப்"
+
+msgid "The position in which the current value is displayed"
+msgstr "தற்போதைய மதிப்பு காட்டப்படும் நிலை"
+
+msgid "The position of the image relative to the text"
+msgstr "உரையுடன் தொடர்புடைய படத்தின் நிலை"
+
+msgid ""
+"The position of the insert mark (as offset from the beginning of the buffer)"
+msgstr "செருகும் அடையாளத்தின் நிலை (இடையகத்தின் தொடக்கத்திலிருந்து ஆஃப்செட்)"
+
+msgid ""
+"The position of the opposite end of the selection from the cursor in chars"
+msgstr "எழுத்துகளில் கர்சரிடமிருந்து தேர்வின் எதிர் முனையின் நிலை"
+
+msgid ""
+"The preferred place to ellipsize the string, if the cell renderer does not "
+"have enough room to display the entire string"
+msgstr ""
+"செல் ரெண்டரரிடம் முழு சரத்தையும் காண்பிக்க போதுமான இடம் இல்லையென்றால், "
+"சரத்தை அகற்ற விரும்பப்பட்ட இடம்"
+
+msgid ""
+"The preferred place to ellipsize the string, if the label does not have "
+"enough room to display the entire string"
+msgstr ""
+"முழு சரத்தையும் காண்பிக்க லேபிளுக்கு போதுமான இடம் இல்லையென்றால், சரத்தை "
+"அகற்ற விரும்பப்பட்ட இடம்"
+
+msgid ""
+"The preferred place to ellipsize the string, if the progress bar does not "
+"have enough room to display the entire string, if at all."
+msgstr ""
+"முன்னேற்றப் பட்டியில் முழு சரத்தையும் காண்பிக்க போதுமான இடம் இல்லையென்றால், "
+"சரத்தை அகற்ற விரும்பப்பட்ட இடம்."
+
+msgid "The primary text of the message dialog"
+msgstr "செய்தி உரையாடலின் முதன்மை உரை"
+
+msgid "The primary text of the title includes Pango markup."
+msgstr "தலைப்பின் முதன்மை உரையில் பாங்கோ மார்க்அப் அடங்கும்."
+
+msgid "The radio action whose group this action belongs to."
+msgstr "வானொலி நடவடிக்கை யாருடைய குழுவிற்கு சொந்தமானது."
+
+msgid "The radio button whose group this widget belongs to."
+msgstr "இந்த விட்செட்டுக்கு சொந்தமான ரேடியோ பொத்தான்."
+
+msgid "The radio menu item whose group this widget belongs to."
+msgstr "ரேடியோ பட்டியல் உருப்படி இந்த விட்செட் சொந்தமானது."
+
+msgid "The radio tool button whose group this button belongs to."
+msgstr "ரேடியோ கருவி பொத்தானை அதன் குழுவிற்கு சொந்தமானது."
+
+msgid "The representation being used for image data"
+msgstr "படத் தரவுக்கு பிரதிநிதித்துவம் பயன்படுத்தப்படுகிறது"
+
+msgid "The representation being used for primary icon"
+msgstr "முதன்மை ஐகானுக்கு பிரதிநிதித்துவம் பயன்படுத்தப்படுகிறது"
+
+msgid "The representation being used for secondary icon"
+msgstr "இரண்டாம் நிலை ஐகானுக்கு பிரதிநிதித்துவம் பயன்படுத்தப்படுகிறது"
+
+msgid "The resolution for fonts on the screen"
+msgstr "திரையில் எழுத்துருக்களுக்கான தீர்மானம்"
+
+msgid "The row number to attach the bottom of the child to"
+msgstr "குழந்தையின் அடிப்பகுதியை இணைக்க வரிசை எண்"
+
+msgid "The row number to attach the top of a child widget to"
+msgstr "குழந்தை விட்செட்டின் மேற்புறத்தை இணைக்க வரிசை எண்"
+
+msgid "The row number to attach the top of the child to"
+msgstr "குழந்தையின் மேற்புறத்தை இணைக்க வரிசை எண்"
+
+msgid "The screen where this status icon will be displayed"
+msgstr "இந்த நிலை படவுரு காண்பிக்கப்படும் திரை"
+
+msgid "The screen where this window will be displayed"
+msgstr "இந்த சாளரம் காண்பிக்கப்படும் திரை"
+
+msgid "The screen where this window will be displayed."
+msgstr "இந்த சாளரம் காண்பிக்கப்படும் திரை."
+
+msgid "The secondary text includes Pango markup."
+msgstr "இரண்டாம் நிலை உரையில் பாங்கோ மார்க்அப் அடங்கும்."
+
+msgid "The secondary text of the message dialog"
+msgstr "செய்தி உரையாடலின் இரண்டாம் நிலை உரை"
+
+msgid "The selected color"
+msgstr "தேர்ந்தெடுக்கப்பட்ட நிறம்"
+
+msgid ""
+"The selected day (as a number between 1 and 31, or 0 to unselect the "
+"currently selected day)"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட நாள் (தற்போது தேர்ந்தெடுக்கப்பட்ட நாளைத் தேர்ந்தெடுக்க 1"
+" முதல் 31, அல்லது 0 க்கு இடையில் ஒரு எண்ணாக)"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "தேர்ந்தெடுக்கப்பட்ட மாதம் (0 மற்றும் 11 க்கு இடையில் ஒரு எண்ணாக)"
+
+msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட ஒளிபுகா மதிப்பு (0 முழுமையாக வெளிப்படையானது, 65535 "
+"முழுமையாக ஒளிபுகா)"
+
+msgid "The selected year"
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஆண்டு"
+
+msgid "The selection mode"
+msgstr "தேர்வு முறை"
+
+msgid ""
+"The sensitivity policy for the stepper that points to the adjustment's lower"
+" side"
+msgstr ""
+"சரிசெய்தலின் கீழ் பக்கத்தை சுட்டிக்காட்டும் ச்டெப்பருக்கான உணர்திறன் கொள்கை"
+
+msgid ""
+"The sensitivity policy for the stepper that points to the adjustment's upper"
+" side"
+msgstr ""
+"சரிசெய்தலின் மேல் பக்கத்தை சுட்டிக்காட்டும் ச்டெப்பருக்கான உணர்திறன் கொள்கை"
+
+msgid "The size of the icon"
+msgstr "ஐகானின் அளவு"
+
+msgid "The size of the recently used resources list"
+msgstr "அண்மைக் காலத்தில் பயன்படுத்தப்பட்ட வளங்களின் பட்டியலின் அளவு"
+
+msgid "The sorting order of the items displayed"
+msgstr "காட்டப்படும் பொருட்களின் வரிசையாக்க வரிசை"
+
+msgid "The status of the print operation"
+msgstr "அச்சு செயல்பாட்டின் நிலை"
+
+msgid "The step increment of the adjustment"
+msgstr "சரிசெய்தலின் படி அதிகரிப்பு"
+
+msgid "The stock ID of the stock icon to render"
+msgstr "வழங்க பங்கு ஐகானின் பங்கு ஐடி"
+
+msgid "The stock icon displayed in widgets representing this action."
+msgstr "இந்த செயலைக் குறிக்கும் விட்செட்களில் காட்டப்படும் பங்கு படவுரு."
+
+msgid "The stock icon displayed on the item"
+msgstr "உருப்படியில் காண்பிக்கப்படும் பங்கு படவுரு"
+
+msgid "The string displayed in the child's menu entry"
+msgstr "குழந்தையின் பட்டியல் உள்ளீட்டில் காட்டப்படும் சரம்"
+
+msgid "The string displayed on the child's tab label"
+msgstr "குழந்தையின் தாவல் லேபிளில் காட்டப்படும் சரம்"
+
+msgid "The string that represents this font"
+msgstr "இந்த எழுத்துருவைக் குறிக்கும் சரம்"
+
+msgid ""
+"The style of the widget, which contains information about how it will look "
+"(colors etc)"
+msgstr ""
+"விட்செட்டின் பாணி, அது எப்படி இருக்கும் என்பது பற்றிய தகவல்களைக் கொண்டுள்ளது"
+" (வண்ணங்கள் போன்றவை)"
+
+msgid "The submenu attached to the menu item, or NULL if it has none"
+msgstr ""
+"பட்டியல் உருப்படியுடன் இணைக்கப்பட்ட துணைமெனு, அல்லது அது எதுவும் இல்லை "
+"என்றால் பூச்யமானது"
+
+msgid "The text for the child label"
+msgstr "குழந்தை லேபிளின் உரை"
+
+msgid "The text of the label"
+msgstr "லேபிளின் உரை"
+
+msgid "The text of the label includes XML markup. See pango_parse_markup()"
+msgstr ""
+"லேபிளின் உரையில் எக்ச்எம்எல் மார்க்அப் உள்ளது. Pango_parse_markup () ஐப் "
+"பார்க்கவும்"
+
+msgid "The text to display in order to demonstrate the selected font"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துருவை நிரூபிக்க காண்பிக்க வேண்டிய உரை"
+
+msgid ""
+"The time before hiding a submenu when the pointer is moving towards the "
+"submenu"
+msgstr ""
+"சுட்டிக்காட்டி துணைமெனுவை நோக்கி நகரும்போது ஒரு துணைமெனுவை மறைப்பதற்கு முன் "
+"நேரம்"
+
+msgid "The title of the assistant page"
+msgstr "உதவி பக்கத்தின் தலைப்பு"
+
+msgid "The title of the color selection dialog"
+msgstr "வண்ண தேர்வு உரையாடலின் தலைப்பு"
+
+msgid "The title of the file chooser dialog."
+msgstr "கோப்பு தேர்வு உரையாடலின் தலைப்பு."
+
+msgid "The title of the font selection dialog"
+msgstr "எழுத்துரு தேர்வு உரையாடலின் தலைப்பு"
+
+msgid "The title of the window"
+msgstr "சாளரத்தின் தலைப்பு"
+
+msgid "The title of this tray icon"
+msgstr "இந்த தட்டு ஐகானின் தலைப்பு"
+
+msgid "The toggle button can be activated"
+msgstr "மாற்று பொத்தானை செயல்படுத்தலாம்"
+
+msgid "The toggle state of the button"
+msgstr "பொத்தானின் மாற்று நிலை"
+
+msgid "The transient parent of the dialog"
+msgstr "உரையாடலின் நிலையற்ற பெற்றோர்"
+
+msgid "The translation domain used by gettext"
+msgstr "உரைபெறு ஆல் பயன்படுத்தப்படும் மொழிபெயர்ப்பு களம்"
+
+msgid "The type of accelerators"
+msgstr "முடுக்கிகளின் வகை"
+
+msgid "The type of message"
+msgstr "செய்தி வகை"
+
+msgid "The type of operation that the file selector is performing"
+msgstr "கோப்பு தேர்வாளர் நிகழ்த்தும் செயல்பாட்டின் வகை"
+
+msgid "The type of the assistant page"
+msgstr "உதவி பக்கத்தின் வகை"
+
+msgid "The type of the window"
+msgstr "சாளரத்தின் வகை"
+
+msgid "The unit in which distances can be measured in the context"
+msgstr "சூழலில் தூரங்களை அளவிடக்கூடிய அலகு"
+
+msgid "The value"
+msgstr "மதிப்பு"
+
+msgid "The value of the adjustment"
+msgstr "சரிசெய்தலின் மதிப்பு"
+
+msgid "The value of the scale"
+msgstr "அளவின் மதிப்பு"
+
+msgid ""
+"The value property of the currently active member of the group to which this"
+" action belongs."
+msgstr ""
+"இந்த நடவடிக்கை சொந்தமான குழுவின் தற்போது செயலில் உள்ள உறுப்பினரின் மதிப்பு "
+"சொத்து."
+
+msgid ""
+"The value returned by gtk_radio_action_get_current_value() when this action "
+"is the current action of its group."
+msgstr "gtk_radio_action_get_current_value() ద్వారా తిరిగియివ్వబడిన విలువ."
+
+msgid "The version of the program"
+msgstr "நிரலின் பதிப்பு"
+
+msgid "The vertical alignment of the label"
+msgstr "லேபிளின் செங்குத்து சீரமைப்பு"
+
+msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
+msgstr "செங்குத்து சீரமைப்பு, 0 (மேல்) முதல் 1 (கீழே) வரை"
+
+msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
+msgstr "செங்குத்து உரை சீரமைப்பு, 0 (மேல்) முதல் 1 (கீழே) வரை."
+
+msgid "The widget the menu is attached to"
+msgstr "விட்செட் பட்டியல் இணைக்கப்பட்டுள்ளது"
+
+msgid "The widget to be activated when the label's mnemonic key is pressed"
+msgstr ""
+"லேபிளின் நினைவூட்டல் விசை அழுத்தும் போது விட்செட் செயல்படுத்தப்பட வேண்டும்"
+
+msgid "The widget to be monitored for accelerator changes"
+msgstr "முடுக்கி மாற்றங்களுக்கு கண்காணிக்கப்பட வேண்டிய விட்செட்"
+
+msgid "The widget's window if it is realized"
+msgstr "விட்செட்டின் சாளரம் உணரப்பட்டால்"
+
+msgid "The width at which the text is wrapped"
+msgstr "உரை மூடப்பட்ட அகலம்"
+
+msgid "The width of separators if wide-separators is TRUE"
+msgstr "பரந்த-பிரிப்பான்கள் உண்மையாக இருந்தால் பிரிப்பான்களின் அகலம்"
+
+msgid "The width of the empty border outside the containers children"
+msgstr "கொள்கலன்களுக்கு வெளியே வெற்று எல்லையின் அகலம் குழந்தைகளுக்கு"
+
+msgid "The width of the layout"
+msgstr "தளவமைப்பின் அகலம்"
+
+msgid "The width used for each item"
+msgstr "ஒவ்வொரு பொருளுக்கும் பயன்படுத்தப்படும் அகலம்"
+
+msgid "The window gravity of the window"
+msgstr "சாளரத்தின் சாளர ஈர்ப்பு"
+
+msgid "The window of the socket the plug is embedded in"
+msgstr "சாக்கெட்டின் சாளரம் பிளக் உட்பொதிக்கப்பட்டுள்ளது"
+
+msgid "The x-align"
+msgstr "எக்ச்-சீரமை"
+
+msgid "The xpad"
+msgstr "எக்ச்பாட்"
+
+msgid "The y-align"
+msgstr "Y- சீரமை"
+
+msgid "The ypad"
+msgstr "Ypad"
+
+msgid "Theme Name"
+msgstr "கருப்பொருள் பெயர்"
+
+msgid "Time after which the cursor stops blinking, in seconds"
+msgstr "கர்சர் ஒளிரும் நேரம், நொடிகளில்"
+
+msgid "Timeout after which browse mode is disabled"
+msgstr "அதன் பிறகு உலாவுதல் பயன்முறை முடக்கப்பட்டுள்ளது"
+
+msgid "Timeout before tooltip is shown"
+msgstr "உதவிக்குறிப்புக்கு முன் நேரம் முடிந்தது"
+
+msgid "Timeout before tooltip is shown when browse mode is enabled"
+msgstr ""
+"உலாவு பயன்முறை இயக்கப்பட்டிருக்கும் போது உதவிக்குறிப்புக்கு முன் நேரம் "
+"காண்பிக்கப்படும்"
+
+msgid "Timestamp of current fontconfig configuration"
+msgstr "தற்போதைய fontConfig உள்ளமைவின் நேர முத்திரை"
+
+msgid "Title"
+msgstr "தலைப்பு"
+
+msgid "Title of the print job"
+msgstr "அச்சு வேலையின் தலைப்பு"
+
+msgid "Title to appear in column header"
+msgstr "நெடுவரிசை தலைப்பில் தோன்றும் தலைப்பு"
+
+msgid "Toggle state"
+msgstr "நிலையை மாற்றவும்"
+
+msgid "Toolbar Style"
+msgstr "கருவிப்பட்டி நடை"
+
+msgid "Toolbar style"
+msgstr "கருவிப்பட்டி நடை"
+
+msgid "Tooltip"
+msgstr "உதவிக்குறிப்பு"
+
+msgid "Tooltip Column"
+msgstr "உதவிக்குறிப்பு நெடுவரிசை"
+
+msgid "Tooltip Text"
+msgstr "உதவிக்குறிப்பு உரை"
+
+msgid "Tooltip browse mode timeout"
+msgstr "உதவிக்குறிப்பு உலாவல் பயன்முறை நேரம் முடிந்தது"
+
+msgid "Tooltip browse timeout"
+msgstr "உதவிக்குறிப்பு நேரம் முடிந்தது"
+
+msgid "Tooltip markup"
+msgstr "உதவிக்குறிப்பு மார்க்அப்"
+
+msgid "Tooltip timeout"
+msgstr "உதவிக்குறிப்பு நேரம் முடிந்தது"
+
+msgid "Tooltips"
+msgstr "உதவிக்குறிப்புகள்"
+
+msgid "Top Attach"
+msgstr "மேலே இணைக்கவும்"
+
+msgid "Top Padding"
+msgstr "மேல் திணிப்பு"
+
+msgid "Top attachment"
+msgstr "சிறந்த இணைப்பு"
+
+msgid "Track Print Status"
+msgstr "அச்சு நிலையை கண்காணிக்கவும்"
+
+msgid "Track visited links"
+msgstr "ட்ராக் பார்வையிட்ட இணைப்புகள்"
+
+msgid "Transient for Window"
+msgstr "சாளரத்திற்கு இடைக்கால"
+
+msgid "Translation Domain"
+msgstr "மொழிபெயர்ப்பு களம்"
+
+msgid "Translator credits"
+msgstr "மொழிபெயர்ப்பாளர் வரவு"
+
+msgid "Tree line pattern"
+msgstr "மர வரி முறை"
+
+msgid "Tree line width"
+msgstr "மர வரி அகலம்"
+
+msgid "TreeModel column containing the column span values"
+msgstr "நெடுவரிசை இடைவெளி மதிப்புகளைக் கொண்ட ட்ரெமோடல் நெடுவரிசை"
+
+msgid "TreeModel column containing the row span values"
+msgstr "வரிசை இடைவெளி மதிப்புகளைக் கொண்ட ட்ரெமோடல் நெடுவரிசை"
+
+msgid "TreeModelSort Model"
+msgstr "ட்ரெமோடெல்சார்ட் மாதிரி"
+
+msgid "TreeView Model"
+msgstr "ட்ரீவியூ மாதிரி"
+
+msgid "Trough Border"
+msgstr "தொட்டி எல்லை"
+
+msgid "Trough Side Details"
+msgstr "தொட்டி பக்க விவரங்கள்"
+
+msgid "Trough Under Steppers"
+msgstr "ச்டெப்பர்களின் கீழ் தொட்டி"
+
+msgid "Truncate multiline"
+msgstr "மல்டிலைனை துண்டிக்கவும்"
+
+msgid "Type hint"
+msgstr "குறிப்பைத் தட்டச்சு செய்க"
+
+msgid "Type of bevel around toolbar buttons"
+msgstr "கருவிப்பட்டி பொத்தான்களைச் சுற்றி பெவல் வகை"
+
+msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
+msgstr "சப் படப்புள்ளி ஆன்டியாலியாசிங் வகை; எதுவுமில்லை, RGB, BGR, VRGB, VBGR"
+
+msgid "URI"
+msgstr "யூரி"
+
+msgid "Underline"
+msgstr "அடிக்கோடிட்டு"
+
+msgid "Underline set"
+msgstr "அடிக்கோடிட்டு"
+
+msgid "Unique identifier for the window to be used when restoring a session"
+msgstr ""
+"ஒரு அமர்வை மீட்டெடுக்கும்போது பயன்படுத்தப்பட வேண்டிய சாளரத்திற்கான தனிப்பட்ட"
+" அடையாளங்காட்டி"
+
+msgid "Unique startup identifier for the window used by startup-notification"
+msgstr ""
+"தொடக்க-அறிவிப்பால் பயன்படுத்தப்படும் சாளரத்திற்கான தனித்துவமான தொடக்க "
+"அடையாளங்காட்டி"
+
+msgid "Unit"
+msgstr "அலகு"
+
+msgid "Unvisited Link Color"
+msgstr "பார்வையிடப்படாத இணைப்பு நிறம்"
+
+msgid "Update Policy"
+msgstr "கொள்கை புதுப்பிப்பு"
+
+msgid "Update policy"
+msgstr "கொள்கை புதுப்பிப்பு"
+
+msgid "Upper"
+msgstr "மேல்"
+
+msgid "Upper limit of ruler"
+msgstr "ஆட்சியாளரின் உயர் வரம்பு"
+
+msgid "Upper stepper sensitivity"
+msgstr "மேல் ச்டெப்பர் உணர்திறன்"
+
+msgid "Urgent"
+msgstr "விரைவு"
+
+msgid "Use Action Appearance"
+msgstr "செயல் தோற்றத்தைப் பயன்படுத்தவும்"
+
+msgid "Use Markup"
+msgstr "மார்க்அப்பைப் பயன்படுத்தவும்"
+
+msgid "Use Markup in secondary"
+msgstr "இரண்டாம் நிலை மார்க்அப்பைப் பயன்படுத்தவும்"
+
+msgid "Use Preview Label"
+msgstr "முன்னோட்ட லேபிளைப் பயன்படுத்தவும்"
+
+msgid "Use alpha"
+msgstr "ஆல்பாவைப் பயன்படுத்தவும்"
+
+msgid "Use font in label"
+msgstr "லேபிளில் எழுத்துருவைப் பயன்படுத்தவும்"
+
+msgid "Use full page"
+msgstr "முழு பக்கத்தையும் பயன்படுத்தவும்"
+
+msgid "Use markup"
+msgstr "மார்க்அப்பைப் பயன்படுத்தவும்"
+
+msgid "Use separator"
+msgstr "பிரிப்பான் பயன்படுத்தவும்"
+
+msgid "Use size in label"
+msgstr "லேபிளில் அளவைப் பயன்படுத்தவும்"
+
+msgid "Use stock"
+msgstr "பங்கு பயன்படுத்தவும்"
+
+msgid "Use underline"
+msgstr "அடிக்கோடிட்டு பயன்படுத்தவும்"
+
+msgid "User Data"
+msgstr "பயனர் தரவு"
+
+msgid "Value"
+msgstr "மதிப்பு"
+
+msgid "Value Position"
+msgstr "மதிப்பு நிலை"
+
+msgid "Value in list"
+msgstr "பட்டியலில் மதிப்பு"
+
+msgid "Value of the progress bar"
+msgstr "முன்னேற்ற பட்டியின் மதிப்பு"
+
+msgid "Value spacing"
+msgstr "மதிப்பு இடைவெளி"
+
+msgid "Vertical Adjustment"
+msgstr "செங்குத்து சரிசெய்தல்"
+
+msgid "Vertical Adjustment for the widget"
+msgstr "விட்செட்டுக்கான செங்குத்து சரிசெய்தல்"
+
+msgid "Vertical Alignment"
+msgstr "செங்குத்து சீரமைப்பு"
+
+msgid "Vertical Offset"
+msgstr "செங்குத்து ஆஃப்செட்"
+
+msgid "Vertical Padding"
+msgstr "செங்குத்து திணிப்பு"
+
+msgid "Vertical Scroll Arrow Length"
+msgstr "செங்குத்து உருள் அம்பு நீளம்"
+
+msgid "Vertical Scrollbar Policy"
+msgstr "செங்குத்து உருள் கொள்கை"
+
+msgid "Vertical Separator Width"
+msgstr "செங்குத்து பிரிப்பான் அகலம்"
+
+msgid "Vertical Tab Border"
+msgstr "செங்குத்து தாவல் எல்லை"
+
+msgid "Vertical adjustment"
+msgstr "செங்குத்து சரிசெய்தல்"
+
+msgid "Vertical adjustment for the text widget"
+msgstr "உரை விட்செட்டுக்கான செங்குத்து சரிசெய்தல்"
+
+msgid "Vertical alignment"
+msgstr "செங்குத்து சீரமைப்பு"
+
+msgid "Vertical alignment for child"
+msgstr "குழந்தைக்கு செங்குத்து சீரமைப்பு"
+
+msgid "Vertical options"
+msgstr "செங்குத்து விருப்பங்கள்"
+
+msgid "Vertical padding"
+msgstr "செங்குத்து திணிப்பு"
+
+msgid ""
+"Vertical position of child in available space. 0.0 is top aligned, 1.0 is "
+"bottom aligned"
+msgstr ""
+"கிடைக்கக்கூடிய இடத்தில் குழந்தையின் செங்குத்து நிலை. 0.0 மேல் "
+"சீரமைக்கப்பட்டுள்ளது, 1.0 கீழே சீரமைக்கப்பட்டுள்ளது"
+
+msgid "Vertical scale"
+msgstr "செங்குத்து அளவு"
+
+msgid "Vertical space between cells.  Must be an even number"
+msgstr "கலங்களுக்கு இடையில் செங்குத்து இடைவெளி. ஒரு சம எண்ணாக இருக்க வேண்டும்"
+
+msgid "View allows user to search through columns interactively"
+msgstr "நெடுவரிசைகள் மூலம் ஊடாடும் வகையில் தேட பயனரை பார்வை அனுமதிக்கிறது"
+
+msgid "View has expanders"
+msgstr "பார்வையில் விரிவாக்கிகள் உள்ளன"
+
+msgid "View is reorderable"
+msgstr "பார்வை மறுவரிசைப்படுத்தக்கூடியது"
+
+msgid "Visibility"
+msgstr "விழிமை"
+
+msgid "Visible"
+msgstr "தெரியும்"
+
+msgid "Visible Window"
+msgstr "தெரியும் சாளரம்"
+
+msgid "Visible when horizontal"
+msgstr "கிடைமட்டமாக இருக்கும்போது தெரியும்"
+
+msgid "Visible when overflown"
+msgstr "நிரம்பி வழியும் போது தெரியும்"
+
+msgid "Visible when vertical"
+msgstr "செங்குத்து போது தெரியும்"
+
+msgid "Visited"
+msgstr "பார்வையிட்டார்"
+
+msgid "Visited Link Color"
+msgstr "பார்வையிட்ட இணைப்பு வண்ணம்"
+
+msgid "Website URL"
+msgstr "வலைத்தள முகவரி"
+
+msgid "Website label"
+msgstr "வலைத்தள சிட்டை"
+
+msgid ""
+"What degree of hinting to use; hintnone, hintslight, hintmedium, or hintfull"
+msgstr ""
+"பயன்படுத்த என்ன அளவு; இன்ட்னோன், இன்ட்சைட், இன்ட்மீடியம் அல்லது இன்ட்ஃபுல்"
+
+msgid "When TRUE, empty menu proxies for this action are hidden."
+msgstr ""
+"உண்மை போது, ​​இந்த செயலுக்கான வெற்று பட்டியல் ப்ராக்சிகள் மறைக்கப்படுகின்றன."
+
+msgid "When TRUE, keyboard navigation and other errors will cause a beep"
+msgstr ""
+"உண்மையாக இருக்கும்போது, ​​விசைப்பலகை வழிசெலுத்தல் மற்றும் பிற பிழைகள் ஒரு "
+"பீப்பை ஏற்படுத்தும்"
+
+msgid ""
+"When TRUE, the parts of the trough on the two sides of the slider are drawn "
+"with different details"
+msgstr ""
+"உண்மையாக இருக்கும்போது, ​​ச்லைடரின் இரு பக்கங்களிலும் உள்ள தொட்டியின் "
+"பகுதிகள் வெவ்வேறு விவரங்களுடன் வரையப்படுகின்றன"
+
+msgid "When TRUE, there are no motion notify events delivered on this screen"
+msgstr ""
+"உண்மையாக இருக்கும்போது, ​​இந்த திரையில் வழங்கப்பட்ட நிகழ்வுகள் எந்த இயக்க "
+"அறிவிப்பும் இல்லை"
+
+msgid "When TRUE, there are only cursor keys available to navigate widgets"
+msgstr ""
+"உண்மையாக இருக்கும்போது, ​​விட்செட்டுகளுக்கு செல்ல கர்சர் விசைகள் மட்டுமே "
+"உள்ளன"
+
+msgid ""
+"When TRUE, toolitem proxies for this action are represented in the toolbar "
+"overflow menu."
+msgstr ""
+"உண்மை போது, ​​கருவிப்பட்டி வழிதல் பட்டியலில் இந்த செயலுக்கான கருவித்தொகுப்பு"
+" பிரதிநிதிகள் குறிப்பிடப்படுகிறார்கள்."
+
+msgid "When scrolling, always show both arrows."
+msgstr ""
+"ச்க்ரோலிங் செய்யும் போது, ​​எப்போதும் இரண்டு அம்புகளையும் காட்டுங்கள்."
+
+msgid "When the horizontal scrollbar is displayed"
+msgstr "கிடைமட்ட உருள் காண்பிக்கப்படும் போது"
+
+msgid ""
+"When the menu is a submenu, position it this number of pixels offset "
+"horizontally"
+msgstr ""
+"பட்டியல் ஒரு துணைமெனுவாக இருக்கும்போது, ​​இந்த எண்ணிக்கையிலான படப்புள்ளிகள் "
+"கிடைமட்டமாக ஈடுசெய்யவும்"
+
+msgid ""
+"When the menu is a submenu, position it this number of pixels offset "
+"vertically"
+msgstr ""
+"பட்டியல் ஒரு துணைமெனுவாக இருக்கும்போது, ​​இந்த எண்ணிக்கையிலான படப்புள்ளிகள் "
+"செங்குத்தாக ஆஃப்செட் வைக்கவும்"
+
+msgid "When the vertical scrollbar is displayed"
+msgstr "செங்குத்து உருள் காண்பிக்கப்படும் போது"
+
+msgid ""
+"Where the contents are located with respect to the scrollbars. This property"
+" only takes effect if \"window-placement-set\" is TRUE."
+msgstr ""
+"சுருள் பார்கள் தொடர்பாக உள்ளடக்கங்கள் அமைந்துள்ள இடத்தில். \"சாளர-"
+"இடம்-தொகுப்பு\" உண்மையாக இருந்தால் மட்டுமே இந்த சொத்து நடைமுறைக்கு வரும்."
+
+msgid ""
+"Where the contents of scrolled windows are located with respect to the "
+"scrollbars, if not overridden by the scrolled window's own placement."
+msgstr ""
+"உருட்டப்பட்ட சன்னல்களின் உள்ளடக்கங்கள் சுருள் பார்கள் தொடர்பாக அமைந்துள்ளன, "
+"உருட்டப்பட்ட சாளரத்தின் சொந்த வேலைவாய்ப்பால் மேலெழுதப்படாவிட்டால்."
+
+msgid ""
+"Whether \"window-placement\" should be used to determine the location of the"
+" contents with respect to the scrollbars."
+msgstr ""
+"ச்க்ரோல்பார்சைப் பொறுத்து உள்ளடக்கங்களின் இருப்பிடத்தை தீர்மானிக்க \"சாளர-"
+"இடம்\" பயன்படுத்தப்பட வேண்டுமா."
+
+msgid "Whether Tab will result in a tab character being entered"
+msgstr "தாவல் எழுத்துக்குறி உள்ளிடப்படுமா என்பது தாவல் ஏற்படுமா?"
+
+msgid ""
+"Whether a file chooser in save mode will present an overwrite confirmation "
+"dialog if necessary."
+msgstr ""
+"சேமி பயன்முறையில் ஒரு கோப்பு தேர்வாளர் தேவைப்பட்டால் மேலெழுதும் "
+"உறுதிப்படுத்தல் உரையாடலை வழங்குமா என்பது."
+
+msgid ""
+"Whether a file chooser not in open mode will offer the user to create new "
+"folders."
+msgstr ""
+"திறந்த பயன்முறையில் இல்லாத கோப்பு தேர்வாளர் புதிய கோப்புறைகளை உருவாக்க "
+"பயனருக்கு வழங்குவாரா என்பது பயனருக்கு வழங்கும்."
+
+msgid "Whether a palette should be used"
+msgstr "ஒரு தட்டு பயன்படுத்தப்பட வேண்டுமா"
+
+msgid "Whether a spin button should wrap upon reaching its limits"
+msgstr "ஒரு சுழல் பொத்தானை அதன் வரம்புகளை அடைந்தவுடன் போர்த்த வேண்டுமா"
+
+msgid "Whether activatable icons should prelight when hovered"
+msgstr "செயல்படுத்தக்கூடிய ஐகான்கள் செல்லும்போது புதுப்பிக்க வேண்டுமா"
+
+msgid "Whether all required fields on the page have been filled out"
+msgstr "பக்கத்தில் தேவையான அனைத்து புலங்களும் நிரப்பப்பட்டுள்ளனவா?"
+
+msgid "Whether an empty value may be entered in this field"
+msgstr "இந்த துறையில் வெற்று மதிப்பு உள்ளிடப்படலாம்"
+
+msgid "Whether buttons for creating/manipulating files should be displayed"
+msgstr "கோப்புகளை உருவாக்க/கையாளுவதற்கான பொத்தான்கள் காட்டப்பட வேண்டுமா"
+
+msgid "Whether buttons in dialogs should use the alternative button order"
+msgstr ""
+"உரையாடல்களில் உள்ள பொத்தான்கள் மாற்று பொத்தானை வரிசையைப் பயன்படுத்த வேண்டுமா"
+
+msgid ""
+"Whether default toolbars have text only, text and icons, icons only, etc."
+msgstr ""
+"இயல்புநிலை கருவிப்பட்டிகள் உரை மட்டுமே, உரை மற்றும் சின்னங்கள், சின்னங்கள் "
+"மட்டுமே போன்றவை."
+
+msgid "Whether dropdowns should have a tearoff menu item"
+msgstr "கீழ்தோன்றல்களில் ஒரு கண்ணீர் பட்டியல் உருப்படி இருக்க வேண்டுமா"
+
+msgid "Whether dropdowns should look like lists rather than menus"
+msgstr "கீழ்தோன்றல்கள் மெனுக்களை விட பட்டியல்களைப் போல இருக்க வேண்டுமா"
+
+msgid "Whether entered text overwrites existing contents"
+msgstr "உரை உள்ளிட்டதா என்பது ஏற்கனவே உள்ள உள்ளடக்கங்களை மேலெழுதும்"
+
+msgid "Whether entered values must already be present in the list"
+msgstr "உள்ளிட்ட மதிப்புகள் ஏற்கனவே பட்டியலில் இருக்க வேண்டுமா?"
+
+msgid ""
+"Whether erroneous values are automatically changed to a spin button's "
+"nearest step increment"
+msgstr ""
+"தவறான மதிப்புகள் தானாகவே சுழல் பொத்தானின் அருகிலுள்ள படி அதிகரிப்புக்கு "
+"மாற்றப்படுகிறதா என்பதை"
+
+msgid ""
+"Whether extra space given to the child should be allocated to the child or "
+"used as padding"
+msgstr ""
+"குழந்தைக்கு கூடுதல் இடம் குழந்தைக்கு ஒதுக்கப்பட வேண்டுமா அல்லது திணிப்பாகப் "
+"பயன்படுத்தப்பட வேண்டுமா"
+
+msgid "Whether grid lines should be drawn in the tree view"
+msgstr "மரக் காட்சியில் கட்டம் கோடுகள் வரையப்பட வேண்டுமா"
+
+msgid "Whether gtk_widget_show_all() should not affect this widget"
+msgstr "GTK_WIDGET_SHOW_ALL () இந்த விட்செட்டை பாதிக்கக்கூடாது"
+
+msgid "Whether images should be shown in menus"
+msgstr "மெனுக்களில் படங்கள் காட்டப்பட வேண்டுமா"
+
+msgid "Whether images should be shown on buttons"
+msgstr "படங்களை பொத்தான்களில் காட்ட வேண்டுமா"
+
+msgid "Whether labels should have mnemonics"
+msgstr "லேபிள்களுக்கு நினைவூட்டல்கள் இருக்க வேண்டுமா"
+
+msgid "Whether left and right margins accumulate."
+msgstr "இடது மற்றும் வலது விளிம்புகள் குவிந்தாலும்."
+
+msgid "Whether lines are wrapped at widget edges"
+msgstr "விட்செட் விளிம்புகளில் கோடுகள் மூடப்பட்டிருக்கிறதா"
+
+msgid "Whether list item matching is case sensitive"
+msgstr "பட்டியல் உருப்படி பொருத்தம் வழக்கு உணர்திறன்"
+
+msgid ""
+"Whether menu accelerators can be changed by pressing a key over the menu "
+"item"
+msgstr ""
+"பட்டியல் உருப்படியின் மீது ஒரு விசையை அழுத்துவதன் மூலம் பட்டியல் முடுக்கிகளை"
+" மாற்ற முடியுமா?"
+
+msgid "Whether menu items should have accelerators"
+msgstr "பட்டியல் உருப்படிகளில் முடுக்கிகள் இருக்க வேண்டுமா"
+
+msgid "Whether new text overwrites existing text"
+msgstr "புதிய உரை ஏற்கனவே உள்ள உரையை மேலெழுதுமா"
+
+msgid "Whether non-numeric characters should be ignored"
+msgstr "நோமரிக் அல்லாத எழுத்துக்கள் புறக்கணிக்கப்பட வேண்டுமா"
+
+msgid "Whether or not the plug is embedded"
+msgstr "பிளக் உட்பொதிக்கப்பட்டதா இல்லையா"
+
+msgid "Whether or not the status icon is blinking"
+msgstr "நிலை படவுரு ஒளிரும்தா இல்லையா"
+
+msgid "Whether or not the status icon is embedded"
+msgstr "நிலை படவுரு உட்பொதிக்கப்பட்டதா இல்லையா"
+
+msgid "Whether or not the status icon is visible"
+msgstr "நிலை படவுரு காணப்படுகிறதா இல்லையா"
+
+msgid "Whether or not the widget is double buffered"
+msgstr "விட்செட் இரட்டை இடையகமா இல்லையா"
+
+msgid "Whether or not to give the color an alpha value"
+msgstr "வண்ணத்திற்கு ஆல்பா மதிப்பைக் கொடுக்கலாமா இல்லையா"
+
+msgid "Whether or not to keep all text in a single paragraph"
+msgstr "எல்லா உரைகளையும் ஒரே பத்தியில் வைத்திருக்கலாமா இல்லையா"
+
+msgid "Whether password entries will show a warning when Caps Lock is on"
+msgstr ""
+"தொப்பிகள் பூட்டு இருக்கும்போது கடவுச்சொல் உள்ளீடுகள் எச்சரிக்கையைக் "
+"காண்பிக்குமா?"
+
+msgid ""
+"Whether rows should be expanded/collapsed when the pointer moves over them"
+msgstr ""
+"சுட்டிக்காட்டி அவற்றின் மேல் நகரும் போது வரிசைகள் விரிவாக்கப்பட "
+"வேண்டுமா/சரிந்து விட வேண்டுமா"
+
+msgid "Whether selected font size is shown in the label"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துரு அளவு லேபிளில் காட்டப்பட்டுள்ளதா"
+
+msgid ""
+"Whether separators have configurable width and should be drawn using a box "
+"instead of a line"
+msgstr ""
+"பிரிப்பான்கள் கட்டமைக்கக்கூடிய அகலம் உள்ளதா மற்றும் ஒரு வரிக்கு பதிலாக ஒரு "
+"பெட்டியைப் பயன்படுத்தி வரையப்பட வேண்டும்"
+
+msgid "Whether spacers are vertical lines or just blank"
+msgstr "ச்பேசர்கள் செங்குத்து கோடுகள் அல்லது காலியாக இருந்தாலும்"
+
+msgid "Whether tabs should be shown or not"
+msgstr "தாவல்கள் காட்டப்பட வேண்டுமா இல்லையா"
+
+msgid "Whether tabs should have homogeneous sizes"
+msgstr "தாவல்களில் ஒரே மாதிரியான அளவுகள் இருக்க வேண்டுமா"
+
+msgid "Whether tearoff menu items should be added to menus"
+msgstr "கண்ணீர் பட்டியல் உருப்படிகள் மெனுக்களில் சேர்க்கப்பட வேண்டுமா"
+
+msgid "Whether the action group is enabled."
+msgstr "அதிரடி குழு இயக்கப்பட்டதா."
+
+msgid "Whether the action group is visible."
+msgstr "அதிரடி குழு தெரியும்."
+
+msgid ""
+"Whether the action is considered important. When TRUE, toolitem proxies for "
+"this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
+msgstr ""
+"நடவடிக்கை முக்கியமானதாகக் கருதப்படுகிறதா. உண்மை போது, ​​இந்த செயலுக்கான "
+"கருவித்தொகுப்பு ப்ராக்சிகள் gtk_toolbar_both_horiz பயன்முறையில் உரையைக் "
+"காட்டுகின்றன."
+
+msgid "Whether the action is enabled."
+msgstr "நடவடிக்கை இயக்கப்பட்டதா என்பதை."
+
+msgid "Whether the action is visible."
+msgstr "நடவடிக்கை தெரியும்."
+
+msgid "Whether the animation should loop when it reaches the end"
+msgstr "அனிமேசன் முடிவை அடையும் போது அதை சுழற்ற வேண்டுமா"
+
+msgid "Whether the application has a selection"
+msgstr "பயன்பாட்டிற்கு ஒரு தேர்வு உள்ளதா என்பதையும்"
+
+msgid ""
+"Whether the application supplied widget for custom previews should be shown."
+msgstr ""
+"தனிப்பயன் மாதிரிக்காட்சிகளுக்கு வழங்கப்பட்ட விட்செட்டை வழங்கிய பயன்பாடு "
+"காட்டப்பட வேண்டும்."
+
+msgid "Whether the application will paint directly on the widget"
+msgstr "பயன்பாடு நேரடியாக விட்செட்டில் வரைவதா என்பது"
+
+msgid "Whether the arrow keys move through the list of items"
+msgstr "அம்பு விசைகள் உருப்படிகளின் பட்டியல் வழியாக நகர்கிறதா"
+
+msgid ""
+"Whether the background color fills the entire line height or only the height"
+" of the tagged characters"
+msgstr ""
+"பின்னணி நிறம் முழு வரி உயரத்தையும் நிரப்புகிறதா அல்லது குறிக்கப்பட்ட "
+"எழுத்துகளின் உயரத்தை மட்டுமே"
+
+msgid "Whether the border should be shown or not"
+msgstr "எல்லை காட்டப்பட வேண்டுமா இல்லையா"
+
+msgid "Whether the buffer has some text currently selected"
+msgstr "இடையகத்தில் தற்போது தேர்ந்தெடுக்கப்பட்ட சில உரை உள்ளதா"
+
+msgid "Whether the button grabs focus when it is clicked with the mouse"
+msgstr "சுட்டியுடன் சொடுக்கு செய்யும்போது பொத்தான் கவனத்தை ஈர்க்கிறதா என்பதை"
+
+msgid "Whether the cell renderer is currently in editing mode"
+msgstr "செல் ரெண்டரர் தற்போது திருத்துதல் பயன்முறையில் உள்ளதா என்பது"
+
+msgid "Whether the child should receive extra space when the parent grows"
+msgstr "பெற்றோர் வளரும்போது குழந்தை கூடுதல் இடத்தைப் பெற வேண்டுமா"
+
+msgid "Whether the child's tab should fill the allocated area or not"
+msgstr "குழந்தையின் தாவல் ஒதுக்கப்பட்ட பகுதியை நிரப்ப வேண்டுமா இல்லையா"
+
+msgid ""
+"Whether the child_displacement_x/_y properties should also affect the focus "
+"rectangle"
+msgstr ""
+"Child_displacement_x/_y பண்புகள் கவனம் செவ்வகத்தையும் பாதிக்க வேண்டுமா"
+
+msgid "Whether the children should all be the same size"
+msgstr "குழந்தைகள் அனைவரும் ஒரே அளவாக இருக்க வேண்டுமா"
+
+msgid "Whether the color selector should allow setting opacity"
+msgstr "வண்ணத் தேர்வாளர் ஒளிபுகாநிலையை அமைப்பதை அனுமதிக்க வேண்டுமா"
+
+msgid "Whether the column can be reordered around the headers"
+msgstr "நெடுவரிசையை தலைப்புகளைச் சுற்றி மறுவரிசைப்படுத்த முடியுமா"
+
+msgid "Whether the combo box draws a frame around the child"
+msgstr "காம்போ பெட்டி குழந்தையைச் சுற்றி ஒரு சட்டகத்தை ஈர்க்கிறதா என்பது"
+
+msgid "Whether the combo box grabs focus when it is clicked with the mouse"
+msgstr ""
+"காம்போ பெட்டி சுட்டியுடன் சொடுக்கு செய்யப்படும்போது கவனம் செலுத்துகிறதா?"
+
+msgid "Whether the combo's dropdown is shown"
+msgstr "காம்போவின் கீழ்தோன்றல் காட்டப்பட்டுள்ளதா"
+
+msgid "Whether the common prefix should be inserted automatically"
+msgstr "பொதுவான முன்னொட்டு தானாக செருகப்பட வேண்டுமா"
+
+msgid "Whether the completions should be shown in a popup window"
+msgstr "நிறைவுகள் ஒரு பாப்அப் சாளரத்தில் காட்டப்பட வேண்டுமா"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to change "
+"the input method"
+msgstr ""
+"உள்ளீட்டு முறையை மாற்ற உள்ளீடுகள் மற்றும் உரை காட்சிகளின் சூழல் மெனுக்கள் "
+"வழங்க வேண்டுமா"
+
+msgid ""
+"Whether the context menus of entries and text views should offer to insert "
+"control characters"
+msgstr ""
+"உள்ளீடுகள் மற்றும் உரை காட்சிகளின் சூழல் மெனுக்கள் கட்டுப்பாட்டு "
+"எழுத்துக்களைச் செருக வழங்க வேண்டுமா"
+
+msgid "Whether the current value is displayed as a string next to the slider"
+msgstr "தற்போதைய மதிப்பு ச்லைடருக்கு அடுத்த சரமாக காட்டப்படுகிறதா என்பதை"
+
+msgid "Whether the cursor should blink"
+msgstr "கர்சர் கண் சிமிட்ட வேண்டுமா"
+
+msgid "Whether the dialog supports selection"
+msgstr "உரையாடல் தேர்வை ஆதரிக்கிறதா"
+
+msgid ""
+"Whether the direction of the sort indicators in list and tree views is "
+"inverted compared to the default (where down means ascending)"
+msgstr ""
+"இயல்புநிலையுடன் ஒப்பிடும்போது பட்டியல் மற்றும் மரக் காட்சிகளில் உள்ள வகையான "
+"குறிகாட்டிகளின் திசை தலைகீழாக இருக்கிறதா (கீழே கீழே ஏறுதல் என்று பொருள்)"
+
+msgid "Whether the dropdown button is sensitive when the model is empty"
+msgstr "மாதிரி காலியாக இருக்கும்போது கீழ்தோன்றும் பொத்தானை உணர்கிறதா"
+
+msgid "Whether the entry contents can be edited"
+msgstr "நுழைவு உள்ளடக்கங்களைத் திருத்த முடியுமா"
+
+msgid ""
+"Whether the event box is visible, as opposed to invisible and only used to "
+"trap events."
+msgstr ""
+"கண்ணுக்கு தெரியாததற்கு மாறாக, நிகழ்வுகளை சிக்க வைக்க மட்டுமே நிகழ்வு பெட்டி "
+"தெரியும்."
+
+msgid ""
+"Whether the event-trapping window of the eventbox is above the window of the"
+" child widget as opposed to below it."
+msgstr ""
+"EventBox இன் நிகழ்வு-பொறி சாளரம் குழந்தை விட்செட்டின் சாளரத்திற்கு மேலே "
+"இருக்கிறதா, அதற்குக் கீழே."
+
+msgid "Whether the expander has been opened to reveal the child widget"
+msgstr "குழந்தை விட்செட்டை வெளிப்படுத்த விரிவாக்கம் திறக்கப்பட்டுள்ளதா"
+
+msgid "Whether the header can be clicked"
+msgstr "தலைப்பைக் சொடுக்கு செய்ய முடியுமா"
+
+msgid "Whether the hidden files and folders should be displayed"
+msgstr "மறைக்கப்பட்ட கோப்புகள் மற்றும் கோப்புறைகள் காட்டப்பட வேண்டுமா"
+
+msgid "Whether the icon-size property has been set"
+msgstr "படவுரு அளவிலான சொத்து நிர்ணயிக்கப்பட்டுள்ளதா"
+
+msgid "Whether the image will always be shown"
+msgstr "படம் எப்போதும் காண்பிக்கப்படுமா"
+
+msgid "Whether the input focus is within this GtkWindow"
+msgstr "உள்ளீட்டு கவனம் இந்த gtkwindow க்குள் உள்ளதா"
+
+msgid "Whether the invisible char has been set"
+msgstr "கண்ணுக்கு தெரியாத கரி அமைக்கப்பட்டுள்ளதா"
+
+msgid "Whether the item should be the same size as other homogeneous items"
+msgstr "உருப்படி மற்ற ஒரேவிதமான பொருட்களின் அதே அளவாக இருக்க வேண்டுமா?"
+
+msgid "Whether the item should receive extra space when the toolbar grows"
+msgstr "கருவிப்பட்டி வளரும்போது உருப்படி கூடுதல் இடத்தைப் பெற வேண்டுமா?"
+
+msgid ""
+"Whether the items pointing to unavailable resources should be displayed"
+msgstr "கிடைக்காத வளங்களை சுட்டிக்காட்டும் உருப்படிகள் காட்டப்பட வேண்டுமா"
+
+msgid "Whether the items should be displayed with a number"
+msgstr "உருப்படிகள் ஒரு எண்ணுடன் காட்டப்பட வேண்டுமா"
+
+msgid "Whether the label is drawn in the selected font"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துருவில் சிட்டை வரையப்பட்டதா"
+
+msgid "Whether the label is drawn with the selected font size"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துரு அளவுடன் சிட்டை வரையப்பட்டதா என்பதை"
+
+msgid "Whether the label is in single line mode"
+msgstr "சிட்டை ஒற்றை வரி பயன்முறையில் உள்ளதா"
+
+msgid "Whether the label text can be selected with the mouse"
+msgstr "சுட்டியுடன் சிட்டை உரையைத் தேர்ந்தெடுக்க முடியுமா?"
+
+msgid "Whether the mark has left gravity"
+msgstr "குறி ஈர்ப்பு விசையை விட்டுவிட்டதா என்பது"
+
+msgid "Whether the menu item is checked"
+msgstr "பட்டியல் உருப்படி சரிபார்க்கப்பட்டதா"
+
+msgid "Whether the menu item looks like a radio menu item"
+msgstr "பட்டியல் உருப்படி ரேடியோ பட்டியல் உருப்படி போல் இருக்கிறதா?"
+
+msgid "Whether the pixbuf has an alpha channel"
+msgstr "பிக்ச்புஃப் ஆல்பா சேனலைக் கொண்டிருக்கிறதா"
+
+msgid ""
+"Whether the preview widget should take up the entire space it is allocated"
+msgstr "முன்னோட்ட விட்செட் அது ஒதுக்கப்பட்ட முழு இடத்தையும் எடுக்க வேண்டுமா?"
+
+msgid "Whether the primary icon is activatable"
+msgstr "முதன்மை படவுரு செயல்படுத்தக்கூடியதா என்பதை"
+
+msgid "Whether the primary icon is sensitive"
+msgstr "முதன்மை படவுரு உணர்திறன் உள்ளதா"
+
+msgid "Whether the private items should be displayed"
+msgstr "தனிப்பட்ட உருப்படிகள் காட்டப்பட வேண்டுமா"
+
+msgid "Whether the progress is shown as text."
+msgstr "முன்னேற்றம் உரையாக காட்டப்பட்டுள்ளதா."
+
+msgid "Whether the proxies for this action look like radio action proxies"
+msgstr ""
+"இந்த செயலுக்கான ப்ராக்சிகள் ரேடியோ அதிரடி ப்ராக்சிகள் போல "
+"தோற்றமளிக்கின்றனவா?"
+
+msgid "Whether the rendered pixbuf should be colorized according to the state"
+msgstr "வழங்கப்பட்ட பிக்ச்புஃப் மாநிலத்தின் படி வண்ணமயமாக்கப்பட வேண்டுமா"
+
+msgid "Whether the secondary icon is activatable"
+msgstr "இரண்டாம் நிலை படவுரு செயல்பட்டதா என்பதை"
+
+msgid "Whether the secondary icon is sensitive"
+msgstr "இரண்டாம் நிலை படவுரு உணர்திறன் உள்ளதா"
+
+msgid "Whether the selected file(s) should be limited to local file: URLs"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட கோப்பு (கள்) உள்ளக கோப்புடன் மட்டுப்படுத்தப்பட வேண்டுமா:"
+" முகவரி கள்"
+
+msgid "Whether the selected font style is shown in the label"
+msgstr "தேர்ந்தெடுக்கப்பட்ட எழுத்துரு பாணி லேபிளில் காட்டப்பட்டுள்ளதா என்பதை"
+
+msgid "Whether the selected resource(s) should be limited to local file: URIs"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட சான்று (கள்) உள்ளக கோப்பிற்கு மட்டுப்படுத்தப்பட "
+"வேண்டுமா: URIS"
+
+msgid "Whether the selection should follow the pointer"
+msgstr "தேர்வு சுட்டிக்காட்டியைப் பின்பற்ற வேண்டுமா"
+
+msgid "Whether the separator is drawn, or just blank"
+msgstr "பிரிப்பான் வரையப்பட்டதா, அல்லது காலியாக இருந்தாலும் சரி"
+
+msgid ""
+"Whether the spin button should update always, or only when the value is "
+"legal"
+msgstr ""
+"சுழல் பொத்தானை எப்போதும் புதுப்பிக்க வேண்டுமா, அல்லது மதிப்பு சட்டபூர்வமாக "
+"இருக்கும்போது மட்டுமே"
+
+msgid "Whether the statusbar has a grip for resizing the toplevel"
+msgstr "டோப்லெவலை மறுஅளவிடுவதற்கு ச்டேட்டச்பருக்கு ஒரு பிடி இருக்கிறதா?"
+
+msgid "Whether the tab is detachable"
+msgstr "தாவல் பிரிக்கக்கூடியதா என்பதை"
+
+msgid "Whether the tab is reorderable by user action or not"
+msgstr "பயனர் செயலால் தாவல் மறுவரிசைப்படுத்தப்படுகிறதா இல்லையா"
+
+msgid "Whether the text can be modified by the user"
+msgstr "உரையை பயனரால் மாற்ற முடியுமா என்பதை"
+
+msgid ""
+"Whether the toolbar item is considered important. When TRUE, toolbar buttons"
+" show text in GTK_TOOLBAR_BOTH_HORIZ mode"
+msgstr ""
+"கருவிப்பட்டி உருப்படி முக்கியமானதாகக் கருதப்படுகிறதா. உண்மை போது, "
+"​​கருவிப்பட்டி பொத்தான்கள் gtk_toolbar_both_horiz பயன்முறையில் உரையைக் "
+"காட்டுகின்றன"
+
+msgid ""
+"Whether the toolbar item is visible when the toolbar is in a horizontal "
+"orientation."
+msgstr ""
+"கருவிப்பட்டி கிடைமட்ட நோக்குநிலையில் இருக்கும்போது கருவிப்பட்டி உருப்படி "
+"தெரியும்."
+
+msgid ""
+"Whether the toolbar item is visible when the toolbar is in a vertical "
+"orientation."
+msgstr ""
+"கருவிப்பட்டி செங்குத்து நோக்குநிலையில் இருக்கும்போது கருவிப்பட்டி உருப்படி "
+"தெரியும்."
+
+msgid "Whether the toplevel is the current active window"
+msgstr "டோப்ல்வெல் தற்போதைய செயலில் உள்ள சாளரமா என்பதை"
+
+msgid "Whether the widget can accept the input focus"
+msgstr "விட்செட்டால் உள்ளீட்டு கவனத்தை ஏற்றுக்கொள்ள முடியுமா"
+
+msgid "Whether the widget can be the default widget"
+msgstr "விட்செட் இயல்புநிலை விட்செட்டாக இருக்க முடியுமா"
+
+msgid "Whether the widget has the input focus"
+msgstr "விட்செட்டில் உள்ளீட்டு கவனம் உள்ளதா என்பதை"
+
+msgid "Whether the widget is part of a composite widget"
+msgstr "விட்செட் ஒரு கலப்பு விட்செட்டின் ஒரு பகுதியாக இருக்கிறதா என்பது"
+
+msgid "Whether the widget is the default widget"
+msgstr "விட்செட் இயல்புநிலை விட்செட்டா"
+
+msgid "Whether the widget is the focus widget within the toplevel"
+msgstr "விட்செட் என்பது டோப்லெவ்லுக்குள் கவனம் விட்செட்டாக இருக்கிறதா என்பது"
+
+msgid "Whether the widget is visible"
+msgstr "விட்செட் தெரியும்"
+
+msgid "Whether the widget responds to input"
+msgstr "விட்செட் உள்ளீட்டிற்கு பதிலளிக்கிறதா"
+
+msgid "Whether the window frame should have a close button"
+msgstr "சாளர சட்டகம் நெருங்கிய பொத்தானைக் கொண்டிருக்க வேண்டுமா"
+
+msgid "Whether the window should be decorated by the window manager"
+msgstr "சாளர மேலாளரால் சாளரத்தை அலங்கரிக்க வேண்டுமா"
+
+msgid "Whether there should be a tooltip on the item"
+msgstr "உருப்படியில் ஒரு உதவிக்குறிப்பு இருக்க வேண்டுமா"
+
+msgid "Whether there should be an icon near the item"
+msgstr "உருப்படிக்கு அருகில் ஒரு படவுரு இருக்க வேண்டுமா"
+
+msgid "Whether this link has been visited."
+msgstr "இந்த இணைப்பு பார்வையிடப்பட்டதா."
+
+msgid "Whether this tag affects background height"
+msgstr "இந்த குறிச்சொல் பின்னணி உயரத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects indentation"
+msgstr "இந்த குறிச்சொல் உள்தள்ளலை பாதிக்கிறதா"
+
+msgid "Whether this tag affects line wrap mode"
+msgstr "இந்த குறிச்சொல் வரி மடக்கு பயன்முறையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects paragraph justification"
+msgstr "இந்த குறிச்சொல் பத்தி நியாயத்தை பாதிக்கிறதா என்பது"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "இந்த குறிச்சொல் ச்ட்ரைகெத்ரூவை பாதிக்கிறதா"
+
+msgid "Whether this tag affects tabs"
+msgstr "இந்த குறிச்சொல் தாவல்களை பாதிக்கிறதா"
+
+msgid "Whether this tag affects text editability"
+msgstr "இந்த குறிச்சொல் உரை திருத்தக்கூடிய தன்மையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects text visibility"
+msgstr "இந்த குறிச்சொல் உரை தெரிவுநிலையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the alignment mode"
+msgstr "இந்த குறிச்சொல் சீரமைப்பு பயன்முறையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the background color"
+msgstr "இந்த குறிச்சொல் பின்னணி நிறத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the background stipple"
+msgstr "இந்த குறிச்சொல் பின்னணி ச்டிப்பை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the cell background color"
+msgstr "இந்த குறிச்சொல் செல் பின்னணி நிறத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the ellipsize mode"
+msgstr "இந்த குறிச்சொல் நீள்வட்ட பயன்முறையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font family"
+msgstr "இந்த குறிச்சொல் எழுத்துரு குடும்பத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font size"
+msgstr "இந்த குறிச்சொல் எழுத்துரு அளவை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "இந்த குறிச்சொல் எழுத்துரு நீட்டிப்பை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font style"
+msgstr "இந்த குறிச்சொல் எழுத்துரு பாணியை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font variant"
+msgstr "இந்த குறிச்சொல் எழுத்துரு மாறுபாட்டை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the font weight"
+msgstr "இந்த குறிச்சொல் எழுத்துரு எடையை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the foreground color"
+msgstr "இந்த குறிச்சொல் முன்புற நிறத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the foreground stipple"
+msgstr "இந்த குறிச்சொல் முன்புற ச்டிப்பலை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the language the text is rendered as"
+msgstr "இந்த குறிச்சொல் உரை வழங்கப்பட்ட மொழியை பாதிக்கிறதா?"
+
+msgid "Whether this tag affects the left margin"
+msgstr "இந்த குறிச்சொல் இடது விளிம்பை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the number of pixels above lines"
+msgstr ""
+"இந்த குறிச்சொல் வரிகளுக்கு மேலே உள்ள பிக்சல்களின் எண்ணிக்கையை பாதிக்கிறதா?"
+
+msgid "Whether this tag affects the number of pixels between wrapped lines"
+msgstr ""
+"இந்த குறிச்சொல் போர்த்தப்பட்ட கோடுகளுக்கு இடையில் பிக்சல்களின் எண்ணிக்கையை "
+"பாதிக்கிறதா?"
+
+msgid "Whether this tag affects the paragraph background color"
+msgstr "இந்த குறிச்சொல் பத்தி பின்னணி நிறத்தை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the right margin"
+msgstr "இந்த குறிச்சொல் சரியான விளிம்பை பாதிக்கிறதா"
+
+msgid "Whether this tag affects the rise"
+msgstr "இந்த குறிச்சொல் உயர்வை பாதிக்கிறதா"
+
+msgid "Whether this tag affects underlining"
+msgstr "இந்த குறிச்சொல் அடிக்கோடிட்டுக் காட்டுவதை பாதிக்கிறதா"
+
+msgid "Whether this tag scales the font size by a factor"
+msgstr "இந்த குறிச்சொல் எழுத்துரு அளவை ஒரு காரணியால் அளவிடுகிறதா என்பதை"
+
+msgid "Whether this text is hidden."
+msgstr "இந்த உரை மறைக்கப்பட்டுள்ளதா."
+
+msgid "Whether this tray icon has a tooltip"
+msgstr "இந்த தட்டு ஐகானுக்கு ஒரு உதவிக்குறிப்பு உள்ளதா என்பதை"
+
+msgid "Whether this widget has a tooltip"
+msgstr "இந்த விட்செட்டுக்கு ஒரு உதவிக்குறிப்பு உள்ளதா என்பதை"
+
+msgid ""
+"Whether to activate the default widget (such as the default button in a "
+"dialog) when Enter is pressed"
+msgstr ""
+"ENTER ஐ அழுத்தும்போது இயல்புநிலை விட்செட்டை (உரையாடலில் இயல்புநிலை பொத்தான் "
+"போன்றவை) செயல்படுத்தலாமா?"
+
+msgid "Whether to allow multiple files to be selected"
+msgstr "பல கோப்புகளைத் தேர்ந்தெடுக்க அனுமதிக்கலாமா"
+
+msgid "Whether to allow multiple items to be selected"
+msgstr "பல உருப்படிகளைத் தேர்ந்தெடுக்க அனுமதிக்கலாமா"
+
+msgid "Whether to antialias Xft fonts; 0=no, 1=yes, -1=default"
+msgstr ""
+"ஆன்டியாலியாச் எக்ச்எஃப்டி எழுத்துருக்கள்; 0 = இல்லை, 1 = ஆம், -1 = "
+"இயல்புநிலை"
+
+msgid "Whether to display a fill level indicator graphics on trough."
+msgstr "தொட்டியில் நிரப்பு நிலை காட்டி கிராபிக்ச் காண்பிக்க வேண்டுமா."
+
+msgid "Whether to display a stock label with the name of the previewed file."
+msgstr ""
+"முன்னோட்டமிடப்பட்ட கோப்பின் பெயருடன் பங்கு லேபிளைக் காண்பிக்க வேண்டுமா."
+
+msgid "Whether to display an \"inconsistent\" state"
+msgstr "\"சீரற்ற\" நிலையைக் காண்பிக்க வேண்டுமா"
+
+msgid "Whether to display the column"
+msgstr "நெடுவரிசையைக் காண்பிக்க வேண்டுமா"
+
+msgid "Whether to draw the focus indicator inside widgets"
+msgstr "விட்செட்களுக்குள் கவனம் காட்டி வரைய வேண்டுமா"
+
+msgid ""
+"Whether to draw trough for full length of range or exclude the steppers and "
+"spacing"
+msgstr ""
+"முழு நீள வரம்பிற்கு தொட்டியை வரைய வேண்டுமா அல்லது ச்டெப்பர்கள் மற்றும் "
+"இடைவெளியை விலக்க வேண்டுமா?"
+
+msgid ""
+"Whether to enable selection of multiple items by dragging the mouse pointer"
+msgstr ""
+"சுட்டி சுட்டிக்காட்டி இழுப்பதன் மூலம் பல உருப்படிகளைத் தேர்வுசெய்யலாமா?"
+
+msgid "Whether to enable toolkit-wide animations."
+msgstr "கருவித்தொகுப்பு அளவிலான அனிமேசன்களை இயக்க வேண்டுமா."
+
+msgid "Whether to expand the child's tab or not"
+msgstr "குழந்தையின் தாவலை விரிவாக்கலாமா இல்லையா"
+
+msgid "Whether to hint Xft fonts; 0=no, 1=yes, -1=default"
+msgstr ""
+"எக்ச்எஃப்டி எழுத்துருக்களைக் குறிக்க வேண்டுமா; 0 = இல்லை, 1 = ஆம், -1 = "
+"இயல்புநிலை"
+
+msgid "Whether to pass a proper state when drawing shadow or background"
+msgstr "நிழல் அல்லது பின்னணியை வரையும்போது சரியான நிலையை கடக்க வேண்டுமா?"
+
+msgid "Whether to play any event sounds at all"
+msgstr "ஏதேனும் நிகழ்வு விளையாட வேண்டுமா என்பது ஒலிக்கிறது"
+
+msgid "Whether to play event sounds as feedback to user input"
+msgstr "பயனர் உள்ளீட்டிற்கான பின்னூட்டமாக நிகழ்வு விளையாடுவதா"
+
+msgid ""
+"Whether to put a separator between the message dialog's text and the buttons"
+msgstr ""
+"செய்தி உரையாடலின் உரை மற்றும் பொத்தான்களுக்கு இடையில் ஒரு பிரிப்பான் வைக்க "
+"வேண்டுமா?"
+
+msgid "Whether to restrict the upper boundary to the fill level."
+msgstr "மேல் எல்லையை நிரப்பு நிலைக்கு கட்டுப்படுத்த வேண்டுமா."
+
+msgid ""
+"Whether to select the contents of a selectable label when it is focused"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட சிட்டை கவனம் செலுத்தும்போது அதைத் தேர்ந்தெடுக்கலாமா?"
+
+msgid "Whether to select the contents of an entry when it is focused"
+msgstr "ஒரு நுழைவு கவனம் செலுத்தும்போது அதைத் தேர்ந்தெடுக்கலாமா?"
+
+msgid "Whether to show a sort indicator"
+msgstr "ஒரு வரிசை காட்டி காட்ட வேண்டுமா"
+
+msgid "Whether to strike through the text"
+msgstr "உரை மூலம் தாக்க வேண்டுமா"
+
+msgid "Whether to truncate multiline pastes to one line."
+msgstr "மல்டிலைன் பேச்ட்களை ஒரு வரிக்கு துண்டிக்க வேண்டுமா."
+
+msgid "Whether to use the label text to create a stock menu item"
+msgstr "பங்கு பட்டியல் உருப்படியை உருவாக்க சிட்டை உரையைப் பயன்படுத்தலாமா?"
+
+msgid "Whether to use the related actions appearance properties"
+msgstr "தொடர்புடைய செயல்கள் தோற்ற பண்புகளைப் பயன்படுத்த வேண்டுமா"
+
+msgid ""
+"Whether to use the value from the snap_edge property or a value derived from"
+" handle_position"
+msgstr ""
+"Snap_edge சொத்தின் மதிப்பைப் பயன்படுத்தலாமா அல்லது கைப்பிடி_போசிசனில் "
+"இருந்து பெறப்பட்ட மதிப்பு"
+
+msgid "Whether to wrap around when keyboard-navigating widgets"
+msgstr "விசைப்பலகை-அசைவது விட்செட்களைச் சுற்றிக் கொள்ள வேண்டுமா"
+
+msgid ""
+"Whether to wrap lines never, at word boundaries, or at character boundaries"
+msgstr ""
+"ஒருபோதும் கோடுகளை மடக்க வேண்டுமா, சொல் எல்லைகளில், அல்லது எழுத்து எல்லைகளில்"
+
+msgid "Whether to wrap the license text."
+msgstr "உரிம உரையை மடிக்க வேண்டுமா."
+
+msgid "Whether tooltips should be shown on widgets"
+msgstr "உதவிக்குறிப்புகள் விட்செட்டுகளில் காட்டப்பட வேண்டுமா"
+
+msgid "Whether tree lines should be drawn in the tree view"
+msgstr "மரக் காட்சியில் மரக் கோடுகள் வரையப்பட வேண்டுமா"
+
+msgid ""
+"Whether two cursors should be displayed for mixed left-to-right and right-"
+"to-left text"
+msgstr ""
+"கலப்பு இடமிருந்து வலமாக மற்றும் வலதுபுறமாக இடமளிக்கும் உரைக்கு இரண்டு "
+"கர்சர்கள் காட்டப்பட வேண்டுமா?"
+
+msgid "Whether visited links should be tracked"
+msgstr "பார்வையிட்ட இணைப்புகள் கண்காணிக்கப்பட வேண்டுமா"
+
+msgid "Whether words are wrapped at widget edges"
+msgstr "விட்செட் விளிம்புகளில் வார்த்தைகள் மூடப்பட்டிருக்கிறதா"
+
+msgid "Which IM module should be used"
+msgstr "எந்த IM தொகுதி பயன்படுத்தப்பட வேண்டும்"
+
+msgid "Which IM module should be used by default"
+msgstr "எந்த IM தொகுதி இயல்புநிலையாக பயன்படுத்தப்பட வேண்டும்"
+
+msgid "Which kind of shadow to draw around the combo box"
+msgstr "காம்போ பெட்டியைச் சுற்றி எந்த வகையான நிழல் வரைய வேண்டும்"
+
+msgid "Which kind of shadow to draw around the entry when has-frame is set"
+msgstr ""
+"கட்டம் அமைக்கப்படும்போது நுழைவை சுற்றி எந்த வகையான நிழலை வரைய வேண்டும்"
+
+msgid "Which side of the notebook holds the tabs"
+msgstr "நோட்புக்கின் எந்தப் பக்கம் தாவல்களை வைத்திருக்கிறது"
+
+msgid "Wide Separators"
+msgstr "பரந்த பிரிப்பான்கள்"
+
+msgid "Widget"
+msgstr "விட்செட்"
+
+msgid "Widget name"
+msgstr "விட்செட் பெயர்"
+
+msgid "Widget to put in column header button instead of column title"
+msgstr ""
+"நெடுவரிசை தலைப்புக்கு பதிலாக நெடுவரிசை தலைப்பு பொத்தானை வைக்க விட்செட்"
+
+msgid "Widget to use as the item label"
+msgstr "உருப்படி லேபிளாக பயன்படுத்த விட்செட்"
+
+msgid "Width"
+msgstr "அகலம்"
+
+msgid "Width In Characters"
+msgstr "எழுத்துக்களில் அகலம்"
+
+msgid "Width for each item"
+msgstr "ஒவ்வொரு பொருளுக்கும் அகலம்"
+
+msgid "Width in Characters"
+msgstr "எழுத்துக்களில் அகலம்"
+
+msgid "Width in chars"
+msgstr "எழுத்தில் அகலம்"
+
+msgid "Width of border around the action area"
+msgstr "அதிரடி பகுதியைச் சுற்றி எல்லையின் அகலம்"
+
+msgid "Width of border around the button area at the bottom of the dialog"
+msgstr ""
+"உரையாடலின் அடிப்பகுதியில் உள்ள பொத்தான் பகுதியைச் சுற்றி எல்லையின் அகலம்"
+
+msgid "Width of border around the content area"
+msgstr "உள்ளடக்க பகுதியைச் சுற்றியுள்ள எல்லையின் அகலம்"
+
+msgid "Width of border around the label and image in the message dialog"
+msgstr "செய்தி உரையாடலில் சிட்டை மற்றும் படத்தைச் சுற்றியுள்ள எல்லையின் அகலம்"
+
+msgid "Width of border around the main dialog area"
+msgstr "முதன்மையான உரையாடல் பகுதியைச் சுற்றி எல்லையின் அகலம்"
+
+msgid "Width of handle"
+msgstr "கைப்பிடியின் அகலம்"
+
+msgid "Width of scrollbar or scale thumb"
+msgstr "சுருள் அல்லது அளவிலான கட்டைவிரலின் அகலம்"
+
+msgid "Width of the border around the tab labels"
+msgstr "தாவல் லேபிள்களைச் சுற்றியுள்ள எல்லையின் அகலம்"
+
+msgid "Width of the horizontal border of tab labels"
+msgstr "தாவல் லேபிள்களின் கிடைமட்ட எல்லையின் அகலம்"
+
+msgid "Width of the left margin in pixels"
+msgstr "பிக்சல்களில் இடது விளிம்பின் அகலம்"
+
+msgid "Width of the right margin in pixels"
+msgstr "பிக்சல்களில் சரியான விளிம்பின் அகலம்"
+
+msgid "Width of the vertical border of tab labels"
+msgstr "தாவல் லேபிள்களின் செங்குத்து எல்லையின் அகலம்"
+
+msgid "Width request"
+msgstr "அகல கோரிக்கை"
+
+msgid "Width, in pixels, between focus indicator and the widget 'box'"
+msgstr ""
+"அகலம், பிக்சல்களில், கவனம் காட்டி மற்றும் விட்செட்டுக்கு இடையில் 'பெட்டி'"
+
+msgid "Width, in pixels, of the focus indicator line"
+msgstr "அகலம், பிக்சல்களில், கவனம் காட்டி வரியின்"
+
+msgid "Width, in pixels, of the tree view grid lines"
+msgstr "அகலம், பிக்சல்களில், மரக் காட்சி கட்டம் கோடுகளின்"
+
+msgid "Width, in pixels, of the tree view lines"
+msgstr "அகலம், பிக்சல்களில், மரக் காட்சி வரிகளின்"
+
+msgid "Window"
+msgstr "சாளரம்"
+
+msgid "Window Placement"
+msgstr "சாளர வேலை வாய்ப்பு"
+
+msgid "Window Placement Set"
+msgstr "சாளர வேலைவாய்ப்பு தொகுப்பு"
+
+msgid "Window Position"
+msgstr "சாளர நிலை"
+
+msgid "Window Role"
+msgstr "விண்டர் பங்கு"
+
+msgid "Window Title"
+msgstr "சாளர தலைப்பு"
+
+msgid "Window Type"
+msgstr "சாளரம் வகை"
+
+msgid ""
+"With this option set to TRUE, sliders will be drawn ACTIVE and with shadow "
+"IN while they are dragged"
+msgstr ""
+"இந்த விருப்பம் உண்மை என அமைக்கப்பட்டவுடன், ச்லைடர்கள் செயலில் வரையப்படும் "
+"மற்றும் அவை இழுக்கப்படும் போது நிழலுடன் இருக்கும்"
+
+msgid "Word Wrap"
+msgstr "சொல் மடக்கு"
+
+msgid "Wrap"
+msgstr "மடக்கு"
+
+msgid "Wrap Mode"
+msgstr "மடக்கு பயன்முறை"
+
+msgid "Wrap license"
+msgstr "உரிமம்"
+
+msgid "Wrap mode"
+msgstr "மடக்கு பயன்முறை"
+
+msgid "Wrap mode set"
+msgstr "மடக்கு பயன்முறை தொகுப்பு"
+
+msgid "Wrap width"
+msgstr "மடக்கு அகலம்"
+
+msgid "Wrap width for laying out the items in a grid"
+msgstr "ஒரு கட்டத்தில் உருப்படிகளை அமைப்பதற்கான அகலத்தை மடக்குங்கள்"
+
+msgid "X Alignment of the column header text or widget"
+msgstr "ஃச் நெடுவரிசை தலைப்பு உரை அல்லது விட்செட்டின் சீரமைப்பு"
+
+msgid "X align"
+msgstr "ஃச் சீரல்"
+
+msgid "X alignment of the child"
+msgstr "ஃச் குழந்தையின் சீரமைப்பு"
+
+msgid "X pad"
+msgstr "ஃச் பேட்"
+
+msgid "X position"
+msgstr "ஃச் நிலை"
+
+msgid "X position of child widget"
+msgstr "ஃச் குழந்தை விட்செட்டின் நிலை"
+
+msgid "XDG sound theme name"
+msgstr "எக்ச்.டி.சி ஒலி கருப்பொருள் பெயர்"
+
+msgid "XSpacing"
+msgstr "XSPACING"
+
+msgid "Xft Antialias"
+msgstr "சந்திரன்"
+
+msgid "Xft DPI"
+msgstr "எக்ச்எஃப்டி டிபிஐ"
+
+msgid "Xft Hint Style"
+msgstr "எக்ச்எஃப்டி குறிப்பு பாணி"
+
+msgid "Xft Hinting"
+msgstr "எக்ச்எஃப்டி குறிப்பு"
+
+msgid "Xft RGBA"
+msgstr "Xt கம்பளி"
+
+msgid "Y align"
+msgstr "ஒய் சீரமை"
+
+msgid "Y alignment of the child"
+msgstr "குழந்தையின் சீரமைப்பு"
+
+msgid "Y pad"
+msgstr "ஒய் பேட்"
+
+msgid "Y position"
+msgstr "ஒய் நிலை"
+
+msgid "Y position of child widget"
+msgstr "குழந்தை விட்செட்டின் நிலை"
+
+msgid "YSpacing"
+msgstr "Yspacing"
+
+msgid "Year"
+msgstr "ஆண்டு"
+
+msgid "Your description here"
+msgstr "உங்கள் விளக்கம் இங்கே"
+
+msgid "height"
+msgstr "உயரம்"
+
+msgid "mode"
+msgstr "பயன்முறை"
+
+msgid "the GdkScreen for the renderer"
+msgstr "ரெண்டரருக்கான gdkscreen"
+
+msgid "visible"
+msgstr "தெரியும்"
+
+msgid "width"
+msgstr "அகலம்"
+
+msgid "xalign"
+msgstr "Xalign"
+
+msgid "xpad"
+msgstr "எக்ச்பாட்"
+
+msgid "yalign"
+msgstr "யாலின்"
+
+msgid "ypad"
+msgstr "ypad"

@@ -1,0 +1,3607 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+.master.ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-10 11:56-0400\n"
+"PO-Revision-Date: 2024-10-11 22:55+0530\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: தமிழ்நேரக்குழு\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgstr "\"%s\" என்ற பண்புக்கூறு \"%s\" என்ற வகையின் மதிப்பாக மாற்ற முடியவில்லை \""
+
+msgid "\"%s\" is not a valid attribute name"
+msgstr "\"%s\" என்பது சரியான பண்புக்கூறு பெயர் அல்ல"
+
+msgid "\"%s\" is not a valid attribute type"
+msgstr "\"%s\" என்பது சரியான பண்புக்கூறு வகை அல்ல"
+
+msgid "\"%s\" is not a valid value for attribute \"%s\""
+msgstr "\"%s\" என்பது \"%s\" என்ற பண்புக்கூறுக்கான சரியான மதிப்பு அல்ல"
+
+msgid "\"Deepness\" of the color."
+msgstr "வண்ணத்தின் \"ஆழம்\"."
+
+msgid "%1$s on %2$s"
+msgstr "%2 $ s இல் %1 $ s"
+
+msgid "%H:%M"
+msgstr "%எச்:%மீ"
+
+msgid "%s job #%d"
+msgstr "%S வேலை #%d"
+
+msgid "(None)"
+msgstr "(எதுவுமில்லை)"
+
+msgid "(disabled)"
+msgstr "(முடக்கப்பட்டது)"
+
+msgid "(unknown)"
+msgstr "(தெரியவில்லை)"
+
+msgid "--- No Tip ---"
+msgstr "--- உதவிக்குறிப்பு இல்லை ---"
+
+msgid "<%s> element has invalid id \"%s\""
+msgstr "<%s> உறுப்பு தவறான ஐடி \"%s\" ஐக் கொண்டுள்ளது"
+
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
+msgstr "<%s> உறுப்புக்கு ஒரு \"பெயர்\" அல்லது \"ஐடி\" பண்புக்கூறு இல்லை"
+
+msgid "A <%s> element has already been specified"
+msgstr "ஒரு <%s> உறுப்பு ஏற்கனவே குறிப்பிடப்பட்டுள்ளது"
+
+msgid "A <text> element can't occur before a <tags> element"
+msgstr "<குறிச்சொற்கள்> உறுப்புக்கு முன் ஒரு <உரை> உறுப்பு ஏற்படாது"
+
+msgid "A file named \"%s\" already exists.  Do you want to replace it?"
+msgstr "\"%s\" என்ற பெயரில் ஏற்கனவே உள்ளது. அதை மாற்ற விரும்புகிறீர்களா?"
+
+msgid "A_t:"
+msgstr "A_t:"
+
+msgid "About %s"
+msgstr "சுமார் %s"
+
+msgctxt "Accelerator"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+msgctxt "Accelerator"
+msgid "Invalid"
+msgstr "செல்லுபடியாகாத"
+
+msgid "Add Cover Page"
+msgstr "கவர் பக்கத்தைச் சேர்க்கவும்"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "தற்போதைய கோப்புறையை புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "Add the folder '%s' to the bookmarks"
+msgstr "'%S' கோப்புறையை புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறைகளை புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "Adjusts the volume"
+msgstr "அளவை சரிசெய்கிறது"
+
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+msgid "After"
+msgstr "பிறகு"
+
+msgid "All sheets"
+msgstr "அனைத்து தாள்களும்"
+
+msgid "Amharic (EZ+)"
+msgstr "அம்ஆரிக் (டெட்+)"
+
+msgid "Amount of blue light in the color."
+msgstr "நிறத்தில் நீல ஒளியின் அளவு."
+
+msgid "Amount of green light in the color."
+msgstr "நிறத்தில் பச்சை விளக்கு அளவு."
+
+msgid "Amount of red light in the color."
+msgstr "நிறத்தில் சிவப்பு ஒளியின் அளவு."
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr ""
+"அநாமதேய குறிச்சொல் கண்டுபிடிக்கப்பட்டு குறிச்சொற்களை உருவாக்க முடியாது."
+
+msgid "Any Printer"
+msgstr "எந்த அச்சுப்பொறியும்"
+
+msgid "Application"
+msgstr "பயன்பாடு"
+
+msgid "Artwork by"
+msgstr "கலைப்படைப்பு"
+
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr "இந்த சூழலில் <%s> உறுப்புக்கு \"%s\" என்ற பண்புக்கூறு தவறானது"
+
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr ""
+"\"%s\" என்ற பண்புக்கூறு அதே <%s> உறுப்புக்கு இரண்டு முறை மீண்டும் மீண்டும் "
+"செய்யப்படுகிறது"
+
+msgid "Authentication"
+msgstr "ஏற்பு"
+
+msgid "Authentication is required on %s"
+msgstr "%S இல் ஏற்பு தேவை"
+
+msgid "Authentication is required to get a file from %s"
+msgstr "%S இலிருந்து ஒரு கோப்பைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "ஒரு வேலையின் பண்புகளைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "அச்சுப்பொறியின் பண்புகளைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to get attributes of job '%s'"
+msgstr "வேலைகளின் பண்புகளைப் பெற ஏற்பு தேவை '"
+
+msgid "Authentication is required to get attributes of printer %s"
+msgstr "அச்சுப்பொறி %s இன் பண்புகளைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to get default printer of %s"
+msgstr "%S இன் இயல்புநிலை அச்சுப்பொறியைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to get printers from %s"
+msgstr "%S இலிருந்து அச்சுப்பொறிகளைப் பெற ஏற்பு தேவை"
+
+msgid "Authentication is required to print a document on %s"
+msgstr "ஒரு ஆவணத்தை %s இல் அச்சிட ஏற்பு தேவை"
+
+msgid "Authentication is required to print document '%s' on printer %s"
+msgstr "அச்சுப்பொறி %s இல் ' %s' ஆவணத்தை அச்சிட ஏற்பு தேவை"
+
+msgid "Auto Select"
+msgstr "ஆட்டோ தேர்ந்தெடுக்கவும்"
+
+msgid "Axes"
+msgstr "அச்சுகள்"
+
+msgid "BMP image has bogus header data"
+msgstr "பி.எம்.பி படத்தில் போலி தலைப்பு தரவு உள்ளது"
+
+msgid "BMP image has unsupported header size"
+msgstr "பி.எம்.பி படத்தில் ஆதரிக்கப்படாத தலைப்பு அளவு உள்ளது"
+
+msgid "Bad code encountered"
+msgstr "மோசமான குறியீடு சந்தித்தது"
+
+msgid "Be_fore:"
+msgstr "Be_fore:"
+
+msgid "Before"
+msgstr "முன்"
+
+msgid "Billing Info"
+msgstr "பட்டியலிடல் செய்தி"
+
+msgid "Bits per channel of PNG image is invalid."
+msgstr "பி.என்.சி படத்தின் சேனலுக்கு பிட்கள் தவறானவை."
+
+msgid "Bits per channel of transformed PNG is not 8."
+msgstr "மாற்றப்பட்ட பி.என்.சியின் சேனலுக்கு பிட்கள் 8 இல்லை."
+
+msgid "Bookmark '%s' cannot be removed"
+msgstr "புத்தகக்குறியை '%s' அகற்ற முடியாது"
+
+msgid "Both \"id\" and \"name\" were found on the <%s> element"
+msgstr "\"ஐடி\" மற்றும் \"பெயர்\" இரண்டும் <%s> உறுப்பில் காணப்பட்டன"
+
+msgid "Bottom to top"
+msgstr "கீழே முதல்"
+
+msgid "Bottom to top, left to right"
+msgstr "கீழே முதல், இடமிருந்து வலமாக"
+
+msgid "Bottom to top, right to left"
+msgstr "கீழே முதல், வலமிருந்து இடமாக"
+
+msgid "Bourne Again Shell"
+msgstr "பார்ன் மீண்டும் செல்"
+
+msgid "Bourne Shell"
+msgstr "பார்ன் செல்"
+
+msgid "Brightness of the color."
+msgstr "நிறத்தின் ஒளி."
+
+msgid "CLASS"
+msgstr "வகுப்பு"
+
+msgid "COLORS"
+msgstr "நிறங்கள்"
+
+msgid "C_ollate"
+msgstr "கூட்டு"
+
+msgid "C_reate"
+msgstr "உருவாக்கு (_r)"
+
+msgid "C_redits"
+msgstr "C_redits"
+
+msgid "C_urrent Page"
+msgstr "C_urrent பக்கம்"
+
+msgid "Cache file created successfully.\n"
+msgstr "கேச் கோப்பு வெற்றிகரமாக உருவாக்கப்பட்டது.\n"
+
+msgid "Cannot allocate TGA header memory"
+msgstr "TGA தலைப்பு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate colormap entries"
+msgstr "COLORMAP உள்ளீடுகளை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate colormap structure"
+msgstr "COLORMAP கட்டமைப்பை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for IOBuffer data"
+msgstr "அயோபஃபர் தரவுக்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for IOBuffer struct"
+msgstr "Iobuffer struct க்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for TGA context struct"
+msgstr "டிசிஏ சூழல் கட்டமைப்பிற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for loading PNM image"
+msgstr "பிஎன்எம் படத்தை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate memory for loading XPM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியாது"
+
+msgid "Cannot allocate new pixbuf"
+msgstr "புதிய பிக்ச்புஃப் ஒதுக்க முடியாது"
+
+msgid "Cannot allocate temporary IOBuffer data"
+msgstr "தற்காலிக அயோபஃபர் தரவை ஒதுக்க முடியாது"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "கோப்புறையில் மாற்ற முடியாது, ஏனெனில் அது உள்ளக அல்ல"
+
+msgid "Cannot end process with pid %d: %s"
+msgstr "PID %D உடன் செயல்முறையை முடிக்க முடியாது: %s"
+
+msgid "Cannot kill process with pid %d. Operation is not implemented."
+msgstr ""
+"PID %d உடன் செயல்முறையை கொல்ல முடியாது. செயல்பாடு செயல்படுத்தப்படவில்லை."
+
+msgid "Cannot open display: %s"
+msgstr "காட்சியைத் திறக்க முடியாது: %s"
+
+msgid "Cannot read XPM colormap"
+msgstr "எக்ச்பிஎம் கோலர்மேப்பைப் படிக்க முடியாது"
+
+msgid "Cannot realloc IOBuffer data"
+msgstr "ஐஓபஃபர் தரவை மறுசீரமைக்க முடியாது"
+
+msgid "Caps Lock is on"
+msgstr "தொப்பிகள் பூட்டு இயக்கத்தில் உள்ளது"
+
+msgid "Cedilla"
+msgstr "சிடில்லா"
+
+msgid "Circular table entry in GIF file"
+msgstr "GIF கோப்பில் வட்ட அட்டவணை நுழைவு"
+
+msgid "Cl_ear"
+msgstr "அழி (_e)"
+
+msgid "Classified"
+msgstr "வகைப்படுத்தப்பட்டது"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"Eyedropper ஐக் சொடுக்கு செய்து, அந்த வண்ணத்தைத் தேர்ந்தெடுக்க உங்கள் "
+"திரையில் எங்கும் ஒரு வண்ணத்தைக் சொடுக்கு செய்க."
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry,"
+" drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr ""
+"தற்போதைய வண்ணமாக மாற்ற இந்த தட்டு உள்ளீட்டைக் சொடுக்கு செய்க. இந்த உள்ளீட்டை"
+" மாற்ற, ஒரு வண்ண ச்வாட்சை இங்கே இழுத்துச் செல்லுங்கள் அல்லது வலது சொடுக்கு "
+"செய்து \"வண்ணத்தை இங்கே சேமிக்கவும்\" என்பதைத் தேர்ந்தெடுக்கவும்."
+
+msgid "Co_nnect"
+msgstr "Co_nnect"
+
+msgid "Color"
+msgstr "நிறம்"
+
+msgid "Color Selection"
+msgstr "வண்ண தேர்வு"
+
+msgid "Color Wheel"
+msgstr "வண்ண சக்கரம்"
+
+msgid "Color _name:"
+msgstr "நிறம் _ பெயர்:"
+
+msgid "Command Line"
+msgstr "கட்டளை வரி"
+
+msgid "Complete, but not unique"
+msgstr "முழுமையான, ஆனால் தனித்துவமானது அல்ல"
+
+msgid "Completing..."
+msgstr "முடிக்கிறது ..."
+
+msgid "Compressed icons are not supported"
+msgstr "சுருக்கப்பட்ட சின்னங்கள் ஆதரிக்கப்படவில்லை"
+
+msgid "Confidential"
+msgstr "ரகசியமானது"
+
+msgid "Connect _anonymously"
+msgstr "_ அநாமதேயமாக இணைக்கவும்"
+
+msgid "Connect as u_ser:"
+msgstr "பயனராக இணைக்கவும்:"
+
+msgid "Convert to PS level 1"
+msgstr "PS நிலை 1 ஆக மாற்றவும்"
+
+msgid "Convert to PS level 2"
+msgstr "PS நிலை 2 க்கு மாற்றவும்"
+
+msgid "Copie_s:"
+msgstr "நகல்_எச்:"
+
+msgid "Copies"
+msgstr "நகல்கள்"
+
+msgid "Copy URL"
+msgstr "முகவரி ஐ நகலெடுக்கவும்"
+
+msgid "Copy _Link Address"
+msgstr "_ லிங்க் முகவரியை நகலெடுக்கவும்"
+
+msgid "Copy _Location"
+msgstr "நகல் _ இடம்"
+
+msgid "Could not add a bookmark"
+msgstr "ஒரு புக்மார்க்கைச் சேர்க்க முடியவில்லை"
+
+msgid "Could not allocate memory: %s"
+msgstr "நினைவகத்தை ஒதுக்க முடியவில்லை: %s"
+
+msgid "Could not clear list"
+msgstr "பட்டியலை அழிக்க முடியவில்லை"
+
+msgid "Could not create stream: %s"
+msgstr "ச்ட்ரீமை உருவாக்க முடியவில்லை: %s"
+
+msgid "Could not decode ICNS file"
+msgstr "ஐ.சி.என்.எச் கோப்பை டிகோட் செய்ய முடியவில்லை"
+
+msgid ""
+"Could not find the icon '%s'. The '%s' theme\n"
+"was not found either, perhaps you need to install it.\n"
+"You can get a copy from:\n"
+"\t%s"
+msgstr ""
+"'%S' ஐகானைக் கண்டுபிடிக்க முடியவில்லை. '%s' கருப்பொருள்\n"
+" ஒன்றும் கிடைக்கவில்லை, ஒருவேளை நீங்கள் அதை நிறுவ வேண்டும்.\n"
+" இதிலிருந்து ஒரு நகலைப் பெறலாம்:\n"
+" %s"
+
+msgid "Could not get image height (bad TIFF file)"
+msgstr "பட உயரத்தைப் பெற முடியவில்லை (மோசமான TIFF கோப்பு)"
+
+msgid "Could not get image width (bad TIFF file)"
+msgstr "பட அகலத்தைப் பெற முடியவில்லை (மோசமான TIFF கோப்பு)"
+
+msgid "Could not get information for file '%s': %s"
+msgstr "' %S' கோப்புக்கான தகவல்களைப் பெற முடியவில்லை: %s"
+
+msgid "Could not mount %s"
+msgstr "%s ஏற்ற முடியவில்லை"
+
+msgid "Could not read from stream: %s"
+msgstr "ச்ட்ரீமில் இருந்து படிக்க முடியவில்லை: %s"
+
+msgid "Could not remove bookmark"
+msgstr "புத்தகக்குறியை அகற்ற முடியவில்லை"
+
+msgid "Could not remove item"
+msgstr "உருப்படியை அகற்ற முடியவில்லை"
+
+msgid "Could not rename %s back to %s: %s.\n"
+msgstr "%S ஐ %s க்கு மறுபெயரிட முடியவில்லை: %s.\n"
+
+msgid "Could not rename %s to %s: %s\n"
+msgstr "%S க்கு %s க்கு மறுபெயரிட முடியவில்லை: %s\n"
+
+msgid "Could not rename %s to %s: %s, removing %s then.\n"
+msgstr "%S க்கு %s க்கு மறுபெயரிட முடியவில்லை: %s, பின்னர் %s ஐ நீக்குகிறது.\n"
+
+msgid "Could not retrieve information about the file"
+msgstr "கோப்பைப் பற்றிய தகவல்களை மீட்டெடுக்க முடியவில்லை"
+
+msgid "Could not seek stream: %s"
+msgstr "ச்ட்ரீம் தேட முடியவில்லை: %s"
+
+msgid "Could not select file"
+msgstr "கோப்பைத் தேர்ந்தெடுக்க முடியவில்லை"
+
+msgid "Could not send the search request"
+msgstr "தேடல் கோரிக்கையை அனுப்ப முடியவில்லை"
+
+msgid "Could not show link"
+msgstr "இணைப்பைக் காட்ட முடியவில்லை"
+
+msgid "Could not start the search process"
+msgstr "தேடல் செயல்முறையைத் தொடங்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for color profile"
+msgstr "வண்ண சுயவிவரத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for context buffer"
+msgstr "சூழல் இடையகத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for header"
+msgstr "தலைப்புக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for line data"
+msgstr "வரி தரவுகளுக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG கோப்பை ஏற்றுவதற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for paletted data"
+msgstr "தட்டப்பட்ட தரவுகளுக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for saving BMP file"
+msgstr "BMP கோப்பைச் சேமிக்க நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory for stream"
+msgstr "ச்ட்ரீமுக்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't allocate memory to buffer image data"
+msgstr "படத் தரவை இடையகத்திற்கு நினைவகத்தை ஒதுக்க முடியவில்லை"
+
+msgid "Couldn't convert filename"
+msgstr "கோப்பு பெயரை மாற்ற முடியவில்லை"
+
+msgid "Couldn't create new pixbuf"
+msgstr "புதிய பிக்ச்புஃப் உருவாக்க முடியவில்லை"
+
+msgid "Couldn't decode image"
+msgstr "படத்தை டிகோட் செய்ய முடியவில்லை"
+
+msgid "Couldn't load bitmap"
+msgstr "பிட்மேப்பை ஏற்ற முடியவில்லை"
+
+msgid "Couldn't load metafile"
+msgstr "மெட்டாஃபைலை ஏற்ற முடியவில்லை"
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "'%S' கோப்புக்கான பட கோப்பு வடிவமைப்பை அடையாளம் காண முடியவில்லை"
+
+msgid "Couldn't save"
+msgstr "சேமிக்க முடியவில்லை"
+
+msgid "Couldn't save the rest"
+msgstr "மீதமுள்ளவற்றை காப்பாற்ற முடியவில்லை"
+
+msgid "Couldn't write to BMP file"
+msgstr "பி.எம்.பி கோப்பிற்கு எழுத முடியவில்லை"
+
+msgid "Couldn't write to TIFF file"
+msgstr "TIFF கோப்பிற்கு எழுத முடியவில்லை"
+
+msgid "Create Fo_lder"
+msgstr "கோப்புறையை உருவாக்கவும்"
+
+msgid "Create in _folder:"
+msgstr "_ ஃபோல்டரில் உருவாக்கவும்:"
+
+msgid "Credits"
+msgstr "வரவு"
+
+msgid "Cursor hotspot outside image"
+msgstr "படத்திற்கு வெளியே கர்சர் ஆட்ச்பாட்"
+
+msgid "Custom %sx%s"
+msgstr "தனிப்பயன் %sx %s"
+
+msgid "Custom Size %d"
+msgstr "தனிப்பயன் அளவு %d"
+
+msgid "Custom size"
+msgstr "தனிப்பயன் அளவு"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "சிரிலிக் (மொழிபெயர்ப்பு)"
+
+msgid "DISPLAY"
+msgstr "காட்சி"
+
+msgid "De_lete File"
+msgstr "கோப்பை நீக்கு"
+
+msgid "Decreases the volume"
+msgstr "அளவைக் குறைக்கிறது"
+
+msgid "Delete File"
+msgstr "கோப்பை அழி"
+
+msgid "Desktop"
+msgstr "டெச்க்டாப்"
+
+msgid "Didn't get all lines of PCX image"
+msgstr "பிசிஎக்ச் படத்தின் அனைத்து வரிகளும் கிடைக்கவில்லை"
+
+msgid "Dimensions of TIFF image too large"
+msgstr "TIFF படத்தின் பரிமாணங்கள் மிகப் பெரியவை"
+
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+msgid "Do use the Wintab API [default]"
+msgstr "விண்டாப் பநிஇ [இயல்புநிலை] பயன்படுத்தவும்"
+
+msgid "Documented by"
+msgstr "ஆவணப்படுத்தியது"
+
+msgid "Don't batch GDI requests"
+msgstr "சி.டி.ஐ கோரிக்கைகளை தொகுக்க வேண்டாம்"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "Index.theme இன் இருப்பை சரிபார்க்க வேண்டாம்"
+
+msgid "Don't include image data in the cache"
+msgstr "தற்காலிக சேமிப்பில் படத் தரவை சேர்க்க வேண்டாம்"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "டேப்லெட் ஆதரவுக்கு விண்டாப் பநிஇ பயன்படுத்த வேண்டாம்"
+
+msgid "Down Path"
+msgstr "கீழ் பாதை"
+
+msgid "Duplicate object id '%s' on line %d (previously on line %d)"
+msgstr "வரி %d இல் நகல் பொருள் ஐடி ' %s' (முன்பு வரி %d இல்)"
+
+msgid "Element <%s> is not allowed below <%s>"
+msgstr "உறுப்பு <%s> <%s> க்கு கீழே அனுமதிக்கப்படவில்லை"
+
+msgid "Embed GhostScript fonts only"
+msgstr "கோச்ட்ச்கிரிப்ட் எழுத்துருக்களை மட்டும் உட்பொதிக்கவும்"
+
+msgid "Empty"
+msgstr "காலி"
+
+msgid "Error creating folder '%s': %s"
+msgstr "' %S' கோப்புறையை உருவாக்கும் பிழை: %s"
+
+msgid "Error creating print preview"
+msgstr "அச்சு முன்னோட்டத்தை உருவாக்கும் பிழை"
+
+msgid "Error deleting file '%s': %s"
+msgstr "' %S' கோப்பை நீக்குவதில் பிழை: %s"
+
+msgid "Error from StartDoc"
+msgstr "StartDoc இலிருந்து பிழை"
+
+msgid "Error interpreting JPEG image file (%s)"
+msgstr "JPEG படக் கோப்பை (%s) விளக்குவதில் பிழை"
+
+msgid "Error launching preview"
+msgstr "முன்னோட்டம் தொடங்குவதில் பிழை"
+
+msgid "Error loading icon: %s"
+msgstr "படவுரு ஏற்றுதல்: %s"
+
+msgid "Error parsing option --gdk-debug"
+msgstr "பிழை பாகுபடுத்தல் விருப்பம்-சி.டி.கே-டெபக்"
+
+msgid "Error parsing option --gdk-no-debug"
+msgstr "பிழை பாகுபடுத்தல் விருப்பம்-சி.டி.கே-நோ-டெபக்"
+
+msgid "Error printing"
+msgstr "பிழை அச்சிடுதல்"
+
+msgid "Error reading ICNS image: %s"
+msgstr "ஐகான்கள் படங்களைப் படிப்பது பிழை"
+
+msgid "Error renaming file \"%s\" to \"%s\": %s"
+msgstr "\"%S\" ஐ \"%s\" க்கு மறுபெயரிடுவது பிழை:%s"
+
+msgid "Error renaming file \"%s\": %s"
+msgstr "\" %S\" ஐ மறுபெயரிடுவது பிழை: %s"
+
+msgid "Error renaming file to \"%s\": %s"
+msgstr "பிழையை \" %s\" க்கு மறுபெயரிடுவது: %s"
+
+msgid "Error writing to image file: %s"
+msgstr "படக் கோப்பில் எழுதுவது பிழை: %s"
+
+msgid "Error writing to image stream"
+msgstr "பட ச்ட்ரீமுக்கு எழுதுதல் பிழை"
+
+msgid "Even sheets"
+msgstr "தாள்கள் கூட"
+
+msgid "Excess data in file"
+msgstr "கோப்பில் அதிகப்படியான தரவு"
+
+msgid "FLAGS"
+msgstr "கொடிகள்"
+
+msgid ""
+"Failed to close '%s' while writing image, all data may not have been saved: "
+"%s"
+msgstr ""
+"படத்தை எழுதும் போது ' %s' ஐ மூடுவதில் தோல்வி, எல்லா தரவுகளும் "
+"சேமிக்கப்பட்டிருக்காது: %s"
+
+msgid "Failed to load RGB data from TIFF file"
+msgstr "TIFF கோப்பிலிருந்து RGB தரவை ஏற்றுவதில் தோல்வி"
+
+msgid "Failed to load TIFF image"
+msgstr "TIFF படத்தை ஏற்றுவதில் தோல்வி"
+
+msgid ""
+"Failed to load animation '%s': reason not known, probably a corrupt "
+"animation file"
+msgstr ""
+"அனிமேசனை ஏற்றுவதில் தோல்வி '%s': காரணம் தெரியவில்லை, அநேகமாக ஒரு ஊழல் "
+"அனிமேசன் கோப்பு"
+
+msgid "Failed to load icon"
+msgstr "ஐகானை ஏற்றுவதில் தோல்வி"
+
+msgid "Failed to load image '%s': %s"
+msgstr "படத்தை ஏற்றுவதில் தோல்வி ' %s': %s"
+
+msgid ""
+"Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr ""
+"படத்தை ஏற்றுவதில் தோல்வி '%s': காரணம் தெரியவில்லை, அநேகமாக ஊழல் நிறைந்த படக்"
+" கோப்பு"
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "எழுதுவதற்கு ' %s' திறக்கத் தவறிவிட்டது: %s"
+
+msgid "Failed to open TIFF image"
+msgstr "TIFF படத்தைத் திறக்கத் தவறிவிட்டது"
+
+msgid "Failed to open file %s : %s\n"
+msgstr "%S: %s ஐ திறக்கத் தவறிவிட்டது\n"
+
+msgid "Failed to open file '%s': %s"
+msgstr "கோப்பைத் திறக்கத் தவறிவிட்டது ' %s': %s"
+
+msgid "Failed to open temporary file"
+msgstr "தற்காலிக கோப்பைத் திறக்கத் தவறிவிட்டது"
+
+msgid "Failed to read from temporary file"
+msgstr "தற்காலிக கோப்பிலிருந்து படிக்கத் தவறிவிட்டது"
+
+msgid "Failed to rewrite header\n"
+msgstr "தலைப்பை மீண்டும் எழுதுவதில் தோல்வி\n"
+
+msgid "Failed to save TIFF image"
+msgstr "TIFF படத்தை சேமிப்பதில் தோல்வி"
+
+msgid "Failed to write TIFF data"
+msgstr "TIFF தரவு எழுதத் தவறிவிட்டது"
+
+msgid "Failed to write cache file: %s\n"
+msgstr "கேச் கோப்பை எழுதுவதில் தோல்வி: %s\n"
+
+msgid "Failed to write folder index\n"
+msgstr "கோப்புறை குறியீட்டை எழுதுவதில் தோல்வி\n"
+
+msgid "Failed to write hash table\n"
+msgstr "ஆச் அட்டவணை எழுதத் தவறிவிட்டது\n"
+
+msgid "Failed to write header\n"
+msgstr "தலைப்பு எழுதத் தவறிவிட்டது\n"
+
+msgid "Failed to write to temporary file when loading XBM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றும்போது தற்காலிக கோப்பில் எழுதத் தவறிவிட்டது"
+
+msgid "Failed to write to temporary file when loading XPM image"
+msgstr "எக்ச்பிஎம் படத்தை ஏற்றும்போது தற்காலிக கோப்பில் எழுதத் தவறிவிட்டது"
+
+msgid "Failure reading GIF: %s"
+msgstr "Gifs படிக்கும் தோல்வி"
+
+msgid "Fatal error in PNG image file: %s"
+msgstr "பி.என்.சி படக் கோப்பில் அபாயகரமான பிழை: %s"
+
+msgid "Fatal error reading PNG image file"
+msgstr "பி.என்.சி படக் கோப்பைப் படிப்பது அபாயகரமான பிழை"
+
+msgid "Fatal error reading PNG image file: %s"
+msgstr "பி.என்.சி படக் கோப்பைப் படித்தல் அபாயகரமான பிழை: %s"
+
+msgid "File"
+msgstr "கோப்பு"
+
+msgid "File System"
+msgstr "கோப்பு முறைமை"
+
+msgid "File System Root"
+msgstr "கோப்பு முறைமை ரூட்"
+
+msgid "File does not appear to be a GIF file"
+msgstr "கோப்பு GIF கோப்பாகத் தெரியவில்லை"
+
+msgid "File not found: %s\n"
+msgstr "கோப்பு கிடைக்கவில்லை: %s\n"
+
+msgid "Files"
+msgstr "கோப்புகள்"
+
+msgid "Finishing"
+msgstr "முடித்தல்"
+
+msgid "Fol_ders"
+msgstr "Fol_ders"
+
+msgid "Folder unreadable: %s"
+msgstr "கோப்புறை படிக்க முடியாதது: %s"
+
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+msgid "Font"
+msgstr "எழுத்துரு"
+
+msgid "Font Selection"
+msgstr "எழுத்துரு தேர்வு"
+
+msgid "For portable documents"
+msgstr "சிறிய ஆவணங்களுக்கு"
+
+msgid "Forget password _immediately"
+msgstr "கடவுச்சொல்லை உடனடியாக மறந்துவிட்டேன்"
+
+msgid "Full Volume"
+msgstr "முழு அளவு"
+
+msgid "GIF file was missing some data (perhaps it was truncated somehow?)"
+msgstr ""
+"GIF கோப்பு சில தரவைக் காணவில்லை (ஒருவேளை அது எப்படியாவது துண்டிக்கப்பட்டதா?)"
+
+msgid ""
+"GIF image has no global colormap, and a frame inside it has no local "
+"colormap."
+msgstr ""
+"GIF படத்திற்கு உலகளாவிய வண்ணமயமாகம் இல்லை, அதற்குள் ஒரு சட்டகத்திற்கு உள்ளக "
+"வண்ணமயமாக்கல் இல்லை."
+
+msgid "GIF image is corrupt (incorrect LZW compression)"
+msgstr "GIF படம் ஊழல் நிறைந்தது (தவறான LZW சுருக்கம்)"
+
+msgid "GIF image loader cannot understand this image."
+msgstr "GIF பட ஏற்றி இந்த படத்தை புரிந்து கொள்ள முடியாது."
+
+msgid "GIF image was truncated or incomplete."
+msgstr "GIF படம் துண்டிக்கப்பட்டது அல்லது முழுமையடையாது."
+
+msgid "GTK+ Options"
+msgstr "Gtk+ விருப்பங்கள்"
+
+msgid "GTK+ debugging flags to set"
+msgstr "சி.டி.கே+ பிழைத்திருத்த கொடிகளை அமைக்க"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "சி.டி.கே+ பிழைத்திருத்த கொடிகளை அமைக்கவும்"
+
+msgid "Gamma"
+msgstr "காமா"
+
+msgid "Gdk debugging flags to set"
+msgstr "சி.டி.கே பிழைத்திருத்த கொடிகளை அமைக்க"
+
+msgid "Gdk debugging flags to unset"
+msgstr "சி.டி.கே."
+
+msgid "General"
+msgstr "பொது"
+
+msgid "Getting printer information..."
+msgstr "அச்சுப்பொறி தகவலைப் பெறுதல் ..."
+
+msgid "GhostScript pre-filtering"
+msgstr "கோச்ட்ச்கிரிப்ட் முன் வடிகட்டுதல்"
+
+msgid "High"
+msgstr "உயர்ந்த"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "வேலையை வெளிப்படையாக வெளியிடும் வரை வைத்திருங்கள்"
+
+msgid "IPA"
+msgstr "ஐபிஏ"
+
+msgid "Icon '%s' not present in theme"
+msgstr "படவுரு '%s' கருப்பொருளில் இல்லை"
+
+msgid "Icon has zero height"
+msgstr "ஐகானுக்கு சுழிய உயரம் உள்ளது"
+
+msgid "Icon has zero width"
+msgstr "ஐகானுக்கு சுழிய அகலம் உள்ளது"
+
+msgid "Image Quality"
+msgstr "பட தகுதி"
+
+msgid "Image file '%s' contains no data"
+msgstr "படக் கோப்பில் '%s' தரவு இல்லை"
+
+msgid "Image format unknown"
+msgstr "பட வடிவம் தெரியவில்லை"
+
+msgid "Image has invalid width and/or height"
+msgstr "படத்திற்கு தவறான அகலம் மற்றும்/அல்லது உயரம் உள்ளது"
+
+msgid "Image has unsupported bpp"
+msgstr "படம் ஆதரிக்கப்படாத பிபிபி"
+
+msgid "Image has unsupported number of %d-bit planes"
+msgstr "படத்தில் ஆதரிக்கப்படாத %d-பிட் விமானங்கள் உள்ளன"
+
+msgid "Image has zero height"
+msgstr "படம் சுழிய உயரத்தைக் கொண்டுள்ளது"
+
+msgid "Image has zero width"
+msgstr "படத்திற்கு சுழிய அகலம் உள்ளது"
+
+msgid "Image header corrupt"
+msgstr "பட தலைப்பு ஊழல்"
+
+msgid "Image pixel data corrupt"
+msgstr "பட படப்புள்ளி தரவு ஊழல்"
+
+msgid "Image too large to be saved as ICO"
+msgstr "படம் ஐ.சி.ஓ என சேமிக்க முடியாத அளவுக்கு பெரியது"
+
+msgid "Image type '%s' is not supported"
+msgstr "பட வகை '%s' ஆதரிக்கப்படவில்லை"
+
+msgid "Image type currently not supported"
+msgstr "பட வகை தற்போது ஆதரிக்கப்படவில்லை"
+
+msgid ""
+"Image-loading module %s does not export the proper interface; perhaps it's "
+"from a different GTK version?"
+msgstr ""
+"பட-ஏற்றுதல் தொகுதி %s சரியான இடைமுகத்தை ஏற்றுமதி செய்யாது; ஒருவேளை இது வேறு "
+"சி.டி.கே பதிப்பிலிருந்து வந்ததா?"
+
+msgid "Incomplete hostname; end it with '/'"
+msgstr "முழுமையற்ற ஓச்ட்பெயர்; அதை '/' உடன் முடிக்கவும்"
+
+msgid "Increases the volume"
+msgstr "அளவை அதிகரிக்கிறது"
+
+msgid "Incremental loading of image type '%s' is not supported"
+msgstr "பட வகை '%s' இன் அதிகரிக்கும் ஏற்றுதல் ஆதரிக்கப்படவில்லை"
+
+msgid "Input"
+msgstr "உள்ளீடு"
+
+msgid "Input _Methods"
+msgstr "உள்ளீடு _methods"
+
+msgid "Insufficient memory to load PNG file"
+msgstr "PNG கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load PNM context struct"
+msgstr "PNM சூழல் கட்டமைப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load PNM file"
+msgstr "PNM கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid "Insufficient memory to load XBM image file"
+msgstr "எக்ச்பிஎம் படக் கோப்பை ஏற்ற போதுமான நினைவகம்"
+
+msgid ""
+"Insufficient memory to load image, try exiting some applications to free "
+"memory"
+msgstr ""
+"படத்தை ஏற்றுவதற்கு போதுமான நினைவகம் இல்லை, இலவச நினைவகத்திற்கு சில "
+"பயன்பாடுகளிலிருந்து வெளியேற முயற்சிக்கவும்"
+
+msgid "Insufficient memory to open JPEG 2000 file"
+msgstr "JPEG 2000 கோப்பைத் திறக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to open TIFF file"
+msgstr "TIFF கோப்பைத் திறக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to save image into a buffer"
+msgstr "படத்தை ஒரு இடையகத்தில் சேமிக்க போதுமான நினைவகம்"
+
+msgid "Insufficient memory to save image to callback"
+msgstr "படத்தை அழைப்புக்கு சேமிக்க போதுமான நினைவகம் இல்லை"
+
+msgid ""
+"Insufficient memory to store a %ld by %ld image; try exiting some "
+"applications to reduce memory usage"
+msgstr ""
+"%LD ஐ %LD படத்தால் சேமிக்க போதுமான நினைவகம்; நினைவக பயன்பாட்டைக் குறைக்க சில"
+" பயன்பாடுகளிலிருந்து வெளியேற முயற்சிக்கவும்"
+
+msgid "Internal error in the GIF loader (%s)"
+msgstr "GIF ஏற்றி (%s) இல் உள் பிழை"
+
+msgid ""
+"Internal error: Image loader module '%s' failed to complete an operation, "
+"but didn't give a reason for the failure"
+msgstr ""
+"உள் பிழை: பட ஏற்றி தொகுதி '%s' ஒரு செயல்பாட்டை முடிக்கத் தவறிவிட்டன, ஆனால் "
+"தோல்விக்கு ஒரு காரணத்தைக் கூறவில்லை"
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Inuuktitut (மொழிபெயர்ப்பு)"
+
+msgid "Invalid URI"
+msgstr "தவறான யூரி"
+
+msgid "Invalid UTF-8"
+msgstr "தவறான UTF-8"
+
+msgid "Invalid XBM file"
+msgstr "தவறான எக்ச்பிஎம் கோப்பு"
+
+msgid "Invalid XPM header"
+msgstr "தவறான எக்ச்பிஎம் தலைப்பு"
+
+msgid "Invalid argument to CreateDC"
+msgstr "உருவாக்கியதற்கு தவறான உரையாடல்"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "PrintDlgex க்கு தவறான உரையாடல்"
+
+msgid "Invalid file name"
+msgstr "தவறான கோப்பு பெயர்"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "PrintDlgex க்கு தவறான கைப்பிடி"
+
+msgid "Invalid header in animation"
+msgstr "அனிமேசனில் தவறான தலைப்பு"
+
+msgid "Invalid header in icon"
+msgstr "ஐகானில் தவறான தலைப்பு"
+
+msgid "Invalid path"
+msgstr "தவறான பாதை"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "PrintDlgex க்கு தவறான சுட்டிக்காட்டி"
+
+msgid "Invalid root element: '%s'"
+msgstr "தவறான ரூட் உறுப்பு: '%s'"
+
+msgid "Invalid type function on line %d: '%s'"
+msgstr "வரி %d இல் தவறான வகை செயல்பாடு: ' %s'"
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%d' is not allowed."
+msgstr ""
+"JPEG தகுதி 0 மற்றும் 100 க்கு இடையில் ஒரு மதிப்பாக இருக்க வேண்டும்; மதிப்பு "
+"'%d' அனுமதிக்கப்படவில்லை."
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%s' could not be "
+"parsed."
+msgstr ""
+"JPEG தகுதி 0 மற்றும் 100 க்கு இடையில் ஒரு மதிப்பாக இருக்க வேண்டும்; மதிப்பை "
+"'%s' பாகுபடுத்த முடியவில்லை."
+
+msgid "Job"
+msgstr "பணி"
+
+msgid "Job Details"
+msgstr "வேலை விவரங்கள்"
+
+msgid "Job Priority"
+msgstr "வேலை முன்னுரிமை"
+
+msgid "Keys"
+msgstr "விசைகள்"
+
+msgid "Keys for PNG text chunks must be ASCII characters."
+msgstr ""
+"பி.என்.சி உரை துகள்களுக்கான விசைகள் தபஅஇகு எழுத்துகளாக இருக்க வேண்டும்."
+
+msgid ""
+"Keys for PNG text chunks must have at least 1 and at most 79 characters."
+msgstr ""
+"பி.என்.சி உரை துகள்களுக்கான விசைகள் குறைந்தது 1 மற்றும் அதிகபட்சம் 79 "
+"எழுத்துக்களைக் கொண்டிருக்க வேண்டும்."
+
+msgid "LRE Left-to-right _embedding"
+msgstr "Lre இடமிருந்து வலமாக _embedding"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM _LEFT-TO-RIGHT MARK"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO இடமிருந்து வலமாக மேலெழுது (_O)"
+
+msgid "Landscape"
+msgstr "நிலப்பரப்பு"
+
+msgid "Layout"
+msgstr "மனையமைவு"
+
+msgid "Left to right"
+msgstr "இடமிருந்து வலமாக"
+
+msgid "Left to right, bottom to top"
+msgstr "இடமிருந்து வலமாக, கீழே முதல்"
+
+msgid "Left to right, top to bottom"
+msgstr "இடமிருந்து வலமாக, மேலிருந்து கீழாக"
+
+msgid "License"
+msgstr "உரிமம்"
+
+msgid "Load additional GTK+ modules"
+msgstr "கூடுதல் சி.டி.கே+ தொகுதிகளை ஏற்றவும்"
+
+msgid "Location"
+msgstr "இடம்"
+
+msgid "Long Edge (Standard)"
+msgstr "நீண்ட விளிம்பு (நிலையான)"
+
+msgid "Low"
+msgstr "குறைந்த"
+
+msgid "MODULES"
+msgstr "தொகுதிகள்"
+
+msgid "Make X calls synchronous"
+msgstr "ஃச் அழைப்புகளை ஒத்திசைக்கவும்"
+
+msgid "Make all warnings fatal"
+msgstr "அனைத்து எச்சரிக்கைகளையும் அபாயகரமானதாக்குங்கள்"
+
+msgid "Malformed chunk in animation"
+msgstr "அனிமேசனில் தவறாக துண்டுகள்"
+
+msgid "Manage Custom Sizes"
+msgstr "தனிப்பயன் அளவுகளை நிர்வகிக்கவும்"
+
+msgid "Manage Custom Sizes..."
+msgstr "தனிப்பயன் அளவுகளை நிர்வகிக்கவும் ..."
+
+msgid "Margins from Printer..."
+msgstr "அச்சுப்பொறியில் இருந்து விளிம்புகள் ..."
+
+msgid ""
+"Margins:\n"
+" Left: %s %s\n"
+" Right: %s %s\n"
+" Top: %s %s\n"
+" Bottom: %s %s"
+msgstr ""
+"விளிம்புகள்:\n"
+" இடது: %s %s\n"
+" வலது: %s %s\n"
+" மேல்: %s %s\n"
+" கீழே: %s %s"
+
+msgid "Maximum color value in PNM file is 0"
+msgstr "PNM கோப்பில் அதிகபட்ச வண்ண மதிப்பு 0 ஆகும்"
+
+msgid "Maximum color value in PNM file is too large"
+msgstr "பி.என்.எம் கோப்பில் அதிகபட்ச வண்ண மதிப்பு மிகப் பெரியது"
+
+msgid "Medium"
+msgstr "சராசரி"
+
+msgid "Miscellaneous"
+msgstr "மற்றவை"
+
+msgid "Modified"
+msgstr "மாற்றியமைக்கப்பட்ட"
+
+msgid "Multipress"
+msgstr "மல்டிபிரச்"
+
+msgid "Muted"
+msgstr "முடக்கிய"
+
+msgid "NAME"
+msgstr "பெயர்"
+
+msgid "Name"
+msgstr "பெயர்"
+
+msgid "Name too long"
+msgstr "பெயர் மிக நீளமானது"
+
+msgid "Need user intervention"
+msgstr "பயனர் தலையீடு தேவை"
+
+msgid "New Folder"
+msgstr "புதிய கோப்புறை"
+
+msgid "New accelerator..."
+msgstr "புதிய முடுக்கி ..."
+
+msgid "No XPM header found"
+msgstr "எக்ச்பிஎம் தலைப்பு இல்லை"
+
+msgid "No deserialize function found for format %s"
+msgstr "வடிவமைப்பிற்கு %s வடிவத்திற்கு கிடைக்கவில்லை"
+
+msgid "No extended input devices"
+msgstr "நீட்டிக்கப்பட்ட உள்ளீட்டு சாதனங்கள் இல்லை"
+
+msgid "No item for URI '%s' found"
+msgstr "யூரி '%s' க்கான எந்த பொருளும் கிடைக்கவில்லை"
+
+msgid "No items found"
+msgstr "உருப்படிகள் எதுவும் கிடைக்கவில்லை"
+
+msgid "No match"
+msgstr "பொருந்தவில்லை"
+
+msgid "No palette found at end of PCX data"
+msgstr "பிசிஎக்ச் தரவின் முடிவில் எந்த தட்டு கிடைக்கவில்லை"
+
+msgid "No pre-filtering"
+msgstr "முன் வடிகட்டுதல் இல்லை"
+
+msgid "No printer found"
+msgstr "அச்சுப்பொறி எதுவும் கிடைக்கவில்லை"
+
+msgid "No recently used resource found with URI `%s'"
+msgstr ""
+"யூரி `%S 'உடன் அண்மைக் காலத்தில் பயன்படுத்தப்பட்ட வளங்கள் எதுவும் இல்லை"
+
+msgid ""
+"No theme index file in '%s'.\n"
+"If you really want to create an icon cache here, use --ignore-theme-index.\n"
+msgstr ""
+"'%S' இல் கருப்பொருள் குறியீட்டு கோப்பு இல்லை.\n"
+" நீங்கள் இங்கே ஒரு படவுரு கேச் உருவாக்க விரும்பினால், --ignore-theme-index ஐப் பயன்படுத்தவும்.\n"
+
+msgid "No theme index file.\n"
+msgstr "கருப்பொருள் குறியீட்டு கோப்பு இல்லை.\n"
+
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+msgid "Not a valid icon cache: %s\n"
+msgstr "செல்லுபடியாகும் படவுரு கேச் அல்ல: %s\n"
+
+msgid "Not a valid page setup file"
+msgstr "செல்லுபடியாகும் பக்க அமைவு கோப்பு அல்ல"
+
+msgid "Not available"
+msgstr "கிடைக்கவில்லை"
+
+msgid "Not enough free memory"
+msgstr "போதுமான இலவச நினைவகம் இல்லை"
+
+msgid "Not enough memory to composite a frame in GIF file"
+msgstr "GIF கோப்பில் ஒரு சட்டகத்தை கலக்க போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load GIF file"
+msgstr "GIF கோப்பை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load ICO file"
+msgstr "ஐ.சி.ஓ கோப்பை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load RAS image"
+msgstr "RAS படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load animation"
+msgstr "அனிமேசனை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load bitmap image"
+msgstr "பிட்மேப் படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load icon"
+msgstr "ஐகானை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Not enough memory to load image"
+msgstr "படத்தை ஏற்ற போதுமான நினைவகம் இல்லை"
+
+msgid "Odd sheets"
+msgstr "ஒற்றைப்படை தாள்கள்"
+
+msgid "On _hold"
+msgstr "_ ஓல்ட்"
+
+msgid "One Sided"
+msgstr "ஒரு பக்க"
+
+msgid "Only local files may be selected"
+msgstr "உள்ளக கோப்புகள் மட்டுமே தேர்ந்தெடுக்கப்படலாம்"
+
+msgid "Op_acity:"
+msgstr "On_asity:"
+
+msgid "Open '%s'"
+msgstr "'%s'"
+
+msgid "Opening %s"
+msgstr "திறந்த %s"
+
+msgid "Or_ientation:"
+msgstr "நோக்குநிலை:"
+
+msgid "Other..."
+msgstr "மற்றவை ..."
+
+msgid "Out of paper"
+msgstr "காகிதத்திற்கு வெளியே"
+
+msgid "Outermost element in text must be <text_view_markup> not <%s>"
+msgstr "உரையில் வெளிப்புற உறுப்பு <text_view_markup> <%s> ஆக இருக்க வேண்டும்"
+
+msgid "Output Tray"
+msgstr "வெளியீட்டு தட்டு"
+
+msgid "Output a C header file"
+msgstr "ஒரு சி தலைப்பு கோப்பு வெளியீடு"
+
+msgid "Output t_ray:"
+msgstr "வெளியீடு T_RAY:"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr ""
+"புதுப்பித்த நிலையில் இருந்தாலும், ஏற்கனவே உள்ள தற்காலிக சேமிப்பை மேலெழுதவும்"
+
+msgid "PDF"
+msgstr "பி.டி.எஃப்"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF _POP திசை வடிவமைப்பு"
+
+msgid ""
+"PNG compression level must be a value between 0 and 9; value '%d' is not "
+"allowed."
+msgstr ""
+"பி.என்.சி சுருக்க நிலை 0 மற்றும் 9 க்கு இடையில் ஒரு மதிப்பாக இருக்க "
+"வேண்டும்; மதிப்பு '%d' அனுமதிக்கப்படவில்லை."
+
+msgid ""
+"PNG compression level must be a value between 0 and 9; value '%s' could not "
+"be parsed."
+msgstr ""
+"பி.என்.சி சுருக்க நிலை 0 மற்றும் 9 க்கு இடையில் ஒரு மதிப்பாக இருக்க "
+"வேண்டும்; மதிப்பை '%s' பாகுபடுத்த முடியவில்லை."
+
+msgid "PNM file has an image height of 0"
+msgstr "பிஎன்எம் கோப்பில் படத்தின் உயரம் 0 உள்ளது"
+
+msgid "PNM file has an image width of 0"
+msgstr "பிஎன்எம் கோப்பில் 0 இன் பட அகலம் உள்ளது"
+
+msgid "PNM file has an incorrect initial byte"
+msgstr "பிஎன்எம் கோப்பில் தவறான ஆரம்ப பைட் உள்ளது"
+
+msgid "PNM file is not in a recognized PNM subformat"
+msgstr "பி.என்.எம் கோப்பு அங்கீகரிக்கப்பட்ட பி.என்.எம் சப்ஃபார்மட்டில் இல்லை"
+
+msgid "PNM image loader does not support this PNM subformat"
+msgstr "பிஎன்எம் பட ஏற்றி இந்த பிஎன்எம் சப்ஃபார்மட்டை ஆதரிக்காது"
+
+msgid "PNM loader expected to find an integer, but didn't"
+msgstr ""
+"பி.என்.எம் ஏற்றி ஒரு முழு எண்ணைக் கண்டுபிடிப்பார் என்று "
+"எதிர்பார்க்கப்படுகிறது, ஆனால் அவ்வாறு செய்யவில்லை"
+
+msgid "Pag_es:"
+msgstr "Pag_es:"
+
+msgid "Page %u"
+msgstr "பக்கம் %u"
+
+msgid "Page Ordering"
+msgstr "பக்க வரிசைப்படுத்துதல்"
+
+msgid "Page Setup"
+msgstr "பக்கம் அமைப்பு"
+
+msgid "Page or_dering:"
+msgstr "பக்கம் OR_DERRING:"
+
+msgid "Pages"
+msgstr "பக்கங்கள்"
+
+msgid "Pages Per Sheet"
+msgstr "ஒரு தாளுக்கு பக்கங்கள்"
+
+msgid "Pages per Sheet"
+msgstr "ஒரு தாளுக்கு பக்கங்கள்"
+
+msgid "Pages per _sheet:"
+msgstr "ஒரு தாளுக்கு பக்கங்கள்:"
+
+msgid "Pages per _side:"
+msgstr "_Sdize க்கு பக்கங்கள்:"
+
+msgid "Paper"
+msgstr "காகிதம்"
+
+msgid "Paper Margins"
+msgstr "காகித விளிம்புகள்"
+
+msgid "Paper Size"
+msgstr "காகித அளவு"
+
+msgid "Paper Source"
+msgstr "காகித மூல"
+
+msgid "Paper Type"
+msgstr "காகித வகை"
+
+msgid "Paper _source:"
+msgstr "காகிதம் _ சோர்ச்:"
+
+msgid "Paper _type:"
+msgstr "காகிதம் _ வகை:"
+
+msgid "Password:"
+msgstr "கடவுச்சொல்:"
+
+msgid "Path does not exist"
+msgstr "பாதை இல்லை"
+
+msgid "Paused"
+msgstr "இடைநிறுத்தப்பட்டது"
+
+msgid "Paused ; Rejecting Jobs"
+msgstr "இடைநிறுத்தப்பட்டது; வேலைகளை நிராகரித்தல்"
+
+msgid "Pick a Color"
+msgstr "ஒரு வண்ணத்தைத் தேர்ந்தெடுங்கள்"
+
+msgid "Pick a Font"
+msgstr "ஒரு எழுத்துருவைத் தேர்ந்தெடுங்கள்"
+
+msgid "Places"
+msgstr "இடங்கள்"
+
+msgid "Portrait"
+msgstr "உருவப்படம்"
+
+msgid "Position on the color wheel."
+msgstr "வண்ண சக்கரத்தில் நிலை."
+
+msgid "Postscript"
+msgstr "போச்ட்ச்கிரிப்ட்"
+
+msgid "Premature end-of-file encountered"
+msgstr "முன்கூட்டிய முடிவுக்கு வந்தது"
+
+msgid "Preparing"
+msgstr "தயாரித்தல்"
+
+msgid "Preparing %d"
+msgstr "%D ஐத் தயாரித்தல்"
+
+msgid "Pri_ority:"
+msgstr "முன்னுரிமை:"
+
+msgid "Print"
+msgstr "அச்சிடுக"
+
+msgid "Print Document"
+msgstr "அச்சு ஆவணம்"
+
+msgid "Print at"
+msgstr "இல் அச்சிடுக"
+
+msgid "Print at time"
+msgstr "நேரத்தில் அச்சிடுக"
+
+msgid "Print to File"
+msgstr "கோப்பில் அச்சிடு"
+
+msgid "Print to LPR"
+msgstr "LPR க்கு அச்சிடுக"
+
+msgid "Print to Test Printer"
+msgstr "சோதனை அச்சுப்பொறிக்கு அச்சிடுக"
+
+msgid "Printer"
+msgstr "அச்சுப்பொறி"
+
+msgid "Printer '%s' has no toner left."
+msgstr "அச்சுப்பொறி '%s' டோனர் இல்லை."
+
+msgid "Printer '%s' is currently off-line."
+msgstr "அச்சுப்பொறிகள் தற்போது ஆஃப்லைனில் உள்ளன."
+
+msgid "Printer '%s' is low on at least one marker supply."
+msgstr ""
+"அச்சுப்பொறி '%s' குறைந்தது ஒரு மார்க்கர் விநியோகத்தில் குறைவாக உள்ளது."
+
+msgid "Printer '%s' is low on developer."
+msgstr "அச்சுப்பொறி '%s' டெவலப்பரில் குறைவாக உள்ளது."
+
+msgid "Printer '%s' is low on paper."
+msgstr "அச்சுப்பொறி '%s' காகிதத்தில் குறைவாக உள்ளது."
+
+msgid "Printer '%s' is low on toner."
+msgstr "அச்சுப்பொறி '%s' டோனரில் குறைவாக உள்ளது."
+
+msgid "Printer '%s' is out of at least one marker supply."
+msgstr "அச்சுப்பொறி '%s' குறைந்தது ஒரு மார்க்கர் விநியோகத்தில் இல்லை."
+
+msgid "Printer '%s' is out of developer."
+msgstr "அச்சுப்பொறி '%s' டெவலப்பருக்கு வெளியே இல்லை."
+
+msgid "Printer '%s' is out of paper."
+msgstr "அச்சுப்பொறி '%s' காகிதத்திற்கு வெளியே இல்லை."
+
+msgid "Printer '%s' may not be connected."
+msgstr "அச்சுப்பொறி '%s' இணைக்கப்படாமல் இருக்கலாம்."
+
+msgid "Printer Default"
+msgstr "அச்சுப்பொறி இயல்புநிலை"
+
+msgid "Printer offline"
+msgstr "அச்சுப்பொறி ஆஃப்லைனில்"
+
+msgid "Printing %d"
+msgstr "அச்சிடுதல் %d"
+
+msgid "Program class as used by the window manager"
+msgstr "சாளர மேலாளர் பயன்படுத்தும் நிரல் வகுப்பு"
+
+msgid "Program name as used by the window manager"
+msgstr "சாளர மேலாளரால் பயன்படுத்தப்படும் நிரல் பெயர்"
+
+msgid "RAS image has bogus header data"
+msgstr "RAS படத்திற்கு போலி தலைப்பு தரவு உள்ளது"
+
+msgid "RAS image has unknown type"
+msgstr "RAS படத்திற்கு தெரியாத வகை உள்ளது"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "Rle வலதுபுறம்-இடது E_MBedding"
+
+msgid "RLM _Right-to-left mark"
+msgstr "Rlm _right-to-lalft குறி"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "Rlo வலது-க்கு-இடது o_verride"
+
+msgid "Range"
+msgstr "வீச்சு"
+
+msgid "Raw PNM formats require exactly one whitespace before sample data"
+msgstr ""
+"மூல பி.என்.எம் வடிவங்களுக்கு மாதிரி தரவுக்கு முன் ஒரு இடைவெளி தேவைப்படுகிறது"
+
+msgid "Raw PNM image type is invalid"
+msgstr "மூல பி.என்.எம் பட வகை தவறானது"
+
+msgid "Really delete file \"%s\"?"
+msgstr "\"%s\" கோப்பை உண்மையில் நீக்கவா?"
+
+msgid "Received invalid color data\n"
+msgstr "தவறான வண்ண தரவு பெறப்பட்டது\n"
+
+msgid "Recently Used"
+msgstr "அண்மைக் காலத்தில் பயன்படுத்தப்பட்டது"
+
+msgid "Rejecting Jobs"
+msgstr "வேலைகளை நிராகரித்தல்"
+
+msgid "Remember _forever"
+msgstr "நினைவில் கொள்ளுங்கள் _ ஃபோரெவர்"
+
+msgid "Remember password until you _logout"
+msgstr "நீங்கள் _logout வரை கடவுச்சொல்லை நினைவில் கொள்ளுங்கள்"
+
+msgid "Remove"
+msgstr "அகற்று"
+
+msgid "Remove the bookmark '%s'"
+msgstr "'%s' புத்தகக்குறியை அகற்று"
+
+msgid "Remove the selected bookmark"
+msgstr "தேர்ந்தெடுக்கப்பட்ட புத்தகக்குறியை அகற்று"
+
+msgid "Rename File"
+msgstr "கோப்பை மறுபெயரிடுங்கள்"
+
+msgid "Rename file \"%s\" to:"
+msgstr "\"%S\" என்ற கோப்பை மறுபெயரிடுங்கள்:"
+
+msgid "Rename..."
+msgstr "மறுபெயரிடுங்கள் ..."
+
+msgid "Resolution"
+msgstr "பகுத்தல்"
+
+msgid "Reverse landscape"
+msgstr "தலைகீழ் நிலப்பரப்பு"
+
+msgid "Reverse portrait"
+msgstr "தலைகீழ் உருவப்படம்"
+
+msgid "Right to left"
+msgstr "வலமிருந்து இடமாக"
+
+msgid "Right to left, bottom to top"
+msgstr "வலமிருந்து இடமாக, கீழே முதல்"
+
+msgid "Right to left, top to bottom"
+msgstr "வலமிருந்து இடமாக, மேலிருந்து கீழாக"
+
+msgid "SCREEN"
+msgstr "திரை"
+
+msgid "SVG"
+msgstr "எச்.வி.சி."
+
+msgid "Same as --no-wintab"
+msgstr "-இல்லை-வின்டாப் போன்றது"
+
+msgid "Sans 12"
+msgstr "சான்ச் 12"
+
+msgid "Save in _folder:"
+msgstr "_ ஃபோல்டரில் சேமிக்கவும்:"
+
+msgid "Sc_ale:"
+msgstr "Sc_ale:"
+
+msgid "Screen"
+msgstr "திரை"
+
+msgid "Se_lection"
+msgstr "தேர்வு"
+
+msgid "Search"
+msgstr "தேடல்"
+
+msgid "Search:"
+msgstr "தேடல்:"
+
+msgid "Secret"
+msgstr "மறைபொருள்"
+
+msgid "Select A File"
+msgstr "ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr ""
+"வெளிப்புற வளையத்திலிருந்து நீங்கள் விரும்பும் வண்ணத்தைத் தேர்ந்தெடுக்கவும். "
+"உள் முக்கோணத்தைப் பயன்படுத்தி அந்த நிறத்தின் இருள் அல்லது லேசான தன்மையைத் "
+"தேர்ந்தெடுக்கவும்."
+
+msgid "Select which type of documents are shown"
+msgstr "எந்த வகை ஆவணங்கள் காட்டப்பட்டுள்ளன என்பதைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select which types of files are shown"
+msgstr "எந்த வகையான கோப்புகள் காட்டப்பட்டுள்ளன என்பதைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Serialized data is malformed"
+msgstr "வரிசைப்படுத்தப்பட்ட தரவு தவறாக உள்ளது"
+
+msgid ""
+"Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr ""
+"வரிசைப்படுத்தப்பட்ட தரவு தவறாக உள்ளது. முதல் பிரிவு "
+"GtktextBufferContents-0001 அல்ல"
+
+msgid "Short Edge (Flip)"
+msgstr "குறுகிய விளிம்பு (ஃபிளிப்)"
+
+msgid "Shortcut %s already exists"
+msgstr "குறுக்குவழி %s ஏற்கனவே உள்ளன"
+
+msgid "Shortcut %s does not exist"
+msgstr "குறுக்குவழி %s இல்லை"
+
+msgid "Show GTK+ Options"
+msgstr "GTK+ விருப்பங்களைக் காட்டு"
+
+msgid "Show _Hidden Files"
+msgstr "மறைக்கப்பட்ட கோப்புகளைக் காட்டு (_H)"
+
+msgid "Show _Private Resources"
+msgstr "_வாத வளங்களைக் காட்டு"
+
+msgid "Show _Size Column"
+msgstr "சூ அளவு நெடுவரிசை"
+
+msgid "Si_ze:"
+msgstr "Si_ze:"
+
+msgid "Simple"
+msgstr "எளிய"
+
+msgid "Size"
+msgstr "அளவு"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "8 பிட் பயன்முறையில் தட்டின் அளவு"
+
+msgid "Sole completion"
+msgstr "ஒரே நிறைவு"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "உரையாடல் மோதலில் சில அமைப்புகள்"
+
+msgid ""
+"Specify one or more page ranges,\n"
+" e.g. 1-3,7,11"
+msgstr ""
+"ஒன்று அல்லது அதற்கு மேற்பட்ட பக்க வரம்புகளைக் குறிப்பிடவும்,\n"
+" எ.கா. 1-3,7,11"
+
+msgid ""
+"Specify the time of print,\n"
+" e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr ""
+"அச்சின் நேரத்தைக் குறிப்பிடவும்,\n"
+" எ.கா. 15:30, 2:35 PM, 14:15:20, 11:46:30 AM, 4 PM"
+
+msgid "Stack overflow"
+msgstr "அடுக்கு வழிதல்"
+
+msgid "Standard"
+msgstr "தரநிலை"
+
+msgid "Starting %s"
+msgstr "தொடக்க %s"
+
+msgid "Status"
+msgstr "நிலை"
+
+msgctxt "Stock label"
+msgid "Best _Fit"
+msgstr "சிறந்த _ ஃபிட்"
+
+msgctxt "Stock label"
+msgid "C_onnect"
+msgstr "C_ இணைக்க"
+
+msgctxt "Stock label"
+msgid "Cu_t"
+msgstr "Cu_t"
+
+msgctxt "Stock label"
+msgid "Decrease Indent"
+msgstr "உள்தள்ளல் குறைவு"
+
+msgctxt "Stock label"
+msgid "Error"
+msgstr "பிழை"
+
+msgctxt "Stock label"
+msgid "Find and _Replace"
+msgstr "கண்டுபிடித்து _ மறுசீரமைப்பு"
+
+msgctxt "Stock label"
+msgid "Increase Indent"
+msgstr "உள்தள்ளலை அதிகரி"
+
+msgctxt "Stock label"
+msgid "Information"
+msgstr "தகவல்"
+
+msgctxt "Stock label"
+msgid "Landscape"
+msgstr "நிலப்பரப்பு"
+
+msgctxt "Stock label"
+msgid "Page Set_up"
+msgstr "பக்கம் அமைப்பு (_u)"
+
+msgctxt "Stock label"
+msgid "Portrait"
+msgstr "உருவப்படம்"
+
+msgctxt "Stock label"
+msgid "Print Pre_view"
+msgstr "முன்னோட்டம் அச்சு"
+
+msgctxt "Stock label"
+msgid "Question"
+msgstr "கேள்வி"
+
+msgctxt "Stock label"
+msgid "Reverse landscape"
+msgstr "தலைகீழ் நிலப்பரப்பு"
+
+msgctxt "Stock label"
+msgid "Reverse portrait"
+msgstr "தலைகீழ் உருவப்படம்"
+
+msgctxt "Stock label"
+msgid "Save _As"
+msgstr "_As ஐ சேமிக்கவும்"
+
+msgctxt "Stock label"
+msgid "Select _All"
+msgstr "_All ஐத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "Stock label"
+msgid "Warning"
+msgstr "எச்சரிக்கை"
+
+msgctxt "Stock label"
+msgid "Zoom _In"
+msgstr "பெரிதாக்க _in"
+
+msgctxt "Stock label"
+msgid "Zoom _Out"
+msgstr "பெரிதாக்கவும்"
+
+msgctxt "Stock label"
+msgid "_About"
+msgstr "_About"
+
+msgctxt "Stock label"
+msgid "_Add"
+msgstr "_ADD"
+
+msgctxt "Stock label"
+msgid "_Apply"
+msgstr "_Aplay"
+
+msgctxt "Stock label"
+msgid "_Ascending"
+msgstr "_ச்வெண்டிங்"
+
+msgctxt "Stock label"
+msgid "_Bold"
+msgstr "_போல்ட்"
+
+msgctxt "Stock label"
+msgid "_CD-Rom"
+msgstr "சிடி-ரோம்"
+
+msgctxt "Stock label"
+msgid "_Cancel"
+msgstr "_CANCEL"
+
+msgctxt "Stock label"
+msgid "_Center"
+msgstr "_ சென்டர்"
+
+msgctxt "Stock label"
+msgid "_Clear"
+msgstr "_ கிளையர்"
+
+msgctxt "Stock label"
+msgid "_Close"
+msgstr "மூடு (_C)"
+
+msgctxt "Stock label"
+msgid "_Color"
+msgstr "_ வண்ணம்"
+
+msgctxt "Stock label"
+msgid "_Convert"
+msgstr "_ கான்வர்ட்"
+
+msgctxt "Stock label"
+msgid "_Copy"
+msgstr "_ கோபி"
+
+msgctxt "Stock label"
+msgid "_Delete"
+msgstr "_Delete"
+
+msgctxt "Stock label"
+msgid "_Descending"
+msgstr "இறங்கு"
+
+msgctxt "Stock label"
+msgid "_Discard"
+msgstr "_ டிச்கார்ட்"
+
+msgctxt "Stock label"
+msgid "_Disconnect"
+msgstr "_DISCONNECT"
+
+msgctxt "Stock label"
+msgid "_Edit"
+msgstr "தொகு (_E)"
+
+msgctxt "Stock label"
+msgid "_Execute"
+msgstr "செயல்படுத்த (_E)"
+
+msgctxt "Stock label"
+msgid "_Fill"
+msgstr "_ நிரப்புதல்"
+
+msgctxt "Stock label"
+msgid "_Find"
+msgstr "_ ஃபைண்ட்"
+
+msgctxt "Stock label"
+msgid "_Floppy"
+msgstr "_Floppy"
+
+msgctxt "Stock label"
+msgid "_Font"
+msgstr "_ஃபாண்ட்"
+
+msgctxt "Stock label"
+msgid "_Fullscreen"
+msgstr "_Fullscreen"
+
+msgctxt "Stock label"
+msgid "_Harddisk"
+msgstr "வன்"
+
+msgctxt "Stock label"
+msgid "_Help"
+msgstr "உதவி (_H)"
+
+msgctxt "Stock label"
+msgid "_Home"
+msgstr "_ஓம்"
+
+msgctxt "Stock label"
+msgid "_Index"
+msgstr "_Index"
+
+msgctxt "Stock label"
+msgid "_Information"
+msgstr "_ செய்தி"
+
+msgctxt "Stock label"
+msgid "_Italic"
+msgstr "_ியாலிக்"
+
+msgctxt "Stock label"
+msgid "_Jump to"
+msgstr "_ சம்ப்"
+
+msgctxt "Stock label"
+msgid "_Leave Fullscreen"
+msgstr "_ முழு திரை"
+
+msgctxt "Stock label"
+msgid "_Left"
+msgstr "_LEFT"
+
+msgctxt "Stock label"
+msgid "_Network"
+msgstr "_நெட் வொர்க்"
+
+msgctxt "Stock label"
+msgid "_New"
+msgstr "_ நியூ"
+
+msgctxt "Stock label"
+msgid "_No"
+msgstr "_ இல்லை"
+
+msgctxt "Stock label"
+msgid "_Normal Size"
+msgstr "_ இயல்பான அளவு"
+
+msgctxt "Stock label"
+msgid "_OK"
+msgstr "_Ok"
+
+msgctxt "Stock label"
+msgid "_Open"
+msgstr "_OPEN"
+
+msgctxt "Stock label"
+msgid "_Paste"
+msgstr "_ பேச்ட்"
+
+msgctxt "Stock label"
+msgid "_Preferences"
+msgstr "_ முனைகள்"
+
+msgctxt "Stock label"
+msgid "_Print"
+msgstr "_Print"
+
+msgctxt "Stock label"
+msgid "_Properties"
+msgstr "_PROPERTIES"
+
+msgctxt "Stock label"
+msgid "_Quit"
+msgstr "_Quit"
+
+msgctxt "Stock label"
+msgid "_Redo"
+msgstr "_ ரெடோ"
+
+msgctxt "Stock label"
+msgid "_Refresh"
+msgstr "_Refresh"
+
+msgctxt "Stock label"
+msgid "_Remove"
+msgstr "_ அகற்று"
+
+msgctxt "Stock label"
+msgid "_Revert"
+msgstr "_ திரும்பவும்"
+
+msgctxt "Stock label"
+msgid "_Right"
+msgstr "_ ரைட்"
+
+msgctxt "Stock label"
+msgid "_Save"
+msgstr "_சேவ்"
+
+msgctxt "Stock label"
+msgid "_Spell Check"
+msgstr "எழுத்துப்பிழை சோதனை"
+
+msgctxt "Stock label"
+msgid "_Stop"
+msgstr "_ச்டாப்"
+
+msgctxt "Stock label"
+msgid "_Strikethrough"
+msgstr "_Strikethrough"
+
+msgctxt "Stock label"
+msgid "_Undelete"
+msgstr "Undetete"
+
+msgctxt "Stock label"
+msgid "_Underline"
+msgstr "_Underline"
+
+msgctxt "Stock label"
+msgid "_Undo"
+msgstr "_Undo"
+
+msgctxt "Stock label"
+msgid "_Yes"
+msgstr "_Yes"
+
+msgctxt "Stock label, media"
+msgid "P_ause"
+msgstr "P_ause"
+
+msgctxt "Stock label, media"
+msgid "Pre_vious"
+msgstr "Pre_uis"
+
+msgctxt "Stock label, media"
+msgid "R_ewind"
+msgstr "R_ewind"
+
+msgctxt "Stock label, media"
+msgid "_Forward"
+msgstr "_ FORWARD"
+
+msgctxt "Stock label, media"
+msgid "_Next"
+msgstr "அடுத்தது (_N)"
+
+msgctxt "Stock label, media"
+msgid "_Play"
+msgstr "_ பிளே"
+
+msgctxt "Stock label, media"
+msgid "_Record"
+msgstr "_ ரெக்கார்ட்"
+
+msgctxt "Stock label, media"
+msgid "_Stop"
+msgstr "_ச்டாப்"
+
+msgctxt "Stock label, navigation"
+msgid "_Back"
+msgstr "_ பேக்"
+
+msgctxt "Stock label, navigation"
+msgid "_Bottom"
+msgstr "_ பாட்டம்"
+
+msgctxt "Stock label, navigation"
+msgid "_Down"
+msgstr "_ பேரூர்"
+
+msgctxt "Stock label, navigation"
+msgid "_First"
+msgstr "_ முதல்"
+
+msgctxt "Stock label, navigation"
+msgid "_Forward"
+msgstr "_ FORWARD"
+
+msgctxt "Stock label, navigation"
+msgid "_Last"
+msgstr "_ லாச்ட்"
+
+msgctxt "Stock label, navigation"
+msgid "_Top"
+msgstr "_ டாப்"
+
+msgctxt "Stock label, navigation"
+msgid "_Up"
+msgstr "_Up"
+
+msgid "TGA image has invalid dimensions"
+msgstr "டிசிஏ படம் தவறான பரிமாணங்களைக் கொண்டுள்ளது"
+
+msgid "TGA image type not supported"
+msgstr "டிசிஏ பட வகை ஆதரிக்கப்படவில்லை"
+
+msgid "TIFFClose operation failed"
+msgstr "டிஃப்ளோச் செயல்பாடு தோல்வியடைந்தது"
+
+msgid "T_wo-sided:"
+msgstr "இரு பக்க:"
+
+msgid "Tag \"%s\" already defined"
+msgstr "குறிச்சொல் \"%s\" ஏற்கனவே வரையறுக்கப்பட்டுள்ளது"
+
+msgid "Tag \"%s\" does not exist in buffer and tags can not be created."
+msgstr ""
+"குறிச்சொல் \"%s\" இடையகத்தில் இல்லை மற்றும் குறிச்சொற்களை உருவாக்க முடியாது."
+
+msgid "Tag \"%s\" has invalid priority \"%s\""
+msgstr "குறிச்சொல் \"%s\" தவறான முன்னுரிமை \"%s\""
+
+msgid "Tag \"%s\" has not been defined."
+msgstr "குறிச்சொல் \"%s\" வரையறுக்கப்படவில்லை."
+
+msgid "Terminal Pager"
+msgstr "முனைய பேசர்"
+
+msgid "Thai-Lao"
+msgstr "தாய்-லாவோ"
+
+msgid "The ANI image format"
+msgstr "ANI பட வடிவம்"
+
+msgid "The BMP image format"
+msgstr "BMP பட வடிவம்"
+
+msgid "The EMF image format"
+msgstr "EMF பட வடிவம்"
+
+msgid "The GIF image format"
+msgstr "GIF பட வடிவம்"
+
+msgid "The ICNS image format"
+msgstr "ICNS பட வடிவம்"
+
+msgid "The ICO image format"
+msgstr "ICO பட வடிவம்"
+
+msgid "The JPEG 2000 image format"
+msgstr "JPEG 2000 பட வடிவம்"
+
+msgid "The JPEG image format"
+msgstr "JPEG பட வடிவம்"
+
+msgid "The PCX image format"
+msgstr "PCX பட வடிவம்"
+
+msgid "The PNG image format"
+msgstr "பி.என்.சி பட வடிவம்"
+
+msgid "The PNM/PBM/PGM/PPM image format family"
+msgstr "PNM/PBM/PGM/PPM பட வடிவமைப்பு குடும்பம்"
+
+msgid "The Sun raster image format"
+msgstr "சன் ராச்டர் பட வடிவம்"
+
+msgid "The TIFF image format"
+msgstr "TIFF பட வடிவம்"
+
+msgid "The Targa image format"
+msgstr "தர்கா பட வடிவம்"
+
+msgid "The WBMP image format"
+msgstr "WBMP பட வடிவம்"
+
+msgid "The WMF image format"
+msgstr "WMF பட வடிவம்"
+
+msgid "The XBM image format"
+msgstr "எக்ச்பிஎம் பட வடிவம்"
+
+msgid "The XPM image format"
+msgstr "எக்ச்பிஎம் பட வடிவம்"
+
+msgid "The attribute \"%s\" was found twice on the <%s> element"
+msgstr "\"%s\" என்ற பண்புக்கூறு <%s> உறுப்பில் இரண்டு முறை காணப்பட்டது"
+
+msgid ""
+"The color you've chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr ""
+"நீங்கள் தேர்ந்தெடுத்த நிறம். எதிர்காலத்தில் பயன்படுத்த சேமிக்க இந்த வண்ணத்தை"
+" தட்டு நுழைவுக்கு இழுக்கலாம்."
+
+msgid "The cover is open on printer '%s'."
+msgstr "'%S' அச்சுப்பொறியில் கவர் திறந்திருக்கும்."
+
+msgid "The door is open on printer '%s'."
+msgstr "'%S' அச்சுப்பொறியில் கதவு திறந்திருக்கும்."
+
+msgid ""
+"The file \"%s\" resides on another machine (called %s) and may not be available to this program.\n"
+"Are you sure that you want to select it?"
+msgstr ""
+"\" %s\" கோப்பு மற்றொரு இயந்திரத்தில் ( %s என அழைக்கப்படுகிறது) மற்றும் இந்த நிரலுக்கு கிடைக்காமல் போகலாம்.\n"
+" நீங்கள் அதைத் தேர்ந்தெடுக்க விரும்புகிறீர்கள் என்பதில் உறுதியாக இருக்கிறீர்களா?"
+
+msgid ""
+"The file already exists in \"%s\".  Replacing it will overwrite its "
+"contents."
+msgstr ""
+"கோப்பு ஏற்கனவே \"%s\" இல் உள்ளது. அதை மாற்றுவது அதன் உள்ளடக்கங்களை "
+"மேலெழுதும்."
+
+msgid "The filename \"%s\" contains symbols that are not allowed in filenames"
+msgstr ""
+"கோப்பு பெயரில் \"%s\" கோப்பு பெயர்களில் அனுமதிக்கப்படாத சின்னங்களைக் "
+"கொண்டுள்ளது"
+
+msgid ""
+"The filename \"%s\" couldn't be converted to UTF-8. (try setting the "
+"environment variable G_FILENAME_ENCODING): %s"
+msgstr "G_FILENAME_ENCODING):అమర్చి చూడండి  %s"
+
+msgid "The folder contents could not be displayed"
+msgstr "கோப்புறை உள்ளடக்கங்களைக் காட்ட முடியவில்லை"
+
+msgid "The folder could not be created"
+msgstr "கோப்புறையை உருவாக்க முடியவில்லை"
+
+msgid ""
+"The folder could not be created, as a file with the same name already "
+"exists.  Try using a different name for the folder, or rename the file "
+"first."
+msgstr ""
+"ஏற்கனவே அதே பெயருடன் கூடிய கோப்பு இருப்பதால், கோப்புறையை உருவாக்க "
+"முடியவில்லை. கோப்புறைக்கு வேறு பெயரைப் பயன்படுத்த முயற்சிக்கவும் அல்லது "
+"முதலில் கோப்பை மறுபெயரிடவும்."
+
+msgid "The folder name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "கோப்புறை பெயரில் கோப்பு பெயர்களில் அனுமதிக்கப்படாத சின்னங்கள் உள்ளன"
+
+msgid "The generated cache was invalid.\n"
+msgstr "உருவாக்கப்பட்ட தற்காலிக சேமிப்பு தவறானது.\n"
+
+msgid "The license of the program"
+msgstr "திட்டத்தின் உரிமம்"
+
+msgid ""
+"The most probable reason is that a temporary file could not be created."
+msgstr ""
+"மிகவும் சாத்தியமான காரணம் என்னவென்றால், ஒரு தற்காலிக கோப்பை உருவாக்க "
+"முடியவில்லை."
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr ""
+"நீங்கள் இப்போது தேர்ந்தெடுக்கும் வண்ணத்துடன் ஒப்பிடுகையில், முன்னர் "
+"தேர்ந்தெடுக்கப்பட்ட வண்ணம். இந்த வண்ணத்தை நீங்கள் ஒரு தட்டு நுழைவுக்கு "
+"இழுக்கலாம் அல்லது இந்த வண்ணத்தை மற்ற வண்ண ச்வாட்சுக்கு இழுத்து மின்னோட்டமாக "
+"தேர்ந்தெடுக்கலாம்."
+
+msgid ""
+"The program was not able to create a connection to the indexer daemon.  "
+"Please make sure it is running."
+msgstr ""
+"குறியீட்டாளர் டீமனுடன் ஒரு இணைப்பை உருவாக்க நிரல் முடியவில்லை. அது இயங்குவதை"
+" உறுதிப்படுத்தவும்."
+
+msgid "There is a problem on printer '%s'."
+msgstr "அச்சுப்பொறி '%s' இல் சிக்கல் உள்ளது."
+
+msgid "This build of gdk-pixbuf does not support saving the image format: %s"
+msgstr ""
+"சி.டி.கே-பிக்ச்புஃப் இந்த உருவாக்கம் பட வடிவமைப்பைச் சேமிப்பதை ஆதரிக்காது: "
+"%s"
+
+msgid "This function is not implemented for widgets of class '%s'"
+msgstr ""
+"இந்த செயல்பாடு '%s' வர்க்கத்தின் விட்செட்டுகளுக்கு செயல்படுத்தப்படவில்லை"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "புலி-எரிட்ரியன் (எரித்திரியன்)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "டிக்ரிக்னா-எத்தியோபியன் (EZ+)"
+
+msgid "Time of print"
+msgstr "அச்சு நேரம்"
+
+msgid "Top Command"
+msgstr "சிறந்த கட்டளை"
+
+msgid "Top Secret"
+msgstr "மேல் மறைபொருள்"
+
+msgid "Top to bottom"
+msgstr "மேலே இருந்து கீழே"
+
+msgid "Top to bottom, left to right"
+msgstr "மேலிருந்து கீழாக, இடமிருந்து வலமாக"
+
+msgid "Top to bottom, right to left"
+msgstr "மேலிருந்து கீழாக, வலமிருந்து இடமாக"
+
+msgid "Topdown BMP images cannot be compressed"
+msgstr "டாப் பேரூர் பி.எம்.பி படங்களை சுருக்க முடியாது"
+
+msgid "Transformed JPEG has zero width or height."
+msgstr "மாற்றப்பட்ட JPEG சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது."
+
+msgid "Transformed JPEG2000 has zero width or height"
+msgstr "மாற்றப்பட்ட JPEG2000 சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது"
+
+msgid "Transformed PNG has unsupported number of channels, must be 3 or 4."
+msgstr ""
+"மாற்றப்பட்ட பி.என்.சி ஆதரிக்கப்படாத சேனல்களைக் கொண்டுள்ளது, 3 அல்லது 4 ஆக "
+"இருக்க வேண்டும்."
+
+msgid "Transformed PNG has zero width or height."
+msgstr "மாற்றப்பட்ட பி.என்.சி சுழிய அகலம் அல்லது உயரத்தைக் கொண்டுள்ளது."
+
+msgid "Transformed PNG not RGB or RGBA."
+msgstr "மாற்றப்பட்ட PNG RGB அல்லது RGBA அல்ல."
+
+msgid "Translated by"
+msgstr "மொழிபெயர்த்தது"
+
+msgid "Transparency of the color."
+msgstr "வண்ணத்தின் வெளிப்படைத்தன்மை."
+
+msgid "Turn off verbose output"
+msgstr "வெர்போச் வெளியீட்டை அணைக்கவும்"
+
+msgid "Turns volume down or up"
+msgstr "அளவை கீழே அல்லது மேலே திருப்புகிறது"
+
+msgid "Two Sided"
+msgstr "இரு பக்க"
+
+msgid "Type a file name"
+msgstr "கோப்பு பெயரைத் தட்டச்சு செய்க"
+
+msgid "Type name of new folder"
+msgstr "புதிய கோப்புறையின் பெயர்"
+
+msgid "Unable to end process"
+msgstr "செயல்முறையை முடிக்க முடியவில்லை"
+
+msgid "Unable to find an item with URI '%s'"
+msgstr "யூரி '%s' உடன் ஒரு பொருளைக் கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Unable to find include file: \"%s\""
+msgstr "கண்டுபிடிக்க முடியவில்லை கோப்பு: \"%s\""
+
+msgid "Unable to load image-loading module: %s: %s"
+msgstr "பட-ஏற்றுதல் தொகுதியை ஏற்ற முடியவில்லை: %s: %s"
+
+msgid "Unable to locate image file in pixmap_path: \"%s\""
+msgstr "PIXMAP_PATH இல் படக் கோப்பைக் கண்டுபிடிக்க முடியவில்லை: \"%s\""
+
+msgid "Unable to locate theme engine in module_path: \"%s\","
+msgstr "Module_Path இல் கருப்பொருள் இயந்திரத்தை கண்டுபிடிக்க முடியவில்லை: \"%s\","
+
+msgid "Unclassified"
+msgstr "வகைப்படுத்தப்படாதது"
+
+msgid "Unexpected bitdepth for colormap entries"
+msgstr "வண்ணமயமான உள்ளீடுகளுக்கான எதிர்பாராத பிட்டெப்ட்"
+
+msgid "Unexpected character data on line %d char %d"
+msgstr "வரி %d char %d இல் எதிர்பாராத எழுத்து தரவு"
+
+msgid "Unexpected end of PNM image data"
+msgstr "பிஎன்எம் பட தரவின் எதிர்பாராத முடிவு"
+
+msgid "Unexpected icon chunk in animation"
+msgstr "அனிமேசனில் எதிர்பாராத படவுரு துண்டாகும்"
+
+msgid "Unexpected start tag '%s' on line %d char %d"
+msgstr "எதிர்பாராத ச்டார்ட் டேக் ' %s' வரி %d char %d"
+
+msgid "Unhandled tag: '%s'"
+msgstr "சிறுநீர்ப்பை நாள்: '%s'"
+
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+msgid "Unknown Application (pid %d)"
+msgstr "அறியப்படாத பயன்பாடு (PID %D)"
+
+msgid "Unknown error when trying to deserialize %s"
+msgstr "அறியப்படாத பிழை %s ஐ தேய்க்க முயற்சிக்கும்போது"
+
+msgid "Unknown item"
+msgstr "தெரியாத உருப்படி"
+
+msgid "Unrecognized image file format"
+msgstr "அங்கீகரிக்கப்படாத பட கோப்பு வடிவம்"
+
+msgid "Unspecified error"
+msgstr "குறிப்பிடப்படாத பிழை"
+
+msgid "Unsupported JPEG color space (%s)"
+msgstr "ஆதரிக்கப்படாத JPEG வண்ண இடம் (%s)"
+
+msgid "Unsupported animation type"
+msgstr "ஆதரிக்கப்படாத அனிமேசன் வகை"
+
+msgid "Unsupported depth for ICO file: %d"
+msgstr "ஐ.சி.ஓ கோப்பிற்கான ஆதரிக்கப்படாத ஆழம்: %d"
+
+msgid "Unsupported icon type"
+msgstr "ஆதரிக்கப்படாத படவுரு வகை"
+
+msgid "Unsupported image format for GDI+"
+msgstr "சி.டி.ஐ+ க்கான ஆதரிக்கப்படாத பட வடிவம்"
+
+msgid "Untitled filter"
+msgstr "பெயரிடப்படாத வடிகட்டி"
+
+msgid "Up Path"
+msgstr "மேல் பாதை"
+
+msgid "Urgent"
+msgstr "விரைவு"
+
+msgid "Username:"
+msgstr "பயனர்பெயர்:"
+
+msgid "Validate existing icon cache"
+msgstr "இருக்கும் படவுரு தற்காலிக சேமிப்பை சரிபார்க்கவும்"
+
+msgid ""
+"Value for PNG text chunk %s cannot be converted to ISO-8859-1 encoding."
+msgstr ""
+"பி.என்.சி உரை துண்டுக்கான மதிப்பை ஐஎச்ஓ -8859-1 குறியாக்கமாக மாற்ற முடியாது."
+
+msgid "Version %s of the GIF file format is not supported"
+msgstr "GIF கோப்பு வடிவமைப்பின் பதிப்பு %s ஆதரிக்கப்படவில்லை"
+
+msgid "Vietnamese (VIQR)"
+msgstr "வியட்நாமிய (VIQR)"
+
+msgid "Volume"
+msgstr "தொகுதி"
+
+msgid "Volume Down"
+msgstr "தொகுதி கீழே"
+
+msgid "Volume Up"
+msgstr "தொகுதி"
+
+msgid "Width or height of TIFF image is zero"
+msgstr "TIFF படத்தின் அகலம் அல்லது உயரம் பூச்சியமாகும்"
+
+msgid "Window"
+msgstr "சாளரம்"
+
+msgid "Written by"
+msgstr "எழுதியவர்"
+
+msgid "X Input Method"
+msgstr "ஃச் உள்ளீட்டு முறை"
+
+msgid "X _tilt:"
+msgstr "ஃச் _tilt:"
+
+msgid "X display to use"
+msgstr "பயன்படுத்த ஃச் காட்சி"
+
+msgid "X screen to use"
+msgstr "பயன்படுத்த ஃச் திரை"
+
+msgid "XPM file has image height <= 0"
+msgstr "எக்ச்பிஎம் கோப்பில் பட உயரம் <= 0 உள்ளது"
+
+msgid "XPM file has image width <= 0"
+msgstr "எக்ச்பிஎம் கோப்பில் பட அகலம் <= 0 உள்ளது"
+
+msgid "XPM file has invalid number of colors"
+msgstr "எக்ச்பிஎம் கோப்பில் தவறான எண்ணிக்கையிலான வண்ணங்கள் உள்ளன"
+
+msgid "XPM has invalid number of chars per pixel"
+msgstr "எக்ச்பிஎம் பிக்சலுக்கு தவறான எண்ணிக்கையிலான எழுத்துகளைக் கொண்டுள்ளது"
+
+msgid "Y t_ilt:"
+msgstr "ஒய் t_ild:"
+
+msgid "Yesterday at %H:%M"
+msgstr "நேற்று %h: %மீ"
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as 'orange' in this entry."
+msgstr ""
+"நீங்கள் ஒரு HTML- பாணி எக்சாடெசிமல் வண்ண மதிப்பை உள்ளிடலாம் அல்லது இந்த "
+"பதிவில் 'ஆரஞ்சு' போன்ற வண்ண பெயரை உள்ளிடலாம்."
+
+msgid "Z Shell"
+msgstr "சட் செல்"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ சுழிய அகலம் _சோனர்"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "Zwnj _NONE"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS _ZERO அகல இடம்"
+
+msgid "_Add"
+msgstr "_ADD"
+
+msgid "_Add to Bookmarks"
+msgstr "புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "_After:"
+msgstr "_பின்:"
+
+msgid "_All Pages"
+msgstr "பக்கங்கள்"
+
+msgid "_Billing info:"
+msgstr "_ பட்டியலிடல் தகவல்:"
+
+msgid "_Blue:"
+msgstr "_ ப்ளூ:"
+
+msgid "_Bottom:"
+msgstr "_ பாட்டம்:"
+
+msgid "_Browse for other folders"
+msgstr "_ மற்ற கோப்புறைகளுக்கு பிரவுச்"
+
+msgid "_Clear List"
+msgstr "_ கிளையர் பட்டியல்"
+
+msgid "_Device:"
+msgstr "_DEVICE:"
+
+msgid "_Domain:"
+msgstr "டொமைன்:"
+
+msgid "_End Process"
+msgstr "_ இறுதி செயல்முறை"
+
+msgid "_Family:"
+msgstr "_ குடும்பம்:"
+
+msgid "_Files"
+msgstr "_ கோப்புகள்"
+
+msgid "_Folder name:"
+msgstr "_ ஃபோல்டர் பெயர்:"
+
+msgid "_Format for:"
+msgstr "_FORMAT:"
+
+msgid "_Gamma value"
+msgstr "_ கம்மா மதிப்பு"
+
+msgid "_Green:"
+msgstr "_ கிரீன்:"
+
+msgid "_Height:"
+msgstr "_Height:"
+
+msgid "_Hue:"
+msgstr "_Hue:"
+
+msgid "_Insert Unicode Control Character"
+msgstr "யூனிகோட் கட்டுப்பாட்டு தன்மையை செருகவும்"
+
+msgid "_Left:"
+msgstr "_LEFT:"
+
+msgid "_License"
+msgstr "_License"
+
+msgid "_Location:"
+msgstr "_ இடம்:"
+
+msgid "_Mode:"
+msgstr "_மோட்:"
+
+msgid "_Name:"
+msgstr "பெயர்: (_N)"
+
+msgid "_New Folder"
+msgstr "_ புதிய கோப்புறை"
+
+msgid "_Now"
+msgstr "_ இப்போது"
+
+msgid "_Only print:"
+msgstr "_ ஒரே மாதிரியான அச்சு:"
+
+msgid "_Open Link"
+msgstr "_ திறந்த இணைப்பு"
+
+msgid "_Orientation:"
+msgstr "_Orientation:"
+
+msgid "_Output format"
+msgstr "_Output வடிவம்"
+
+msgid "_Palette:"
+msgstr "_பலெட்:"
+
+msgid "_Paper size:"
+msgstr "_ காகித அளவு:"
+
+msgid "_Password:"
+msgstr "_PASSWORD:"
+
+msgid "_Places"
+msgstr "_ இடங்கள்"
+
+msgid "_Pressure:"
+msgstr "_ பிரசர்:"
+
+msgid "_Preview:"
+msgstr "_Preview:"
+
+msgid "_Red:"
+msgstr "_Red:"
+
+msgid "_Remove"
+msgstr "_ அகற்று"
+
+msgid "_Remove From List"
+msgstr "_ பட்டியலிலிருந்து அகற்றவும்"
+
+msgid "_Rename"
+msgstr "_ரினேம்"
+
+msgid "_Rename File"
+msgstr "கோப்பை மறுபெயரிடுங்கள்"
+
+msgid "_Replace"
+msgstr "மறுசீரமைப்பு (_R)"
+
+msgid "_Reverse"
+msgstr "_ மறுபரிசீலனை"
+
+msgid "_Right:"
+msgstr "_ ரைட்:"
+
+msgid "_Saturation:"
+msgstr "_சாட்டரேசன்:"
+
+msgid "_Save color here"
+msgstr "_சேவ் வண்ணம் இங்கே"
+
+msgid "_Save in folder:"
+msgstr "கோப்புறையில் _சேவ்:"
+
+msgid "_Selection: "
+msgstr "_ தேர்வு:"
+
+msgid "_Style:"
+msgstr "_ ச்டைல்:"
+
+msgid "_Top:"
+msgstr "_TOP:"
+
+msgid "_Username:"
+msgstr "_SERNAME:"
+
+msgid "_Value:"
+msgstr "_ மதிப்பு:"
+
+msgid "_Wheel:"
+msgstr "_WHEEL:"
+
+msgid "_Width:"
+msgstr "அகலம்:(_W)"
+
+msgid "_X:"
+msgstr "_X:"
+
+msgid "_Y:"
+msgstr "_Y:"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijk abcdefghijk"
+
+msgctxt "calendar year format"
+msgid "%Y"
+msgstr "%Y"
+
+msgid "calendar:MY"
+msgstr "காலண்டர்: என்"
+
+msgctxt "calendar:day:digits"
+msgid "%d"
+msgstr "%d"
+
+msgctxt "calendar:week:digits"
+msgid "%d"
+msgstr "%d"
+
+msgid "calendar:week_start:0"
+msgstr "காலண்டர்: வீக்_ச்டார்ட்: 0"
+
+msgid "default:LTR"
+msgstr "இயல்புநிலை: எல்.டி.ஆர்"
+
+msgid "default:mm"
+msgstr "இயல்புநிலை: மிமீ"
+
+msgid "different idatas found for symlinked '%s' and '%s'\n"
+msgstr "'%s' மற்றும் '%s' ஆகியவற்றிற்கு வெவ்வேறு இடடாக்கள் காணப்படுகின்றன\n"
+
+msgid "inch"
+msgstr "அங்குலம்"
+
+msgctxt "input method menu"
+msgid "System"
+msgstr "மண்டலம்"
+
+msgctxt "input method menu"
+msgid "System (%s)"
+msgstr "அமைப்பு (%s)"
+
+msgctxt "keyboard label"
+msgid "Alt"
+msgstr "மாற்று"
+
+msgctxt "keyboard label"
+msgid "BackSpace"
+msgstr "பேக்ச்பேச்"
+
+msgctxt "keyboard label"
+msgid "Backslash"
+msgstr "பின்வாங்குதல்"
+
+msgctxt "keyboard label"
+msgid "Begin"
+msgstr "தொடங்கு"
+
+msgctxt "keyboard label"
+msgid "Ctrl"
+msgstr "கட்டுப்பாடு"
+
+msgctxt "keyboard label"
+msgid "Delete"
+msgstr "அழி"
+
+msgctxt "keyboard label"
+msgid "Down"
+msgstr "கீழே"
+
+msgctxt "keyboard label"
+msgid "End"
+msgstr "முடிவு"
+
+msgctxt "keyboard label"
+msgid "Escape"
+msgstr "தப்பிக்கும்"
+
+msgctxt "keyboard label"
+msgid "Home"
+msgstr "வீடு"
+
+msgctxt "keyboard label"
+msgid "Hyper"
+msgstr "ஐப்பர்"
+
+msgctxt "keyboard label"
+msgid "Insert"
+msgstr "செருகவும்"
+
+msgctxt "keyboard label"
+msgid "KP_Begin"
+msgstr "Kp_begin"
+
+msgctxt "keyboard label"
+msgid "KP_Delete"
+msgstr "Kp_delete"
+
+msgctxt "keyboard label"
+msgid "KP_Down"
+msgstr "Kp_down"
+
+msgctxt "keyboard label"
+msgid "KP_End"
+msgstr "Kp_end"
+
+msgctxt "keyboard label"
+msgid "KP_Enter"
+msgstr "Kp_enter"
+
+msgctxt "keyboard label"
+msgid "KP_Home"
+msgstr "Kp_home"
+
+msgctxt "keyboard label"
+msgid "KP_Insert"
+msgstr "Kp_insert"
+
+msgctxt "keyboard label"
+msgid "KP_Left"
+msgstr "Kp_left"
+
+msgctxt "keyboard label"
+msgid "KP_Next"
+msgstr "Kp_next"
+
+msgctxt "keyboard label"
+msgid "KP_Page_Down"
+msgstr "Kp_page_down"
+
+msgctxt "keyboard label"
+msgid "KP_Page_Up"
+msgstr "Kp_page_up"
+
+msgctxt "keyboard label"
+msgid "KP_Prior"
+msgstr "Kp_prior"
+
+msgctxt "keyboard label"
+msgid "KP_Right"
+msgstr "Kp_right"
+
+msgctxt "keyboard label"
+msgid "KP_Space"
+msgstr "Kp_space"
+
+msgctxt "keyboard label"
+msgid "KP_Tab"
+msgstr "Kp_tab"
+
+msgctxt "keyboard label"
+msgid "KP_Up"
+msgstr "Kp_up"
+
+msgctxt "keyboard label"
+msgid "Left"
+msgstr "இடது"
+
+msgctxt "keyboard label"
+msgid "Meta"
+msgstr "மெட்டா"
+
+msgctxt "keyboard label"
+msgid "Multi_key"
+msgstr "மல்டி_கே"
+
+msgctxt "keyboard label"
+msgid "Num_Lock"
+msgstr "Num_lock"
+
+msgctxt "keyboard label"
+msgid "Page_Down"
+msgstr "பக்கம்_ பேரூர்"
+
+msgctxt "keyboard label"
+msgid "Page_Up"
+msgstr "பக்கம்_அப்"
+
+msgctxt "keyboard label"
+msgid "Pause"
+msgstr "இடைநிறுத்தம்"
+
+msgctxt "keyboard label"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+msgctxt "keyboard label"
+msgid "Return"
+msgstr "திரும்ப"
+
+msgctxt "keyboard label"
+msgid "Right"
+msgstr "வலது"
+
+msgctxt "keyboard label"
+msgid "Scroll_Lock"
+msgstr "SCROLL_LOCK"
+
+msgctxt "keyboard label"
+msgid "Shift"
+msgstr "உயர்த்து"
+
+msgctxt "keyboard label"
+msgid "Space"
+msgstr "இடைவெளி"
+
+msgctxt "keyboard label"
+msgid "Super"
+msgstr "சூப்பர்"
+
+msgctxt "keyboard label"
+msgid "Sys_Req"
+msgstr "Sys_req"
+
+msgctxt "keyboard label"
+msgid "Tab"
+msgstr "தாவல்"
+
+msgctxt "keyboard label"
+msgid "Up"
+msgstr "மேலே"
+
+msgid "mm"
+msgstr "மிமீ"
+
+msgid "none"
+msgstr "எதுவுமில்லை"
+
+msgid "output.%s"
+msgstr "வெளியீடு.%s"
+
+msgctxt "paper size"
+msgid "#10 Envelope"
+msgstr "#10 உறை"
+
+msgctxt "paper size"
+msgid "#11 Envelope"
+msgstr "#11 உறை"
+
+msgctxt "paper size"
+msgid "#12 Envelope"
+msgstr "#12 உறை"
+
+msgctxt "paper size"
+msgid "#14 Envelope"
+msgstr "#14 உறை"
+
+msgctxt "paper size"
+msgid "#9 Envelope"
+msgstr "#9 உறை"
+
+msgctxt "paper size"
+msgid "10x11"
+msgstr "10x11"
+
+msgctxt "paper size"
+msgid "10x13"
+msgstr "10x13"
+
+msgctxt "paper size"
+msgid "10x14"
+msgstr "10x14"
+
+msgctxt "paper size"
+msgid "10x15"
+msgstr "10x15"
+
+msgctxt "paper size"
+msgid "11x12"
+msgstr "11x12"
+
+msgctxt "paper size"
+msgid "11x15"
+msgstr "11x15"
+
+msgctxt "paper size"
+msgid "12x19"
+msgstr "12x19"
+
+msgctxt "paper size"
+msgid "5x7"
+msgstr "5x7"
+
+msgctxt "paper size"
+msgid "6x9 Envelope"
+msgstr "6x9 உறை"
+
+msgctxt "paper size"
+msgid "7x9 Envelope"
+msgstr "7x9 உறை"
+
+msgctxt "paper size"
+msgid "9x11 Envelope"
+msgstr "9x11 உறை"
+
+msgctxt "paper size"
+msgid "A0"
+msgstr "A0"
+
+msgctxt "paper size"
+msgid "A0x2"
+msgstr "A0x2"
+
+msgctxt "paper size"
+msgid "A0x3"
+msgstr "A0 சிறிய 3"
+
+msgctxt "paper size"
+msgid "A1"
+msgstr "A1"
+
+msgctxt "paper size"
+msgid "A10"
+msgstr "A10"
+
+msgctxt "paper size"
+msgid "A1x3"
+msgstr "A1x3"
+
+msgctxt "paper size"
+msgid "A1x4"
+msgstr "A1x4"
+
+msgctxt "paper size"
+msgid "A2"
+msgstr "Aa"
+
+msgctxt "paper size"
+msgid "A2x3"
+msgstr "பிரதிபலிப்பு"
+
+msgctxt "paper size"
+msgid "A2x4"
+msgstr "ஃச் 4"
+
+msgctxt "paper size"
+msgid "A2x5"
+msgstr "பிரதிபலிப்பு"
+
+msgctxt "paper size"
+msgid "A3"
+msgstr "இருங்கள்"
+
+msgctxt "paper size"
+msgid "A3 Extra"
+msgstr "கூடுதல்"
+
+msgctxt "paper size"
+msgid "A3x3"
+msgstr "தலைகீழ்"
+
+msgctxt "paper size"
+msgid "A3x4"
+msgstr "நான் 4 ஐ பிரதிபலிக்கிறேன்"
+
+msgctxt "paper size"
+msgid "A3x5"
+msgstr "பிரதிபலிப்பு"
+
+msgctxt "paper size"
+msgid "A3x6"
+msgstr "மீளக்கூடிய"
+
+msgctxt "paper size"
+msgid "A3x7"
+msgstr "தலைகீழ்"
+
+msgctxt "paper size"
+msgid "A4"
+msgstr "இளஞ்சிவப்பு"
+
+msgctxt "paper size"
+msgid "A4 Extra"
+msgstr "A4 கூடுதல்"
+
+msgctxt "paper size"
+msgid "A4 Tab"
+msgstr "A4 தாவல்"
+
+msgctxt "paper size"
+msgid "A4x3"
+msgstr "A4 சியாவோ 3"
+
+msgctxt "paper size"
+msgid "A4x4"
+msgstr "A4x4"
+
+msgctxt "paper size"
+msgid "A4x5"
+msgstr "A4x5"
+
+msgctxt "paper size"
+msgid "A4x6"
+msgstr "A4x6"
+
+msgctxt "paper size"
+msgid "A4x7"
+msgstr "A4x7"
+
+msgctxt "paper size"
+msgid "A4x8"
+msgstr "A4 சியாவோ 8"
+
+msgctxt "paper size"
+msgid "A4x9"
+msgstr "A4x9"
+
+msgctxt "paper size"
+msgid "A5"
+msgstr "சகோதரர்"
+
+msgctxt "paper size"
+msgid "A5 Extra"
+msgstr "A5 கூடுதல்"
+
+msgctxt "paper size"
+msgid "A6"
+msgstr "சாம்பல்"
+
+msgctxt "paper size"
+msgid "A7"
+msgstr "A7"
+
+msgctxt "paper size"
+msgid "A8"
+msgstr "A8"
+
+msgctxt "paper size"
+msgid "A9"
+msgstr "ஆண்டவரே"
+
+msgctxt "paper size"
+msgid "Arch A"
+msgstr "வளைவு a"
+
+msgctxt "paper size"
+msgid "Arch B"
+msgstr "மான் ஆ"
+
+msgctxt "paper size"
+msgid "Arch C"
+msgstr "மான் சி"
+
+msgctxt "paper size"
+msgid "Arch D"
+msgstr "மான் டி"
+
+msgctxt "paper size"
+msgid "Arch E"
+msgstr "மான் இ"
+
+msgctxt "paper size"
+msgid "B0"
+msgstr "பி 0"
+
+msgctxt "paper size"
+msgid "B1"
+msgstr "பி 1"
+
+msgctxt "paper size"
+msgid "B10"
+msgstr "பி 10"
+
+msgctxt "paper size"
+msgid "B2"
+msgstr "பி.ஏ."
+
+msgctxt "paper size"
+msgid "B3"
+msgstr "அகழ்வாராய்ச்சி"
+
+msgctxt "paper size"
+msgid "B4"
+msgstr "பம்"
+
+msgctxt "paper size"
+msgid "B5"
+msgstr "பி 5"
+
+msgctxt "paper size"
+msgid "B5 Extra"
+msgstr "பி 5 கூடுதல்"
+
+msgctxt "paper size"
+msgid "B6"
+msgstr "பின்"
+
+msgctxt "paper size"
+msgid "B6/C4"
+msgstr "பி 6/சி 4"
+
+msgctxt "paper size"
+msgid "B7"
+msgstr "பி.எச்"
+
+msgctxt "paper size"
+msgid "B8"
+msgstr "பி 8"
+
+msgctxt "paper size"
+msgid "B9"
+msgstr "டல்லே"
+
+msgctxt "paper size"
+msgid "C0"
+msgstr "சி 0"
+
+msgctxt "paper size"
+msgid "C1"
+msgstr "சி 1"
+
+msgctxt "paper size"
+msgid "C10"
+msgstr "சி 10"
+
+msgctxt "paper size"
+msgid "C2"
+msgstr "சி 2"
+
+msgctxt "paper size"
+msgid "C3"
+msgstr "சி.சி."
+
+msgctxt "paper size"
+msgid "C4"
+msgstr "Cf"
+
+msgctxt "paper size"
+msgid "C5"
+msgstr "சி 5"
+
+msgctxt "paper size"
+msgid "C6"
+msgstr "சிஎச்எச்"
+
+msgctxt "paper size"
+msgid "C6/C5"
+msgstr "சி 6/சி 5"
+
+msgctxt "paper size"
+msgid "C7"
+msgstr "துருப்பு"
+
+msgctxt "paper size"
+msgid "C7/C6"
+msgstr "சி 7/சி 6"
+
+msgctxt "paper size"
+msgid "C8"
+msgstr "சி 8"
+
+msgctxt "paper size"
+msgid "C9"
+msgstr "சி 9"
+
+msgctxt "paper size"
+msgid "Choukei 2 Envelope"
+msgstr "ச ou கி 2 உறை"
+
+msgctxt "paper size"
+msgid "Choukei 3 Envelope"
+msgstr "ச ou கோய் 3 உறை"
+
+msgctxt "paper size"
+msgid "Choukei 4 Envelope"
+msgstr "ச ou கி 4 உறை"
+
+msgctxt "paper size"
+msgid "DL Envelope"
+msgstr "டி.எல் உறை"
+
+msgctxt "paper size"
+msgid "Dai-pa-kai"
+msgstr "பாராளுமன்ற கூட்டம்"
+
+msgctxt "paper size"
+msgid "European edp"
+msgstr "ஐரோப்பிய ஈடிபி"
+
+msgctxt "paper size"
+msgid "Executive"
+msgstr "நிர்வாகி"
+
+msgctxt "paper size"
+msgid "FanFold European"
+msgstr "ஃபேன்ஃபோல்ட் ஐரோப்பிய"
+
+msgctxt "paper size"
+msgid "FanFold German Legal"
+msgstr "ஃபேன்ஃபோல்ட் செர்மன் சட்ட"
+
+msgctxt "paper size"
+msgid "FanFold US"
+msgstr "எங்களை ஆராய்ந்தால்"
+
+msgctxt "paper size"
+msgid "Folio"
+msgstr "ஃபோலியோ"
+
+msgctxt "paper size"
+msgid "Folio sp"
+msgstr "ஃபோலியோ எச்பி"
+
+msgctxt "paper size"
+msgid "Government Legal"
+msgstr "அரசு சட்ட"
+
+msgctxt "paper size"
+msgid "Government Letter"
+msgstr "அரசாங்க கடிதம்"
+
+msgctxt "paper size"
+msgid "Index 3x5"
+msgstr "குறியீட்டு 3x5"
+
+msgctxt "paper size"
+msgid "Index 4x6 (postcard)"
+msgstr "குறியீட்டு 4x6 (அஞ்சலட்டை)"
+
+msgctxt "paper size"
+msgid "Index 4x6 ext"
+msgstr "குறியீட்டு 4x6 ext"
+
+msgctxt "paper size"
+msgid "Index 5x8"
+msgstr "குறியீட்டு 5x8"
+
+msgctxt "paper size"
+msgid "Invite Envelope"
+msgstr "உறை அழைக்கவும்"
+
+msgctxt "paper size"
+msgid "Invoice"
+msgstr "விலைப்பட்டியல்"
+
+msgctxt "paper size"
+msgid "Italian Envelope"
+msgstr "இத்தாலிய உறை"
+
+msgctxt "paper size"
+msgid "JB0"
+msgstr "JB0"
+
+msgctxt "paper size"
+msgid "JB1"
+msgstr "JB1"
+
+msgctxt "paper size"
+msgid "JB10"
+msgstr "JB10"
+
+msgctxt "paper size"
+msgid "JB2"
+msgstr "JB2"
+
+msgctxt "paper size"
+msgid "JB3"
+msgstr "பம்ப்"
+
+msgctxt "paper size"
+msgid "JB4"
+msgstr "JB4"
+
+msgctxt "paper size"
+msgid "JB5"
+msgstr "JB5"
+
+msgctxt "paper size"
+msgid "JB6"
+msgstr "JB6"
+
+msgctxt "paper size"
+msgid "JB7"
+msgstr "JB7"
+
+msgctxt "paper size"
+msgid "JB8"
+msgstr "சப் 8"
+
+msgctxt "paper size"
+msgid "JB9"
+msgstr "JB9"
+
+msgctxt "paper size"
+msgid "Monarch Envelope"
+msgstr "மோனார்க் உறை"
+
+msgctxt "paper size"
+msgid "Personal Envelope"
+msgstr "தனிப்பட்ட உறை"
+
+msgctxt "paper size"
+msgid "Postfix Envelope"
+msgstr "போச்ட்ஃபிக்ச் உறை"
+
+msgctxt "paper size"
+msgid "Quarto"
+msgstr "குவார்டோ"
+
+msgctxt "paper size"
+msgid "RA0"
+msgstr "RA0"
+
+msgctxt "paper size"
+msgid "RA1"
+msgstr "RA1"
+
+msgctxt "paper size"
+msgid "RA2"
+msgstr "மேய்ச்சல்"
+
+msgctxt "paper size"
+msgid "ROC 16k"
+msgstr "ROC 16K"
+
+msgctxt "paper size"
+msgid "ROC 8k"
+msgstr "ROC 8K"
+
+msgctxt "paper size"
+msgid "SRA0"
+msgstr "SRA0"
+
+msgctxt "paper size"
+msgid "SRA1"
+msgstr "SAR1"
+
+msgctxt "paper size"
+msgid "SRA2"
+msgstr "பிரகாசிக்கிறது"
+
+msgctxt "paper size"
+msgid "Small Photo"
+msgstr "சிறிய புகைப்படம்"
+
+msgctxt "paper size"
+msgid "Super A"
+msgstr "சூப்பர் ஏ"
+
+msgctxt "paper size"
+msgid "Super B"
+msgstr "சூப்பர் பி"
+
+msgctxt "paper size"
+msgid "Tabloid"
+msgstr "செய்திக்கும்"
+
+msgctxt "paper size"
+msgid "US Legal"
+msgstr "அமெரிக்க சட்ட"
+
+msgctxt "paper size"
+msgid "US Legal Extra"
+msgstr "அமெரிக்க சட்ட கூடுதல்"
+
+msgctxt "paper size"
+msgid "US Letter"
+msgstr "அமெரிக்க கடிதம்"
+
+msgctxt "paper size"
+msgid "US Letter Extra"
+msgstr "அமெரிக்க கடிதம் கூடுதல்"
+
+msgctxt "paper size"
+msgid "US Letter Plus"
+msgstr "அமெரிக்க கடிதம் பிளச்"
+
+msgctxt "paper size"
+msgid "Wide Format"
+msgstr "பரந்த வடிவம்"
+
+msgctxt "paper size"
+msgid "a2 Envelope"
+msgstr "A2 உறை"
+
+msgctxt "paper size"
+msgid "asme_f"
+msgstr "ASME_F"
+
+msgctxt "paper size"
+msgid "b-plus"
+msgstr "பி-பிளச்"
+
+msgctxt "paper size"
+msgid "c"
+msgstr "c"
+
+msgctxt "paper size"
+msgid "c5 Envelope"
+msgstr "சி 5 உறை"
+
+msgctxt "paper size"
+msgid "d"
+msgstr "டி"
+
+msgctxt "paper size"
+msgid "e"
+msgstr "இ"
+
+msgctxt "paper size"
+msgid "edp"
+msgstr "எடிபி"
+
+msgctxt "paper size"
+msgid "f"
+msgstr "f"
+
+msgctxt "paper size"
+msgid "hagaki (postcard)"
+msgstr "அஞ்சலட்டை (பு ச்ட் அல்லது ஆர்.டி)"
+
+msgctxt "paper size"
+msgid "jis exec"
+msgstr "JIS EXEC"
+
+msgctxt "paper size"
+msgid "juuro-ku-kai"
+msgstr "சூரா-கீப்"
+
+msgctxt "paper size"
+msgid "kahu Envelope"
+msgstr "லூவெபி லீலாலோ"
+
+msgctxt "paper size"
+msgid "kaku2 Envelope"
+msgstr "kaku2 உறை"
+
+msgctxt "paper size"
+msgid "oufuku (reply postcard)"
+msgstr "ஓஃபுகு (பதில் அஞ்சலட்டை)"
+
+msgctxt "paper size"
+msgid "pa-kai"
+msgstr "பா-கை"
+
+msgctxt "paper size"
+msgid "prc 16k"
+msgstr "பி.ஆர்.சி 16 கே"
+
+msgctxt "paper size"
+msgid "prc 32k"
+msgstr "பி.ஆர்.சி 32 கே"
+
+msgctxt "paper size"
+msgid "prc1 Envelope"
+msgstr "பி.ஆர்.சி 1 உறை"
+
+msgctxt "paper size"
+msgid "prc10 Envelope"
+msgstr "PRC10 உறை"
+
+msgctxt "paper size"
+msgid "prc2 Envelope"
+msgstr "பி.ஆர்.சி 2 உறை"
+
+msgctxt "paper size"
+msgid "prc3 Envelope"
+msgstr "பி.ஆர்.சி 3 உறை"
+
+msgctxt "paper size"
+msgid "prc4 Envelope"
+msgstr "prc4 உறை"
+
+msgctxt "paper size"
+msgid "prc5 Envelope"
+msgstr "பி.ஆர்.சி 5 உறை"
+
+msgctxt "paper size"
+msgid "prc6 Envelope"
+msgstr "prc6 உறை"
+
+msgctxt "paper size"
+msgid "prc7 Envelope"
+msgstr "prc7 உறை"
+
+msgctxt "paper size"
+msgid "prc8 Envelope"
+msgstr "prc8 உறை"
+
+msgctxt "paper size"
+msgid "you4 Envelope"
+msgstr "you4 உறை"
+
+msgid "paused"
+msgstr "இடைநிறுத்தப்பட்டது"
+
+msgctxt "print operation status"
+msgid "Blocking on issue"
+msgstr "சிக்கலில் தடுப்பு"
+
+msgctxt "print operation status"
+msgid "Finished"
+msgstr "முடிந்தது"
+
+msgctxt "print operation status"
+msgid "Finished with error"
+msgstr "பிழையுடன் முடிந்தது"
+
+msgctxt "print operation status"
+msgid "Generating data"
+msgstr "தரவை உருவாக்குதல்"
+
+msgctxt "print operation status"
+msgid "Initial state"
+msgstr "தொடக்க நிலை"
+
+msgctxt "print operation status"
+msgid "Preparing to print"
+msgstr "அச்சிடத் தயாராகிறது"
+
+msgctxt "print operation status"
+msgid "Printing"
+msgstr "அச்சிடுதல்"
+
+msgctxt "print operation status"
+msgid "Sending data"
+msgstr "தரவை அனுப்புகிறது"
+
+msgctxt "print operation status"
+msgid "Waiting"
+msgstr "காத்திருக்கிறது"
+
+msgid "printer offline"
+msgstr "அச்சுப்பொறி ஆஃப்லைனில்"
+
+msgid "processing job"
+msgstr "செயலாக்க வேலை"
+
+msgctxt "progress bar label"
+msgid "%d %%"
+msgstr "%d %%"
+
+msgid "ready to print"
+msgstr "அச்சிட தயாராக உள்ளது"
+
+msgctxt "recent menu label"
+msgid "%d. %s"
+msgstr "%d. %s"
+
+msgctxt "recent menu label"
+msgid "_%d. %s"
+msgstr "_%d. %s"
+
+msgid "test-output.%s"
+msgstr "சோதனை-வெளியீடு.%s"
+
+msgid "unknown"
+msgstr "தெரியவில்லை"
+
+msgid "unsupported RAS image variation"
+msgstr "ஆதரிக்கப்படாத RAS பட மாறுபாடு"
+
+msgctxt "volume percentage"
+msgid "%d %%"
+msgstr "%d %%"
+
+msgctxt "year measurement template"
+msgid "2000"
+msgstr "2000"
