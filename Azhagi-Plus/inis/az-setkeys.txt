@@ -1,0 +1,15 @@
+------General------
+Retain the language in Language bar
+
+------Common Mappings (Tamil)------
+Interchange the mappings of 'x' and 'X'
+Keep 'k' and 'sh' separated while typing 'ksh'
+Type 'kksh' to separate 'k' and 'sh'
+
+------Unicode Related Mappings (Tamil)------
+Map 'Q' to zwnj
+Map 'QQ' to zwj
+Keep 'S' and 'ree' separated while typing 'Sree', 'Srii' and 'srii'
+
+------Unicode Related Processing (Tamil)------
+Internally, use only 'Sh+ree' to form 'sri'

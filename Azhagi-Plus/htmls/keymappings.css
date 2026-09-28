@@ -1,0 +1,27 @@
+.ddef {
+  border-width : 1 1 1 1;
+  border-color : b0c4de; /* cccccc */
+  border-style : solid;  
+  color : 000000;
+  background-color:#ffffff;
+}
+
+.ddef4 {
+  border-width : 1 1 1 1;
+  border-color : cccccc;
+  border-style : solid;  
+  color : 000000;
+  background-color:#ffffff;
+}
+
+.cgreen2 {
+  color:#006400;
+}
+
+.dtj {
+  text-align:justify;
+}
+
+.cmidred2 {
+  color:#c00000;
+}

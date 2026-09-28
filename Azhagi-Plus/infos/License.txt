@@ -1,0 +1,22 @@
+Azhagi+
+Copyright ©  2000-2021  B. Viswanathan
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THIS SOFTWARE. YOUR USE OF THIS SOFTWARE MEANS THAT YOU ACCEPT THESE TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, THEN NO LICENSE IS GRANTED TO YOU AND YOU SHOULD NOT USE THIS SOFTWARE.  BY INSTALLING THIS SOFTWARE IN YOUR COMPUTER, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND CONDITIONS, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM.  IF YOU DO NOT AGREE TO THE FOLLOWING TERMS AND CONDITIONS, YOU SHOULD NOT USE THIS SOFTWARE.
+
+
+Azhagi+ End-User Software License Agreement
+-------------------------------------------------------------------
+1. SOFTWARE LICENSE.   
+You are granted license to use Azhagi+ on any number of computers for any use (personal or commercial), free of charge.
+ 
+2. USAGE RIGHTS AND RESTRICTIONS
+a. You shall not rent, lease, sell, or do any such equivalent act with this software.
+b. The software is owned by the author of this software, and it's structure, organization, code etc. are entirely his work. You shall not create any derivative works of this software or it's documentation. You shall not modify, adapt, translate, decompile, disassemble, reverse engineer,  or otherwise attempt to derive the source code for this software. You shall not disable this software by any means or in any manner.
+c. You acknowledge and agree that the author owns all ownership and intellectual property rights in this software. You agree that you shall take no action that might jeopardize, limit, or interfere in any way with the author's ownership or other rights regarding this software. 
+--- Note : 'Software' refers to 'Azhagi-Plus.exe' (available for free download from www.azhagi.com) and all it's related author-generated files and 'Author' refers to Viswanathan Balasubramanian (noblehearted@gmail.com)
+  
+3. DISCLAIMER
+You use Azhagi+ at your own risk. No assurance is given that the software is free of errors or that all options or parts of the program will work perfectly all the time in all computer systems. THE ENTIRE RISK ARISING OUT OF INSTALLATION, USE, PERFORMANCE OR NON-PERFORMANCE OF THIS SOFTWARE REMAINS WITH YOU. This software is provided "as is" without warranty of any kind and in no event, shall the author of this software or any related entity be liable for any damages (including damages to your computer or it's accessories) arising out of installation of the software or use of  or inability to use the software, whatsoever including direct, indirect, incidental, loss of data or profits, business interruption, special, exemplary or consequential damages, even if advised of the possibility of such damages.
+
+Azhagi+
+Copyright ©  2000-2021  B. Viswanathan
