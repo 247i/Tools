@@ -1,0 +1,10 @@
+End of Transmission (SK)     =...-.-
+Clear (Going off air, CL)    =-.-..-..
+Separation (Break Text, BT)  =-...-
+Wait (Stand By, AS)          =.-...
+Over (Go Ahead, K)           =-.-
+End of Message (AR)          =.-.-.
+Roger (Received message, R)  =.-.
+Distress (SOS)               =...---...
+Warning                      =.-..-
+Error                        =........

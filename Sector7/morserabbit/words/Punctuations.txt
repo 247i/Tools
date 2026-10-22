@@ -1,0 +1,13 @@
+Period (Full stop)       =.-.-.-
+Comma                    =--..--
+Colon                    =---...
+Semi colon               =-.-.-.
+Hyphen                   =-....-
+Question mark (Query)    =..--..
+Apostrophe	             =.----.
+Brackets (parentheses)   =-.--.-
+Quotation marks          =.-..-.
+At sign                  =.--.-.
+Slash 									 =-..-.
+Equals sign              =-...-
+Plus sign                =.-.-.

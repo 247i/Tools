@@ -1,0 +1,10 @@
+I acknowledge receipt		 =QSL	
+Do you acknowledge?	     =QSL?	
+Wait                     =QRX	
+Should I wait?           =QRX?	
+I am ready to copy       =QRV	
+Are you ready to copy?   =QRV?	
+The frequency is in use  =QRL	
+Is the frequency in use? =QRL?	
+My location is           =QTH	
+What is your location?   =QTH?	
