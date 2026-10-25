@@ -5,12 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.23">
-<title>Wireshark 4.6.8 Release Notes</title>
+<title>Wireshark 4.6.9 Release Notes</title>
 <link rel="stylesheet" href="./ws.css">
 </head>
 <body class="article">
 <div id="header">
-<h1>Wireshark 4.6.8 Release Notes</h1>
+<h1>Wireshark 4.6.9 Release Notes</h1>
 </div>
 <div id="content">
 <div class="sect1">
@@ -45,6 +45,232 @@ If you or your organization would like to contribute or become a sponsor, please
 <div class="ulist">
 <ul>
 <li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-92">wnpa-sec-2026-92</a> <!-- notable -->
+ZigBee ZCL protocol dissector crash.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95391">CVE-2026-95391</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-93">wnpa-sec-2026-93</a> <!-- notable -->
+SCTP protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21481">Issue 21481</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95389">CVE-2026-95389</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-94">wnpa-sec-2026-94</a> <!-- notable -->
+TTL file parser infinite loop.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21501">Issue 21501</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95386">CVE-2026-95386</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-95">wnpa-sec-2026-95</a> <!-- notable -->
+PEAK CAN TRC file parser crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21503">Issue 21503</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95390">CVE-2026-95390</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-96">wnpa-sec-2026-96</a> <!-- notable -->
+IEEE C37.118 Synchrophasor protocol dissector memory leak.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21492">Issue 21492</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95395">CVE-2026-95395</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-97">wnpa-sec-2026-97</a> <!-- notable -->
+SPDY protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21487">Issue 21487</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95387">CVE-2026-95387</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-98">wnpa-sec-2026-98</a> <!-- notable -->
+Microsoft Network Monitor file parser large loop.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21523">Issue 21523</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95394">CVE-2026-95394</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-99">wnpa-sec-2026-99</a> <!-- notable -->
+CSN.1 protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21510">Issue 21510</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95393">CVE-2026-95393</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-100">wnpa-sec-2026-100</a> <!-- notable -->
+MBIM protocol dissector crash.
+wsbuglink:21549, <a href="https://gitlab.com/wireshark/wireshark/-/issues/21550">Issue 21550</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95392">CVE-2026-95392</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-101">wnpa-sec-2026-101</a> <!-- notable -->
+Sharkd utility crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21545">Issue 21545</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-95388">CVE-2026-95388</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-102">wnpa-sec-2026-102</a> <!-- notable -->
+Frame protocol metadissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21525">Issue 21525</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96422">CVE-2026-96422</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-103">wnpa-sec-2026-103</a> <!-- notable -->
+USB HID protocol dissector infinite loop and memory leak.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21566">Issue 21566</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96421">CVE-2026-96421</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-104">wnpa-sec-2026-104</a> <!-- notable -->
+RF4CE protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21574">Issue 21574</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96417">CVE-2026-96417</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-105">wnpa-sec-2026-105</a> <!-- notable -->
+Toshiba file parser crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21541">Issue 21541</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96420">CVE-2026-96420</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-106">wnpa-sec-2026-106</a> <!-- notable -->
+Profile import crash and possible code execution.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21553">Issue 21553</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96419">CVE-2026-96419</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-107">wnpa-sec-2026-107</a> <!-- notable -->
+TIFF protocol dissector infinite loop.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21565">Issue 21565</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96418">CVE-2026-96418</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-108">wnpa-sec-2026-108</a> <!-- notable -->
+X11 protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21563">Issue 21563</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96423">CVE-2026-96423</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-109">wnpa-sec-2026-109</a> <!-- notable -->
+IEEE 802.11 protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21564">Issue 21564</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96416">CVE-2026-96416</a>.</p>
+</li>
+<li>
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-110">wnpa-sec-2026-110</a> <!-- notable -->
+Catapult DCT2000 protocol dissector crash.
+<a href="https://gitlab.com/wireshark/wireshark/-/issues/21589">Issue 21589</a>.
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-96415">CVE-2026-96415</a>.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The following bugs have been fixed:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>DICOM Export Objects uint32 length wrap causes undersized allocation and heap overwrite. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21497">Issue 21497</a>.</p>
+</li>
+<li>
+<p>DICOM AT value formatting has quadratic packet-scope memory amplification. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21498">Issue 21498</a>.</p>
+</li>
+<li>
+<p>F1AP: NotificationInformation IE under PWSSystemInformation.iE-Extensions not decoded in WriteReplaceWarningRequest. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21499">Issue 21499</a>.</p>
+</li>
+<li>
+<p>ZDI-CAN-32846: Wireshark LBMC Fragment Reassembly Integer Overflow Remote Code Execution Vulnerability. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21519">Issue 21519</a>.</p>
+</li>
+<li>
+<p>ZDI-CAN-32851: Wireshark LoRaWAN Decryption Numeric Truncation Error Remote Code Execution Vulnerability. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21520">Issue 21520</a>.</p>
+</li>
+<li>
+<p>RTPS: dissect_RTPS_DATA_BATCH() sample-info minimum-length check increments the wrong variable (min_len instead of min_length) <a href="https://gitlab.com/wireshark/wireshark/-/issues/21521">Issue 21521</a>.</p>
+</li>
+<li>
+<p>NULL-pointer dereference in pkcs12 PBE_decrypt_data via empty AlgorithmIdentifier. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21535">Issue 21535</a>.</p>
+</li>
+<li>
+<p>AKP EncryptedData footer can use an uninitialized tvbuff pointer after malformed OCTET STRING parsing. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21539">Issue 21539</a>.</p>
+</li>
+<li>
+<p>Out-of-bounds read in DFVM binary-operation error path. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21540">Issue 21540</a>.</p>
+</li>
+<li>
+<p>Wireshark is not ignoring GREASE values in the JA4 calculation. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21548">Issue 21548</a>.</p>
+</li>
+<li>
+<p>Bluetooth AVCTP multipart reassembly integer overflow (incomplete AVRCP ckd_add sibling fix) <a href="https://gitlab.com/wireshark/wireshark/-/issues/21552">Issue 21552</a>.</p>
+</li>
+<li>
+<p>Fuzz job UTF-8 encoding issue: fuzz-2026-09-06-16330342486.pcap. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21562">Issue 21562</a>.</p>
+</li>
+<li>
+<p>ZDI-CAN-31676: Wireshark SMB Object Export Integer Overflow. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21575">Issue 21575</a>.</p>
+</li>
+<li>
+<p>Heap out-of-bounds read in FP Hint E-DCH DDI count handling. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21580">Issue 21580</a>.</p>
+</li>
+<li>
+<p>F1AP fails to decode RRC release message. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21581">Issue 21581</a>.</p>
+</li>
+<li>
+<p>Stack-based buffer overflow in etwdump extcap (etw_ndiscap.c) when parsing crafted ETL files. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21587">Issue 21587</a>.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_new_and_updated_features">New and Updated Features</h3>
+
+</div>
+<div class="sect2">
+<h3 id="_new_protocol_support">New Protocol Support</h3>
+<div class="paragraph">
+<p>There are no new protocols in this release.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_updated_protocol_support">Updated Protocol Support</h3>
+<div class="paragraph">
+<p>AKP, Bencode, BSSLAP, BT AVCTP, Catapult DCT2000, CSN.1, DICOM, F1AP, FP Hint, Frame, GNW, GSM BSSMAP, IEEE 802.11, LBMC, LoRaWAN, NBAP, OBEX, OpenFlow 1.3, OpenFlow 1.4, OpenFlow 1.5, PKCS12, QUIC, RTPS, SGP.32, SMB, SPDY, SYNCHROPHASOR, UMTS FP, X11, and ZigBee ZCL</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_new_and_updated_capture_file_support">New and Updated Capture File Support</h3>
+<div class="paragraph">
+<p>BLF, Network Monitor, pcapng, PEAK TRC, Toshiba, and TTL</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_new_and_updated_file_format_decoding_support">New and Updated File Format Decoding Support</h3>
+<div class="paragraph">
+<p>There is no new or updated file format support in this release.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_plugin_development_changes">Plugin Development Changes</h3>
+<div class="paragraph">
+<p>On UN*X systems (excluding macOS when running from an app bundle, as
+with the official installer) extcap binaries are now searched for under
+the libexec directory by default, e.g., <code>/usr/libexec/wireshark/extcap</code>
+instead of <code>/usr/lib64/wireshark/extcap</code> or similar. This is the customary
+place for helper binaries, which as opposed to libraries do not need
+multiarch support. The location can be overridden via the environment
+variable WIRESHARK_EXTCAP_DIR. The extcap binaries shipped with Wireshark
+are installed in the new location, but third party extcaps may need
+packaging changes. This change was effective in version 4.6.0, but was not
+explicitly noted in the release notes previously. Note that some distributions
+do not use a libexec directory, such as Alpine Linux, which does not have
+multilib support. On such systems extcap binaries should be in the same
+location as before.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_prior_versions">Prior Versions</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_wireshark_4_6_8_included_the_following_changes">Wireshark 4.6.8 included the following changes.</h3>
+<div class="ulist">
+<ul>
+<li>
 <p><a href="https://www.wireshark.org/security/wnpa-sec-2026-64">wnpa-sec-2026-64</a>
 sharkd crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21395">Issue 21395</a>.</p>
@@ -55,143 +281,136 @@ sharkd crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21399">Issue 21399</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-66">wnpa-sec-2026-66</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-66">wnpa-sec-2026-66</a>
 UMTS FP protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21413">Issue 21413</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-67">wnpa-sec-2026-67</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-67">wnpa-sec-2026-67</a>
 RDP protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21396">Issue 21396</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-68">wnpa-sec-2026-68</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-68">wnpa-sec-2026-68</a>
 TTX Logger file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21389">Issue 21389</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-69">wnpa-sec-2026-69</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-69">wnpa-sec-2026-69</a>
 Dissection engine reassembly crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21423">Issue 21423</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-70">wnpa-sec-2026-70</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-70">wnpa-sec-2026-70</a>
 BUSMASTER file parser abnormal exit.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21435">Issue 21435</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-71">wnpa-sec-2026-71</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-71">wnpa-sec-2026-71</a>
 Tektronix K12xx file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21414">Issue 21414</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-72">wnpa-sec-2026-72</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-72">wnpa-sec-2026-72</a>
 ERF file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21415">Issue 21415</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-73">wnpa-sec-2026-73</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-73">wnpa-sec-2026-73</a>
 Bluetooth Attribute Protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21424">Issue 21424</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-74">wnpa-sec-2026-74</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-74">wnpa-sec-2026-74</a>
 Catapult DCT2000 file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21427">Issue 21427</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-75">wnpa-sec-2026-75</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-75">wnpa-sec-2026-75</a>
 C12.22 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21439">Issue 21439</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-76">wnpa-sec-2026-76</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-76">wnpa-sec-2026-76</a>
 CMS protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21446">Issue 21446</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-77">wnpa-sec-2026-77</a> <!-- notable -->
-H.245 protocol dissector {crash,infinite loop,memory leak}.
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-77">wnpa-sec-2026-77</a>
+H.245 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21447">Issue 21447</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-78">wnpa-sec-2026-78</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-78">wnpa-sec-2026-78</a>
 Kerberos protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21449">Issue 21449</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-79">wnpa-sec-2026-79</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-79">wnpa-sec-2026-79</a>
 Bluetooth HFP Profile protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21451">Issue 21451</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-80">wnpa-sec-2026-80</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-80">wnpa-sec-2026-80</a>
 Bluetooth BR/EDR FHS protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21452">Issue 21452</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-81">wnpa-sec-2026-81</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-81">wnpa-sec-2026-81</a>
 3gpp phone log file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21454">Issue 21454</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-82">wnpa-sec-2026-82</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-82">wnpa-sec-2026-82</a>
 Ixia IxVeriWave and Vector Informatik BLF file parser crashes on Windows.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21455">Issue 21455</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-83">wnpa-sec-2026-83</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-83">wnpa-sec-2026-83</a>
 CMS protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21457">Issue 21457</a>, <a href="https://gitlab.com/wireshark/wireshark/-/issues/21458">Issue 21458</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-84">wnpa-sec-2026-84</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-84">wnpa-sec-2026-84</a>
 Pcapng file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21460">Issue 21460</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-85">wnpa-sec-2026-85</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-85">wnpa-sec-2026-85</a>
 SSH protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21465">Issue 21465</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-86">wnpa-sec-2026-86</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-86">wnpa-sec-2026-86</a>
 ESS protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21467">Issue 21467</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-87">wnpa-sec-2026-87</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-87">wnpa-sec-2026-87</a>
 X.509IF protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21469">Issue 21469</a>.
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-xxx">CVE-2026-xxx</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-88">wnpa-sec-2026-88</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-88">wnpa-sec-2026-88</a>
 RRC protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21478">Issue 21478</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-89">wnpa-sec-2026-89</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-89">wnpa-sec-2026-89</a>
 C12.22 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21480">Issue 21480</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-90">wnpa-sec-2026-90</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-90">wnpa-sec-2026-90</a>
 Gammu DCT3 trace file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21475">Issue 21475</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-91">wnpa-sec-2026-91</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-91">wnpa-sec-2026-91</a>
 Bluetooth AVRCP Profile protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21488">Issue 21488</a>.</p>
 </li>
-</ul>
-</div>
-<div class="paragraph">
-<p>The following bugs have been fixed:</p>
-</div>
-<div class="ulist">
-<ul>
 <li>
 <p>Fuzz job crash: randpkt-2026-05-22-14496207576.pcap. <a href="https://gitlab.com/wireshark/wireshark/-/issues/21266">Issue 21266</a>.</p>
 </li>
@@ -271,107 +490,61 @@ Bluetooth AVRCP Profile protocol dissector crash.
 </div>
 </div>
 <div class="sect2">
-<h3 id="_new_and_updated_features">New and Updated Features</h3>
-
-</div>
-<div class="sect2">
-<h3 id="_new_protocol_support">New Protocol Support</h3>
-<div class="paragraph">
-<p>There are no new protocols in this release.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_updated_protocol_support">Updated Protocol Support</h3>
-<div class="paragraph">
-<p>ANSI_TCAP, ASN.1 BER, ASTERIX, BT ATT, BT AVRCP, BT BR/EDR RF, BT HFP, C12.22, CIGI, CMS, COSEM, EBHSCR, ESS, FP, GSM SIM, GTPv2, H.245, Kerberos, KNX/IP, LBMSRS, NAS-5GS, RELOAD, Rlogin, RRC, SSH, X.509AF, and X.509IF</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_new_and_updated_capture_file_support">New and Updated Capture File Support</h3>
-<div class="paragraph">
-<p>3gpp phone log, BLF, Busmaster, Catapult DCT2000, Daintree SNA, Endace ERF, Gammu DCT3, pcapng, RTPDump, Sniffer, Tektronix K12xx, and TTTech Computertechnik TTL</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_new_and_updated_file_format_decoding_support">New and Updated File Format Decoding Support</h3>
-<div class="paragraph">
-<p>There is no new or updated file format support in this release.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_plugin_development_changes">Plugin Development Changes</h3>
-<div class="paragraph">
-<p>On UN*X systems (excluding macOS when running from an app bundle, as
-with the official installer) extcap binaries are now searched for under
-the libexec directory by default, e.g., <code>/usr/libexec/wireshark/extcap</code>
-instead of <code>/usr/lib64/wireshark/extcap</code> or similar. This is the customary
-place for helper binaries, which as opposed to libraries do not need
-multiarch support. The location can be overridden via the environment
-variable WIRESHARK_EXTCAP_DIR. The extcap binaries shipped with Wireshark
-are installed in the new location, but third party extcaps may need
-packaging changes. This change was effective in version 4.6.0, but was not
-explicitly noted in the release notes previously. Note that some distributions
-do not use a libexec directory, such as Alpine Linux, which does not have
-multilib support. On such systems extcap binaries should be in the same
-location as before.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_prior_versions">Prior Versions</h2>
-<div class="sectionbody">
-<div class="sect2">
 <h3 id="_wireshark_4_6_7_included_the_following_changes">Wireshark 4.6.7 included the following changes.</h3>
+<div class="paragraph">
+<p>See the
+<a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.7.html">release notes</a>
+for details:</p>
+</div>
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-52">wnpa-sec-2026-52</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-52">wnpa-sec-2026-52</a>
 Catapult DCT2000 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21270">Issue 21270</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-53">wnpa-sec-2026-53</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-53">wnpa-sec-2026-53</a>
 pcapng file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21285">Issue 21285</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-54">wnpa-sec-2026-54</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-54">wnpa-sec-2026-54</a>
 FMP/NOTIFY protocol dissector large loop.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21347">Issue 21347</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-55">wnpa-sec-2026-55</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-55">wnpa-sec-2026-55</a>
 SSH protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21378">Issue 21378</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-56">wnpa-sec-2026-56</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-56">wnpa-sec-2026-56</a>
 TLS ECH decryption crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21390">Issue 21390</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-57">wnpa-sec-2026-57</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-57">wnpa-sec-2026-57</a>
 IEEE 802.11 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21391">Issue 21391</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-58">wnpa-sec-2026-58</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-58">wnpa-sec-2026-58</a>
 Z39.50 protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21397">Issue 21397</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-59">wnpa-sec-2026-59</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-59">wnpa-sec-2026-59</a>
 UMTS FP protocol dissector crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21398">Issue 21398</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-60">wnpa-sec-2026-60</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-60">wnpa-sec-2026-60</a>
 BLF file parser information disclosure.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21361">Issue 21361</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-61">wnpa-sec-2026-61</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-61">wnpa-sec-2026-61</a>
 Multiple protocol dissector infinite loops.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21275">Issue 21275</a>,
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21277">Issue 21277</a>,
@@ -379,12 +552,12 @@ Multiple protocol dissector infinite loops.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21383">Issue 21383</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-62">wnpa-sec-2026-62</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-62">wnpa-sec-2026-62</a>
 DBS Etherwatch file parser crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21352">Issue 21352</a>.</p>
 </li>
 <li>
-<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-63">wnpa-sec-2026-63</a> <!-- notable -->
+<p><a href="https://www.wireshark.org/security/wnpa-sec-2026-63">wnpa-sec-2026-63</a>
 Ciscodump extcap crash.
 <a href="https://gitlab.com/wireshark/wireshark/-/issues/21375">Issue 21375</a>.</p>
 </li>
@@ -443,7 +616,7 @@ Ciscodump extcap crash.
 <h3 id="_wireshark_4_6_6_included_the_following_changes">Wireshark 4.6.6 included the following changes.</h3>
 <div class="paragraph">
 <p>See the
-<a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.5.html">release notes</a>
+<a href="https://www.wireshark.org/docs/relnotes/wireshark-4.6.6.html">release notes</a>
 for details:</p>
 </div>
 <div class="ulist">
